@@ -28,7 +28,16 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1886497328.
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpPrPSec7yd6CH0yOYfEp_hEE7VrRTAQ3hOjSmVS2Urp)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1,MUSICA:PortalFoxMix 
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w557613270.m3u8
+
+#EXTINF:-1,MUSICA:RetroPlus01
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1093873605.m3u8
+
+#EXTINF:-1,MUSICA:RetroPlus02
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1754321786.m3u8
+
+#EXTINF:-1,MUSICA:RetroPlus03
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1501555944.m3u8
 
 #EXTINF:-1,24/7:ELCHAVO8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w955650622.m3u8
