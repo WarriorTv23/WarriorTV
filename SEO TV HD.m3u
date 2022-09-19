@@ -48,13 +48,37 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1,MUSICA:RetroPlus03
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1501555944.m3u8
 
-#EXTINF:-1,MUSICA:TheRetroChanel
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1,MUSICA:MTV
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/87_.m3u8?token=NOdtgfwWHFgDeaAjjVvSTg&expires=1663643286
+
+#EXTINF:-1,MUSICA:HTV
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/89_.m3u8?token=zndiSSv_-86SVAjHWigcsw&expires=1663643349
+
+#EXTINF:-1,MUSICA:MTV2000s
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/120_.m3u8?token=7BXFvc8mG6SXfbzoqp_IVg&expires=1663643411
+
+#EXTINF:-1,MUSICA:TOPLATINO
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/123_.m3u8?token=FGbWd9x6RLKfPEOmRI8YxQ&expires=1663643480
+
+#EXTINF:-1,24/7:ElPrincipeDelRap
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/358_.m3u8?token=Pm5BEk63ofGMqD6k08FVCw&expires=1663643879
 
 #EXTINF:-1,24/7:ELCHAVO8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w955650622.m3u8
 
+#EXTINF:-1,24/7:CHESPIRITO
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/355_.m3u8?token=YaBfYBbThcjslxeTueBH_A&expires=1663644216
+
 #EXTINF:-1,24/7:SIMPSONS01
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CowFirC_pXZuJIBvES_l8X3NE8-dGCTOA7aUZ-zxdVXjj23LBeOazQlPEIxja5Iq_Tcbaks0IfyEFuGo9bpxUfQJahLS1FXUxtOIuoSN6Oqc-q9tKu-yOFVQN_Qmws0pgToMiN9vnK7bOtvLof4UEOTrsTWVFQxn3bX857wNLXyTMfmtwQvzHEvOzgh_5ANINLESl1cdNelgVCxPGICsa41onTbeHQDai9P9pO41z1K53eSYKCRZ8N2r94muwqlDVbCFspq6PuaKy0k_07KvtfbZeDhMHSzNZXOz90xUjFVsq0lj_XTf8uvYwvb5QZGyrkBJWqvTFfzV9WuiBm2pojZ6_aMeBpNpwvp96t1AbEDr2RMyx9VwNxZKacQxci2K57sas35DSwQrYQLiIptQPa24S6-KFjzevaChYVhY6OK3UNKgCOJrSkzNTGswU1P1rVwdDmubq7Tvp-bU1glGVyZCwXHAm_HVeLwStaWlZ5TneM-E7RzNFkXZdyTT2IqWbsgoMp9d3VAMPoMLtP72HoE4PPUDRkpMWKqAdZ5j9gvDic67wTPSG1PQtshID-6clbR1ZLhBQrg6uhQ2iwHeC0lKKn_Vz6y8xGJLWudKrj_FrUmuov3KqmPHjGg2SbdwUEAVY2W9ZrFmqLC2xlCLNuz6scdOrvks-7ZSJE5tJ9FZDpL-cngF1pjqjaoTzKaK_5HXFIidOOLhchtHlPp1NiL2O6FRi_ZcO5OKeCUroYyiY0kkRXvvoXUA52-LSKqGkXYNMu6Nx7bkD8tw6VasX6YRlPrMvxUgYPUWwPTbI0RgAKwdkM-SBh7EG5hnbtpd1t_Xbpj__sOGTcOQ2onNlrETh2SXirvL-d5QfiJ4oBoMLnVSTZYWc8861878IAEqCWV1LXdlc3QtMjDcBA.m3u8
+
+#EXTINF:-1,24/7:SOUTHPARK
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/146_.m3u8?token=ElD8KIFId_E28XV5Ctiqog&expires=1663642892
+
+#EXTINF:-1,24/7:ALF
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/128_.m3u8?token=AWhJiSxF5qXQ9mgEz9siEQ&expires=1663643177
+
+#EXTINF:-1,24/7:TERROR
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/196_.m3u8?token=2ejmvf7UZOvmqDCuX2B-qA&expires=1663643106
 
 
