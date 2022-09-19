@@ -1,7 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1,SEOTv01
+#EXTINF:-1,BO:SEOTv01
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
+#EXTINF:-1,BO:UNITEL
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0iV08M40BECthrAUUquI6wRM2S8OY8g2KTEq2ooihgF)/dm/3/x7wzxiw/s/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1,BO:ATB
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqxSDgDDpaSqWH2rrplpYTolDwSDTNLI3Xg1rOoc0ld6)/dm/3/x84eirw/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1,BO:PAT
+https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BO:TVULP
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w562332466.m3u8
+
+#EXTINF:-1,BO:TVUSucre
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w367082054_b2064000.m3u8
+
+#EXTINF:-1,BO:RTP
+https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
+
+#EXTINF:-1,BO:CADENA A
+https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1886497328.m3u8
+
+#EXTINF:-1,BO:REDUNOLP
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpPrPSec7yd6CH0yOYfEp_hEE7VrRTAQ3hOjSmVS2Urp)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1,MUSICA:PortalFoxMix 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,24/7:ELCHAVO8
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w955650622.m3u8
+
