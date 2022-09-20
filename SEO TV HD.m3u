@@ -1,46 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1,BO:SEOTvHD01
+#EXTINF:-1,BO:SEOTv(HD)01
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
-#EXTINF:-1,BO:SEOTvKIDS02
+#EXTINF:-1,BO:SEOTv(KIDS)02
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
-#EXTINF:-1,BO:SEOTvNOVELAS03
+#EXTINF:-1,BO:SEOTv(NOVELAS)03
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1,BO:SEOTvDEPORTES04
+#EXTINF:-1,BO:SEOTv(DEPORTES)04
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 
 #EXTINF:-1,BO:UNITEL
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0iV08M40BECthrAUUquI6wRM2S8OY8g2KTEq2ooihgF)/dm/3/x7wzxiw/s/live-2.m3u8#cell=lnyc
 
+#EXTINF:-1,BO:BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1,BO:BOLIVISION(SEÑAL2)
+https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
+
 #EXTINF:-1,BO:ATB
-https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOqxSDgDDpaSqWH2rrplpYTolDwSDTNLI3Xg1rOoc0ld6)/dm/3/x84eirw/d/live-2.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnJ5AnCWH8jfx5hJflde7FUUjMVkR4w0BqEKE39_hJe-)/dm/3/x84eirw/d/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1,BO:PAT
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BO:TVULP
+#EXTINF:-1,BO:TVU(LAPAZ)
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w562332466.m3u8
 
-#EXTINF:-1,BO:TVUSucre
+#EXTINF:-1,BO:TVU(Sucre)
 https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w367082054_b2064000.m3u8
 
 #EXTINF:-1,BO:RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
 
-#EXTINF:-1,BO:CADENA A
+#EXTINF:-1,BO:CADENA(A)
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1886497328.m3u8
 
-#EXTINF:-1,BO:REDUNOLP
+#EXTINF:-1,BO:REDUNO(LP)
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpPrPSec7yd6CH0yOYfEp_hEE7VrRTAQ3hOjSmVS2Urp)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1,PE:GOLPERU
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/6_.m3u8?token=PgoAzb2QnY8qp4YDcZMV5Q&expires=1663645974
+https://2200.janjua.pw:8088/adfree/zeus123/playlist.m3u8?vidictid=192555564119&id=108146&pk=6d5f4aabe57fd39fca597442b4a7627063d40374ec2313c597a4d60ddd66b926
 
 #EXTINF:-1,PE:GOLTV
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/7_.m3u8?token=dRSnutzvKJ1u_gDpkUguDg&expires=1663646040
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/7_.m3u8?token=6G9Wg7UGyHTXvUFD5JAX9w&expires=1663699214
 
 #EXTINF:-1,PE:PANAMERICANA
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFmfBiNYJTEQ1COiSPlOGyYdHeyi28pJkCVoNv2pOpxiH)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
@@ -87,8 +93,8 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1,DEPORTES:MOVISTAR
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/194_.m3u8?token=urHQMnUCLrArHN4pivkDvg&expires=1663652067
 
-#EXTINF:-1,DEPORTES:MOVISTARF1
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/199_.m3u8?token=uFM3k5tCt7rW1HTxit9Qtg&expires=1663651982
+#EXTINF:-1,DEPORTES:MOVISTAR(F1)
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/199_.m3u8?token=PEeHC5Iz1axPhtvLGBnhfw&expires=1663699595
 
 #EXTINF:-1,DEPORTES:TNTSPORTS
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/9_.m3u8?token=ikKSjTg2cucXfwAi7IXHEg&expires=1663652111
