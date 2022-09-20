@@ -60,11 +60,50 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1,CHI:SOBERANIA
 https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w2084350720.m3u8
 
-#EXTINF:-1,CHI:SOBERANIAMUSIC
-https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w552166758.m3u8
+#EXTINF:-1,CHI:VIWIXTv(ACCION)
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
+
+#EXTINF:-1,CHI:VIWIXTv(ESTRENOS)
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
+
+#EXTINF:-1,CHI:VIWIXTv(SERIES)
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
+
+#EXTINF:-1,CHI:VIWIXTv(TERROR)
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
 #EXTINF:-1,CHI:BIOBIO9
 https://unlimited1-us.dps.live/c9/c9.smil/c9/livestream0/chunks.m3u8?nimblesessionid=23340790
+
+#EXTINF:-1,PANAM:TVN
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1,PANAM:TVN(MAX)
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1,DEPORTES:MOVISTAR
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/194_.m3u8?token=urHQMnUCLrArHN4pivkDvg&expires=1663652067
+
+#EXTINF:-1,DEPORTES:MOVISTARF1
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/199_.m3u8?token=uFM3k5tCt7rW1HTxit9Qtg&expires=1663651982
+
+#EXTINF:-1,DEPORTES:TNTSPORTS
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/9_.m3u8?token=ikKSjTg2cucXfwAi7IXHEg&expires=1663652111
+
+#EXTINF:-1,DEPORTES:BEIN(SPORTS)
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/23_.m3u8?token=p_sInJl1jVvw9uqdQm1sRw&expires=1663652166
+
+#EXTINF:-1,DEPORTES:FOXSPORTS01
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/12_.m3u8?token=fJq0a-5egLW7JhcFUUHLAw&expires=1663652247
+
+#EXTINF:-1,DEPORTES:FOXSPORTS02
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/13_.m3u8?token=GDx-s2Hmtc29XGCNlI6chA&expires=1663652293
+
+#EXTINF:-1,DEPORTES:FOXSPORTS03
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/14_.m3u8?token=YhISFR1_X6YApzkg8JhrIw&expires=1663652320
+
+#EXTINF:-1,DEPORTES:DIRECTVSPORTS
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/20_.m3u8?token=yB1cRoXASLsQJIRApw349w&expires=1663652354
 
 #EXTINF:-1,MUSICA:PortalFoxMix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w557613270.m3u8
@@ -89,6 +128,9 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/120_.m3u8?token=7BXFvc8m
 
 #EXTINF:-1,MUSICA:TOPLATINO
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/123_.m3u8?token=FGbWd9x6RLKfPEOmRI8YxQ&expires=1663643480
+
+#EXTINF:-1,MUSICA:VIWIXTv(MUSICAS)
+https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
 #EXTINF:-1,24/7:ElPrincipeDelRap
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/358_.m3u8?token=Pm5BEk63ofGMqD6k08FVCw&expires=1663643879
