@@ -45,6 +45,9 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/7_.m3u8?token=dRSnutzvKJ
 #EXTINF:-1,PE:PANAMERICANA
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFmfBiNYJTEQ1COiSPlOGyYdHeyi28pJkCVoNv2pOpxiH)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 
+#EXTINF:-1,PE:AMERICATV
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/5_.m3u8?token=5OSINgeEB4DH-_aKtwAXQQ&expires=1663652533
+
 #EXTINF:-1,PE:WILLAXTV
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBml3OjyR8Gk1n7hAHrWFnW4zAVeEgnlhduxcHBW2-KrAP)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
@@ -105,6 +108,18 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/14_.m3u8?token=YhISFR1_X
 #EXTINF:-1,DEPORTES:DIRECTVSPORTS
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/20_.m3u8?token=yB1cRoXASLsQJIRApw349w&expires=1663652354
 
+#EXTINF:-1,DEPORTES:HARDKNOCKS(INGLES)
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/a540917e-d607-41ec-b1cf-b7b7944822dd.m3u8
+
+#EXTINF:-1,DEPORTES:FIGHTSPORTS(INGLES)
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+
+#EXTINF:-1,DEPORTES:BOXTV(INGLES)
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
+
+#EXTINF:-1,DEPORTES:MMATV(INGLES)
+https://photocall.tv/v4ir/l1?ch=mmatv
+
 #EXTINF:-1,MUSICA:PortalFoxMix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w557613270.m3u8
 
@@ -141,6 +156,9 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w95565
 #EXTINF:-1,24/7:CHESPIRITO
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/355_.m3u8?token=YaBfYBbThcjslxeTueBH_A&expires=1663644216
 
+#EXTINF:-1,24/7:ANIME
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
+
 #EXTINF:-1,24/7:SIMPSONS01
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1942184747.m3u8
 
@@ -152,6 +170,9 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/357_.m3u8?token=8b8L2KIU
 
 #EXTINF:-1,24/7:DINOSAURIOS
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/356_.m3u8?token=ggZTWEq-pgMXpAdqm1wUqQ&expires=1663645933
+
+#EXTINF:-1,24/7:PITUFOS
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62683498858f3e619d82d903/variant.m3u8?url=eb7bf906fea0bb8c38c516a3bca4131e-b88b4a25caca1f1859e9c7689f21fda4548fea79714368e05e047c9511c355247261d9a1b3e64741682604ccff2e0da16c5917a93ca3fa724af79f7d4393499d50657a1d99b35accb1f1be4c800ab38337e7c5ccd5a7d73037592d653364b1fad94e64b05ac0322bfc0c0be29c5c86206768690fc7937ecbffa1e99dbf674e7acc97203b744716c791613e65103cad92ba91db4b3f2bf60f33365070fb38dddf&x-plex-token=RNJJiaEa3BtKtd2_zmGu
 
 #EXTINF:-1,24/7:SOUTHPARK
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/146_.m3u8?token=ElD8KIFId_E28XV5Ctiqog&expires=1663642892
