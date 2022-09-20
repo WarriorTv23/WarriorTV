@@ -69,6 +69,9 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1,CHI:SOBERANIA
 https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w2084350720.m3u8
 
+#EXTINF:-1,CHI:RetroPlus(03)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1501555944.m3u8
+
 #EXTINF:-1,CHI:VIWIXTv(ACCION)
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
 
@@ -96,7 +99,7 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/194_.m3u8?token=urHQMnUC
 #EXTINF:-1,DEPORTES:MOVISTAR(F1)
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/199_.m3u8?token=PEeHC5Iz1axPhtvLGBnhfw&expires=1663699595
 
-#EXTINF:-1,DEPORTES:TNTSPORTS
+#EXTINF:-1,DEPORTES:TNT(SPORTS)
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/9_.m3u8?token=ikKSjTg2cucXfwAi7IXHEg&expires=1663652111
 
 #EXTINF:-1,DEPORTES:BEIN(SPORTS)
@@ -111,7 +114,7 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/13_.m3u8?token=GDx-s2Hmt
 #EXTINF:-1,DEPORTES:FOXSPORTS03
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/14_.m3u8?token=YhISFR1_X6YApzkg8JhrIw&expires=1663652320
 
-#EXTINF:-1,DEPORTES:DIRECTVSPORTS
+#EXTINF:-1,DEPORTES:DIRECTV(SPORTS)
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/20_.m3u8?token=yB1cRoXASLsQJIRApw349w&expires=1663652354
 
 #EXTINF:-1,DEPORTES:HARDKNOCKS(INGLES)
@@ -127,16 +130,13 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 https://photocall.tv/v4ir/l1?ch=mmatv
 
 #EXTINF:-1,MUSICA:PortalFoxMix 
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w557613270.m3u8
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1,MUSICA:RetroPlus01
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1093873605.m3u8
 
 #EXTINF:-1,MUSICA:RetroPlus02
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1754321786.m3u8
-
-#EXTINF:-1,MUSICA:RetroPlus03
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1501555944.m3u8
 
 #EXTINF:-1,MUSICA:MTV
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/87_.m3u8?token=NOdtgfwWHFgDeaAjjVvSTg&expires=1663643286
