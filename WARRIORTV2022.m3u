@@ -106,13 +106,13 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/9_.m3u8?token=ikKSjTg2cu
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/23_.m3u8?token=p_sInJl1jVvw9uqdQm1sRw&expires=1663652166
 
 #EXTINF:-1,DEPORTES:FOXSPORTS01
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/12_.m3u8?token=fJq0a-5egLW7JhcFUUHLAw&expires=1663652247
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #EXTINF:-1,DEPORTES:FOXSPORTS02
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/13_.m3u8?token=GDx-s2Hmtc29XGCNlI6chA&expires=1663652293
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 #EXTINF:-1,DEPORTES:FOXSPORTS03
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/14_.m3u8?token=YhISFR1_X6YApzkg8JhrIw&expires=1663652320
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 #EXTINF:-1,DEPORTES:DIRECTV(SPORTS)
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/20_.m3u8?token=yB1cRoXASLsQJIRApw349w&expires=1663652354
