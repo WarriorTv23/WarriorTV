@@ -36,6 +36,36 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1886497328.
 #EXTINF:-1,BO:REDUNOLP
 https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpPrPSec7yd6CH0yOYfEp_hEE7VrRTAQ3hOjSmVS2Urp)/dm/3/x828xvr/d/live-3.m3u8#cell=lnyc
 
+#EXTINF:-1,PE:GOLPERU
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/6_.m3u8?token=PgoAzb2QnY8qp4YDcZMV5Q&expires=1663645974
+
+#EXTINF:-1,PE:GOLTV
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/7_.m3u8?token=dRSnutzvKJ1u_gDpkUguDg&expires=1663646040
+
+#EXTINF:-1,PE:PANAMERICANA
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFmfBiNYJTEQ1COiSPlOGyYdHeyi28pJkCVoNv2pOpxiH)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1,PE:WILLAXTV
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBml3OjyR8Gk1n7hAHrWFnW4zAVeEgnlhduxcHBW2-KrAP)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1,PE:BHTV
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/chunklist_w1576255796.m3u8
+
+#EXTINF:-1,PE:EXITOSA
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF:-1,CHI:ANTENA3
+https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
+
+#EXTINF:-1,CHI:SOBERANIA
+https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w2084350720.m3u8
+
+#EXTINF:-1,CHI:SOBERANIAMUSIC
+https://tls-cl.cdnz.cl/radiosoberania/live/chunklist_w552166758.m3u8
+
+#EXTINF:-1,CHI:BIOBIO9
+https://unlimited1-us.dps.live/c9/c9.smil/c9/livestream0/chunks.m3u8?nimblesessionid=23340790
+
 #EXTINF:-1,MUSICA:PortalFoxMix 
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w557613270.m3u8
 
@@ -71,6 +101,12 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/355_.m3u8?token=YaBfYBbT
 
 #EXTINF:-1,24/7:SIMPSONS01
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CowFirC_pXZuJIBvES_l8X3NE8-dGCTOA7aUZ-zxdVXjj23LBeOazQlPEIxja5Iq_Tcbaks0IfyEFuGo9bpxUfQJahLS1FXUxtOIuoSN6Oqc-q9tKu-yOFVQN_Qmws0pgToMiN9vnK7bOtvLof4UEOTrsTWVFQxn3bX857wNLXyTMfmtwQvzHEvOzgh_5ANINLESl1cdNelgVCxPGICsa41onTbeHQDai9P9pO41z1K53eSYKCRZ8N2r94muwqlDVbCFspq6PuaKy0k_07KvtfbZeDhMHSzNZXOz90xUjFVsq0lj_XTf8uvYwvb5QZGyrkBJWqvTFfzV9WuiBm2pojZ6_aMeBpNpwvp96t1AbEDr2RMyx9VwNxZKacQxci2K57sas35DSwQrYQLiIptQPa24S6-KFjzevaChYVhY6OK3UNKgCOJrSkzNTGswU1P1rVwdDmubq7Tvp-bU1glGVyZCwXHAm_HVeLwStaWlZ5TneM-E7RzNFkXZdyTT2IqWbsgoMp9d3VAMPoMLtP72HoE4PPUDRkpMWKqAdZ5j9gvDic67wTPSG1PQtshID-6clbR1ZLhBQrg6uhQ2iwHeC0lKKn_Vz6y8xGJLWudKrj_FrUmuov3KqmPHjGg2SbdwUEAVY2W9ZrFmqLC2xlCLNuz6scdOrvks-7ZSJE5tJ9FZDpL-cngF1pjqjaoTzKaK_5HXFIidOOLhchtHlPp1NiL2O6FRi_ZcO5OKeCUroYyiY0kkRXvvoXUA52-LSKqGkXYNMu6Nx7bkD8tw6VasX6YRlPrMvxUgYPUWwPTbI0RgAKwdkM-SBh7EG5hnbtpd1t_Xbpj__sOGTcOQ2onNlrETh2SXirvL-d5QfiJ4oBoMLnVSTZYWc8861878IAEqCWV1LXdlc3QtMjDcBA.m3u8
+
+#EXTINF:-1,24/7:CORRECAMINOS
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/357_.m3u8?token=8b8L2KIUZIKTR7Dy2_fYOw&expires=1663645873
+
+#EXTINF:-1,24/7:DINOSAURIOS
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/356_.m3u8?token=ggZTWEq-pgMXpAdqm1wUqQ&expires=1663645933
 
 #EXTINF:-1,24/7:SOUTHPARK
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/146_.m3u8?token=ElD8KIFId_E28XV5Ctiqog&expires=1663642892
