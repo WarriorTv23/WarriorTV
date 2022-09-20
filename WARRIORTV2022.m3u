@@ -106,7 +106,7 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/9_.m3u8?token=ikKSjTg2cu
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/23_.m3u8?token=p_sInJl1jVvw9uqdQm1sRw&expires=1663652166
 
 #EXTINF:-1,DEPORTES:FOXSPORTS01
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
+https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.m3u8
 
 #EXTINF:-1,DEPORTES:FOXSPORTS02
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
@@ -187,7 +187,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62683498858f
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/146_.m3u8?token=ElD8KIFId_E28XV5Ctiqog&expires=1663642892
 
 #EXTINF:-1,24/7:ALF
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/128_.m3u8?token=AWhJiSxF5qXQ9mgEz9siEQ&expires=1663643177
+https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/128_.m3u8?token=J7k7MrEiJA_QW5I4tL1hLA&expires=1663722962
 
 #EXTINF:-1,24/7:TERROR
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/196_.m3u8?token=2ejmvf7UZOvmqDCuX2B-qA&expires=1663643106
