@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,BO:SEOTv(HD)01
+#EXTINF:-1, tvg-name="BO:SEO TV (HD)"
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
-#EXTINF:-1,BO:SEOTv(KIDS)02
+#EXTINF:-1, tvg-name="BO:SEO TV (KIDS)"
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
 #EXTINF:-1,BO:SEOTv(NOVELAS)03
@@ -12,8 +12,8 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1,BO:SEOTv(DEPORTES)04
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 
-#EXTINF:-1,BO:UNITEL
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0iV08M40BECthrAUUquI6wRM2S8OY8g2KTEq2ooihgF)/dm/3/x7wzxiw/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1, tvg-name="BO:MEGA TV"
+https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1189680446.m3u8
 
 #EXTINF:-1,BO:UNITEL02
 https://dmxleo.dailymotion.com/cdn/manifest/video/x7vsezg.m3u8?auth=x&cs=dmx_0hYeDBha_brNWxKC3YpjZ3PlugKZl674V6AlwEbocngovsHAwyykLmQbKBXdl1WGRcMLZ8Klr1mRnAXNRu7US-B-0an7wW_nzwC_qnJdUng
