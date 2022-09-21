@@ -1,27 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="BO | SEO TV HD" group-title="BOLIVIA", SEO TV (HD)
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
-#EXTINF:-1, tvg-name="BO:SEO TV (KIDS)"
+#EXTINF:-1, tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)"
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
-#EXTINF:-1,BO:SEOTv(NOVELAS)03
+#EXTINF:-1, tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1,BO:SEOTv(DEPORTES)04
-https://panel.seo.tv.bo:3314/live/seolive.m3u8
-
-#EXTINF:-1, tvg-name="BO:MEGA TV"
+#EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1189680446.m3u8
 
-#EXTINF:-1,BO:UNITEL02
-https://dmxleo.dailymotion.com/cdn/manifest/video/x7vsezg.m3u8?auth=x&cs=dmx_0hYeDBha_brNWxKC3YpjZ3PlugKZl674V6AlwEbocngovsHAwyykLmQbKBXdl1WGRcMLZ8Klr1mRnAXNRu7US-B-0an7wW_nzwC_qnJdUng
-
-#EXTINF:-1,BO:BOLIVISION
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1,BO:BOLIVISION(SEÑAL2)
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION MUSICALES
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
 #EXTINF:-1,BO:ATB
