@@ -15,6 +15,9 @@ https://panel.seo.tv.bo:3314/live/seolive.m3u8
 #EXTINF:-1,BO:UNITEL
 https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0iV08M40BECthrAUUquI6wRM2S8OY8g2KTEq2ooihgF)/dm/3/x7wzxiw/s/live-2.m3u8#cell=lnyc
 
+#EXTINF:-1,BO:UNITEL02
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7vsezg.m3u8?auth=x&cs=dmx_0hYeDBha_brNWxKC3YpjZ3PlugKZl674V6AlwEbocngovsHAwyykLmQbKBXdl1WGRcMLZ8Klr1mRnAXNRu7US-B-0an7wW_nzwC_qnJdUng
+
 #EXTINF:-1,BO:BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
@@ -22,7 +25,7 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
 #EXTINF:-1,BO:ATB
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnJ5AnCWH8jfx5hJflde7FUUjMVkR4w0BqEKE39_hJe-)/dm/3/x84eirw/d/live-2.m3u8#cell=lnyc
+https://www.dailymotion.com/cdn/live/video/x84eirw.m3u8?sec=6jcD-KgZoguTZ1a1d8GN6SvLRRWnTVZmda-CkQGQ4BpyFvZukS74k02QDh1G2wp2eihCDgbicU184ldQ-gPDwA&dmTs=972968&dmV1st=6593A04803643EF25E26F651DA275E99
 
 #EXTINF:-1,BO:PAT
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
@@ -31,7 +34,7 @@ https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w562332466.m3u8
 
 #EXTINF:-1,BO:TVU(Sucre)
-https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w367082054_b2064000.m3u8
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w1383077567_b2064000.m3u8
 
 #EXTINF:-1,BO:RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
@@ -40,10 +43,10 @@ https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.m3u8
 
 #EXTINF:-1,BO:REDUNO(LP)
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqRzN4YkFRKxo6pYci-5HYG1qjCgQX58k_HqF-2k0oLs)/dm/3/x828xvr/d/live-2.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqRzN4YkFRKxo6pYci-5HYG1qjCgQX58k_HqF-2k0oLs)/dm/3/x828xvr/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1,PE:GOLPERU
-https://2200.janjua.pw:8088/adfree/zeus123/playlist.m3u8?vidictid=192555564119&id=108146&pk=6d5f4aabe57fd39fca597442b4a7627063d40374ec2313c597a4d60ddd66b926
+https://2200.janjua.pw:8088/adfree/zeus123/playlist.m3u8?vidictid=192566859328&id=108146&pk=6d5f4aabe57fd39fca597442b4a7627063d40374ec2313c597a4d60ddd66b926
 
 #EXTINF:-1,PE:GOLTV
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/7_.m3u8?token=6G9Wg7UGyHTXvUFD5JAX9w&expires=1663699214
