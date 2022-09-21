@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="" tvg-name="BO | SEO TV HD"
+#EXTINF:-1 tvg-name="BO | SEO TV HD" group-title="BOLIVIA", SEO TV (HD)
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
 #EXTINF:-1, tvg-name="BO:SEO TV (KIDS)"
