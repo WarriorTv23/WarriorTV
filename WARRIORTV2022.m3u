@@ -93,6 +93,15 @@ https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png" group-title="PERU", TV PERU (NOTICIAS)
 https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3226262153/1de13d7f58c8824f3a10c2a674f8c41f_400x400.png" group-title="ARGENTINA", SAN JUAN CANAL 8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663902461/ei/nc4sY7DtF6zO1sQP6auZ0As/ip/2800%3Acd0%3A2f0f%3Ae900%3Ab98e%3A6d0c%3Ad4ad%3A15a/id/DlwcBWtpQAg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAI02rLb_vhPNx1lzVugf9I1V0-F0Wqms35ViuW5bel3XAiEAiKgbO_aHBM5HSwqKjEyoVZ-jLFmIciZKzURjcEoLi0o%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GH6uk17KaI_yKY18JDjLl6Q7VdRfZSiN62QaDveOK-RgZbpXgTmV9s3ZNFtvHuXdcQ" group-title="MEXICO", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804763122330275840/rjSNplz1_400x400.jpg" group-title="MEXICO", AGUAS CALIENTES TV
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" group-title="CHILE", LA RED
 https://d2ab26kihxq8p0.cloudfront.net/hls/live_720p30.m3u8
 
@@ -171,11 +180,17 @@ https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/85
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AcapulcoShore_logo.png" group-title="ENTRETENIMIENTO", ACAPULCO SHORE
+http://axyz.encohd.co:35341/live/dt8Kz1A8te/m29N9eSisF/399.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="MUSICA", PORTAL FOX MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/46fdcecaa7fc4ca2f236df0d8a4df6a6.png" group-title="MUSICA", MOLAHITS TV
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3687
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653fbb7c243f8386820.png" group-title="MUSICA", REWIND
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="MUSICA", RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1093873605.m3u8
@@ -223,7 +238,7 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w95565
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3542
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO
-http://usuarios.club/usuarios/src3/Chespirito/demoUwD/OV0.m3u8
+http://axyz.encohd.co:35341/live/dt8Kz1A8te/m29N9eSisF/415.m3u8
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CaballerosDelZodiaco
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/2941
@@ -275,6 +290,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS", Vacaciones en Acapulco (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08b46870f8ecbe40286e8ef5dfa8fa54de51d6d8e34b88f19553b4974e18f11c._UY500_UX667_RI_V_TTW_.jpg" group-title="CINE NACIONAL BO", ENGAÑO A PRIMERA VISTA
+https://rr3---sn-xouxacv-a2cl.googlevideo.com/videoplayback?expire=1663905659&ei=G9ssY6WXI4PpwASKhr-oBA&ip=2800%3Acd0%3A2f0f%3Ae900%3Ab98e%3A6d0c%3Ad4ad%3A15a&id=o-AEUxzNOIkNxwS1YH6nuf-oK0kU3iHGD5Eg2YNtBuSFCj&itag=22&source=youtube&requiressl=yes&mh=hF&mm=31%2C29&mn=sn-xouxacv-a2cl%2Csn-nja7sner&ms=au%2Crdu&mv=m&mvi=3&pl=47&gcr=bo&initcwndbps=467500&vprv=1&mime=video%2Fmp4&ns=gnhlUT8rBtpMA6HeiixhiH4I&cnr=14&ratebypass=yes&dur=6501.471&lmt=1586087617736027&mt=1663883611&fvip=3&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=14Pfl7YjxoRwmkraK7&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgDaangVIjGJYG-2ZKh90fqzb84jxZihQq_5mJijE87PwCIQCIFDt9bEDRyxxeE5EooUhMl2yNW_OsAvWkpb-_M9vmIA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgMzfgWC2JOCrjLQhvj7RtoKi_Vm3Z7NSNni17XaZ606kCIFVy7DN8C1ish7vTS-mQ16BGUHQcXC1a1pZK7fx296iW
+
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA YOUTU
+https://rr1---sn-xouxacv-a2cl.googlevideo.com/videoplayback?expire=1663905973&ei=VdwsY5aiMauv1sQPn_ukmA4&ip=2800%3Acd0%3A2f0f%3Ae900%3Ab98e%3A6d0c%3Ad4ad%3A15a&id=o-AHvZDgvGV4crfGGHCBhtPKCCQkz3TDvKBiX4lGk55rJa&itag=22&source=youtube&requiressl=yes&mh=8i&mm=31%2C29&mn=sn-xouxacv-a2cl%2Csn-nja7snle&ms=au%2Crdu&mv=m&mvi=1&pl=47&initcwndbps=466250&vprv=1&mime=video%2Fmp4&ns=0uL6KEDMcRlJT7z_CLSGeQQI&cnr=14&ratebypass=yes&dur=6627.764&lmt=1573843435226735&mt=1663883864&fvip=1&fexp=24001373%2C24007246&beids=24239120&c=WEB&txp=5432432&n=UmRDh8C6w8FjnTdCRI&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANtUcCzo83w89uSzp1pmzcXikmBq9GZRDo6_iGOC8kNhAiAUsk_yxJ5qriyh1yPPi7jeX8WTig-mLq9NFzLawqW0_g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOdX83Q94aJ4L10OCf6ZTLk8wlgw2A6M8dxzeBii1oKzAiEAr-Ujl5NMFfmGSr5_ODxzxwEEUdz2NKtlSG_guqbLZ74%3D
+
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA DRIVE
+https://doc-0k-0c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/gvlmqsgj06pc3edd3mh4f7ctrnbltfvi/1663885875000/15553939643317885612/*/1n66Stg1pRvSXl04sgP3M8DU6lXD-l_JJ?e=download&uuid=32e98319-232d-49dd-91a1-987d93bb7b17
+
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE DRIVE
+https://public.dm.files.1drv.com/y4m2MM7GN5WywnAtiI2-MfyjfTieqgtVHW4JKNJtrlWHMDVdHqOshunYiNZr2DA1I0hFo8fIttP9pIbCty_VFskoiWa2AjCOYyR-7RQyMpn7-ftUGUo1Hpqpi8fb-9YpTG2Gs_HcYE8XkutGFUQroZK0vnSx-ZRF8A681Gn2Fd6BmDrWPZkiFQtrntWUQDTdOPQVNWQFucw-wPuWW7E6IOUlEMCnr2dT4o39EJQQD9cKUk?
+
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE DRIVE2
+https://meqxhg.dm.files.1drv.com/y4mXZY43MazrsPrtzcJyJLsXA2r6DfY08DEcD_ivwoSIUtLZqaL3t_zVxJ0KYzSbFaPgbfnedWB1dGTlgNIja0dEYRb3Egib7CnJFvBsIBUymPzk8BDafU4UDPfetSWdxMxfsDmdFU7FK_qyoLbZ9qAmLZ195WiOrzw3--orvLKBWXvXkvmMPSVt9WcoL67MbXqa-eAOGJyC0QWT3OO5ZIv6A?
+
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE ESTEE
+https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21110&authkey=AHpodeWzg0erdRo
+
 
 
 
