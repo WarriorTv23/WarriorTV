@@ -3,53 +3,53 @@
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
-#EXTINF:-1, tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)"
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)"
 https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 
-#EXTINF:-1, tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp group-title="BOLIVIA", MEGA TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1189680446.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION MUSICALES
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION MUSICALES
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
-#EXTINF:-1,BO:ATB
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
 https://www.dailymotion.com/cdn/live/video/x84eirw.m3u8?sec=6jcD-KgZoguTZ1a1d8GN6SvLRRWnTVZmda-CkQGQ4BpyFvZukS74k02QDh1G2wp2eihCDgbicU184ldQ-gPDwA&dmTs=972968&dmV1st=6593A04803643EF25E26F651DA275E99
 
-#EXTINF:-1,BO:PAT
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BO:TVU(LAPAZ)
+#EXTINF:-1 tvg-logo="https://vocesdelsurunidas.org/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="BOLIVIA", TVU (LA PAZ)
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w562332466.m3u8
 
-#EXTINF:-1,BO:TVU(Sucre)
-https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w1383077567_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://tvusucre.com/images/logo.png" group-title="BOLIVIA", TVU (Sucre)
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w2038672854_b1096000.m3u8
 
-#EXTINF:-1,BO:RTP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
 
-#EXTINF:-1,BO:CADENA(A)
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA", CADENA A
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.m3u8
 
-#EXTINF:-1,BO:REDUNO(LP)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (LA PAZ)
 https://stream-03.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLqRzN4YkFRKxo6pYci-5HYG1qjCgQX58k_HqF-2k0oLs)/dm/3/x828xvr/d/live-3.m3u8#cell=lsv4
 
-#EXTINF:-1,PE:GOLPERU
+#EXTINF:-1 tvg-logo="https://tvusucre.com/images/logo.png" group-title="PERU", GOL PERU
 https://2200.janjua.pw:8088/adfree/zeus123/playlist.m3u8?vidictid=192566859328&id=108146&pk=6d5f4aabe57fd39fca597442b4a7627063d40374ec2313c597a4d60ddd66b926
 
 #EXTINF:-1,PE:GOLTV
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/7_.m3u8?token=6G9Wg7UGyHTXvUFD5JAX9w&expires=1663699214
 
-#EXTINF:-1,PE:PANAMERICANA
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFuSFhVSjOC2_LdhtfTyizZDg40bLPRh4uj5j28XglinP)/dm/3/x774s7s/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_panamericana_tv_2020_2.png" group-title="PERU", PANAMERICANA
+https://cdnh71.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1,PE:AMERICATV
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/5_.m3u8?token=5OSINgeEB4DH-_aKtwAXQQ&expires=1663652533
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/chunklist_w371208873.m3u8
 
 #EXTINF:-1,PE:WILLAXTV
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBml3OjyR8Gk1n7hAHrWFnW4zAVeEgnlhduxcHBW2-KrAP)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
@@ -103,7 +103,7 @@ https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/9_.m3u8?token=ikKSjTg2cu
 https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/23_.m3u8?token=p_sInJl1jVvw9uqdQm1sRw&expires=1663652166
 
 #EXTINF:-1,DEPORTES:FOXSPORTS01
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.m3u8
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
 
 #EXTINF:-1,DEPORTES:FOXSPORTS02
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
