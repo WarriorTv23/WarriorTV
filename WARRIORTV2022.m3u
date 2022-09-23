@@ -12,11 +12,29 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (RADIO)
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e504b6f1e6d30c13ae95fc2064376e26.webp" group-title="BOLIVIA", CANELA TELENOVELAS
+https://stream.ads.ottera.tv/cl/ac7ac83e-d2cd-4ac2-a692-b3c9e7fe539e/960x540_900000_4_f.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000126841738-w5bf2v-t500x500.jpg" group-title="BOLIVIA", M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="BOLIVIA", OXIGENO
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1692246340.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87f15abaa8357cdacb05e7941cfe79b4.webp" group-title="BOLIVIA", TVX HD
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CoUF31WxhrG8O08AH5B23bPC90Xc9OKB5TAkeBXamv-GbpoAldcd4mM3caKsSjHXhpAnnw4dbi8GCNIu5e1E33EwAcUHTxwd22glZ1Aqz-dqjYoMLs_rJQE3WQhBurqPKPteKc5yy6saLzUIcsG447b6dpSoXs39aCPVQP4vQ02hKD3-KdyRFlM15fjgOxwZPiN1bRgDG-dfEOGow0ugkiSkKfW4jmDLg7d26k7ffVZ0PQszsyNtWQFTUigWky-SxIZY8-lTxy_UtdeNJeGQDd6bfq_tZ7oH290HHiCpzJzcaxUEF_Nw1b0TFNDTLgNvqGBaQzwoLjRgsG42qhyInazJvYjbAH8jBSWuymQCNjOoHKbkdsD6ZAMERZkiQMbhh5HxgS7hRhd7HzPdEjnB7YMhtotHrKzfQKl1b1QMyDOQ_YWQyuo3z04LaHK2mxm6gX5pDNIHoB570USN3kvMIasbnANAgJ5R4YlajB4ADbmeQYqRobw7QWyajhsPsWd5VOliJ6EDd7F6cCb0x8T-jtom6NaQLMl6blu8ALEwXjHFqvFHdSuEcrCxfaRxIcrAmdyBsy8EhyEiYFRrUPLRHh0xIsRmSSuHpPAV3orVAgSBrfyD_SrIoLpdoLMg-ArF2hFtQWN21jBgeXgwyA1ZbDB4K60N9DRCAFIXFLgn7323tkyQVcG7VOYdZwVAIuZELk0Nhsl16AiLT74L0VpQFQ73CuPlqXe5YZvdo_s812JBMuIyrNQfNrJAU7r-PtIMM-VkB2v1FQ6MpIa0nAVvst4fBM1Mg4Otltt-9wGcxHxOVcCkj9Ash4KsQIXcWhV9qSrR1LpULku28s9rrDHEPg9-DwTyK905Ggw1Us7ZzSOHQotNbEsgASoJdXMtZWFzdC0yMN4E.m3u8
+
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
@@ -71,6 +89,12 @@ https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w2
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (LA PAZ)
 https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrAoJtBe5GGUwGGIIFEgzBXkIchHYT67YXYY4Z21BX-3)/dm/3/x828xvr/d/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1e7e9ba3d256c729523a210e6bfd949.webp" group-title="VENEZUELA", TELEVEN TV
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" group-title="VENEZUELA", XTREMA TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1482229217.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ATV_2001.svg/revision/latest/scale-to-width-down/200?cb=20220310230534&path-prefix=es" group-title="PERU", ATV PERU 
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
@@ -210,6 +234,21 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" group-title="MUSICA", MEMORIAS TV
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3695
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="MUSICA", VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="MUSICA", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w470314076_b964000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c8320451943ed08265872510644e800.webp" group-title="MUSICA", RETRO MUSIC
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1309297367_b750000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp" group-title="MUSICA", PANAVISION TV
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w168081271.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6da52b9e64bdc20f0549e873ab06fac.webp" group-title="MUSICA", RBM 2 TV 
+https://stmv.streamingvip.click/television/television/chunklist_w2052691088.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PFY8a8gfbk_FzQqsMG57KVKEklqMXYb8nxOCwwEGeYNYlzrjP_tkfYUN4JCoWvPtGiM&usqp=CAU" group-title="MUSICA", VINTAGE MUSIC
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3682
 
@@ -259,10 +298,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1942184747.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 02
-https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CtAF7-QayGDvol2eZgGnxYvZnCoScPAq1u5DubFopXfU76LMffriIBc8OVsYzSS36wEmIDJlbKELGiWaxRO0pUBZXpdT2lNRyiUlTqr4MQVDT21Or9ObpEFe_PqpZqkG1lAOyu62RLoHy3zzIvlDXFw7Zh9v25dPzOmPSZjACSGP4PRPoPhYth1KofaLGvWG6caWe0DtqCTRw1fjxOrNrGjYxzdOhQ0mb6UNpiJjVbHVZzUpj0wuBDREU73KMGpsR-aPK-04DzfK4tKg6BnQ_pZp6DCCDv4aR5UaqeINXD64EipFx8vy3HhyfUg3pi2QZx1764heTZBpGftIvBl1FC-b9xDctdEwrjljlABSSZAT5CF9ossZK0VyCfWmrWHnU0_1ez0jdXunJKMVabDSTlZhNDyjFxSc_HLDE3nidr2r8CYVu_tFlPWKzNRlaR5n85jdxE9eUOjWHR66dcDtACd5WDnRsEp_0KYYY11S9GpeSGTDtX9Ua3Dbf955y3FEaeFjtoQRyR4cbbOnTmBRViwHl_zsKgLoySeoTuf__dWp64P2qGDKHQgpkA3Nq5hpTF_05Z7CrUq2DyssjAN1MpW4MuSshfe5xx7E_vcHwt8pVvOuxLPuSUybA_dbLHaLQdrQw_OdbkT5JhKduHw1ct_bqLahqbtK5VTwNWlr9KX_4lgI3Po9RGTdJbUUhtrfr-kX8QCtKCfyCyzd4q1xDjWY0qDnffuekV00MEsfbGJ_DpBFBdeohGIkIqCb6aG5Am-R7LX9caLA9VA9qSQV_eIeOrnCJhs7k0XrxF41VC_0P5bF9wQ4DPL_4sMHyf0VVFvw1VLUIYffPZQU3ST4aRTJa--dC7EFK0oAvdi4uQ-PAD9-hZh3M1s8-RkeGQgpSgvpRkUp5Ny9Ad7m2ERbOO8cAC7grRftyfQvMEdg1eXGXrYNie8iFYC6dm6bxXlcFZsxGgwKtGARhogiQMJZxqEgASoJdXMtZWFzdC0xMJMD.m3u8
+https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpkFlG4oSYfQ0RR73OfbHFegdv9gPgDeQ7tWsOl0VvIrraQ4zSwRFnupc8noPGWGXKVPxMuhVCtne1PbSKLbX8_l8OXvzH0mHBVrhqQ1M5Ey5zO3GQj9KN_nRNxTr56bbrkA3X_ZJgwNeoRX2lhdFE_CqjOK5e7eVt6OlOVNFqQB_lvnwp5U5g0aLDb1e8IfVJf9PZOfow11JMwqWkM1gNaboE5kBuXMqMU2wAt74MzsqrjEZbRixspAtCi3yzeqGSRKxTRvVMBVI-35LxvFIYf_iArl4BHWwCKtnCQQLP7AZOXSqaeFVE2d2p8U_l1CtIhuR8PA9j-ZHROT187hJLr2IVenAhWc5aDHpz0Hu9bMaCkJ-yIaS_fdgoWnEUDMsStKzvGvA_2LfrrRyhediYhs3k9nWZ67upzNVN_2v03bewr0GC2yXusqoz4hJPgj-LqxvF7hX_8slEqFhLQe1L4KeIfQp_jUkrNhvsq8rGQQ_AdMMIMXTUpZcs02Hn88J2cmylFFrFw_oB3Wh1-Kkis8IIOQ8e3-WL3q4jg_A_tUbeDhdi9yV0vTPA7rPkEhGugkXf6Ip8MeuUzkLF7jJVRWn3sKbNlyOo-tBYSFV6iFSD6HChATzKuOLI8ck4mLLDlcf-JAzd7qwGc8jMbraQdZ4W4DfV0H8ZLvshWjyyOsdVs7f4CRqTwohltql9pu0bgMH_EHWsB6vrO8J4kBZkyjrNClWHTC_dW_l-HZWz7t54bzVDd7c68jB6nC_JIJKqwDZqnZxPENjQxq6pgSG5TOesBUfeOOshj9C4GCnd7wn8X3O_FIioQ0Oxs-PWRxL2Ppc1ebiNbx9RSwKT8JU1uT7okEhbZibIFztEaAJwRxe0iXzDd386nd8ZcaDJKNZjNyVjCsOMLBVSABKgl1cy1lYXN0LTEwlAM.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 03
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CsgFL70Q3Kx-kkwy_8x0K6gozoYj50mnjGNfL_DU5D353D1Kh0_F-QDZxC0TSEhCF9pTq-RztIpjyAd-oV_yTAVbsKztX6MNcNWlpI7kkIeaftsPLwnLGk1XyGkdqstg8K_6FdBcTp_XmU7SACKjANPxpIyu9wFM690Sh32zOHbZ2vnA-btK8MRA0bcPCRL9CftSZg5Iu_LYVKLmvwMOukmM_M_VZA8ivQ8wprH1YG6BhRfziZDcmYXQqW41kUohfrfr4w6FuXGzS6WqXrazO1gbEcllyFpZ1fmJ0K4s5aLMg6rf7_RUHhdkdDS9Aku_mjEt2ud2Qq_TGev8qng6yXSrTiIxqbogw_gfBYTUA0hKBB2PrInJl-gqg3TVlvMskuGf4OrZrdjJUnvFUeRBygKEnn8Dlkt3crL1x7uttzDOIJJTt5OLSlJTCoFMe69v-wB8T_48uKWwgADQ3T0VHXqYk30PXTEuu7UBdYAlNAqQjvbJ63vkqxr8SHKgZ5KiBTtltQIdPsfUnMxPEMef3jOxpS02wy_rJy77OQMslVixIGc5m0fkkJPui_nY0jtjX_J0Qjw9yup6I2GMox0dhhj4fVowzDTGnbYz7V2pmTxTXJ3pbm3EmGrDbyoY2yrZseXx6xNkHBjd_VSmP3hHMWfgle7rkRQcykmUjaFSLEYlsc1-Gzzh0hjxYrNYzXnO_xSf1fNC9V7xgSXuXtD0R10MK6624nvK5mp-My1xfSt7veYEbptbf90bnROawxnxN7G9QjdHlaSTyElpK0YvO8MNnIcPNnT6L5Y-a98reFg48AENXBr0gm8d1bYQHZtmd2vxXMuGDyT0BRRIOIhp_NL-T0_xoY8uD5jJLPsUNYRtQmNQGerxGOGGBldYy6vDbl1LjTAgktpxl-fBe4ITxu93WGqWfolBvtaHHHDnyLycbfWW-78M7wNuxhoMmP67yfl4FMHty3AZIAEqCWV1LXdlc3QtMjDeBA.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqwFmOAdmem8RuLECXhic7eMcIomOZHqpfGo8GmvC7xhORwtDZXUi64082kbGt4m6A6IdOdzdFvZcPv2mwoeUmWdzm7-fRdnRcd3VLRta4l1ePRb6TAWJSLdwnm3smtdAUOQfhACndo8CurB2Rr4GDtm3bt5ad1nN-f0gmAzPoQFuask54rgSuXyrcacfVbtzVOPQBxAwGJIFUfMH_C4dW1AJYa6aRyJcLfLTkC8zVgpBuBBMlqkldD-P4EOKNKVJ1kyEoH3fX-iOrJSXjmtiyZOKDcxNwgjYXAzlLDsdumlOZcuIcyC6HvzH2Du2hg7cf-GQea2U2Sl2h9VTG7QDZipRFEwHUMAc5jFaLDaTle5ULlZI6DLKM7Ix6xFJBLgy7ibE2JNQ2L_AzIj6gfVkj6yLPKlsR5Mvuro9egO_vR3_hZZw4KP8-WiMNBCeqfBQlzN5IkMMmWEVtkp9pIX5pEfBZvlrNxCvMZrCSFMR-S2cBZu4ki1IwL-AC6uud39YeS19bOjKvJuZhMwwHUxNWb-P8vG5jjqxi6zCHzZubXysCqEJcHNcdxnqAJ81ET3jMlBs0RrqOS6ZyAPcU3TFKB7p2P5k3aBWnN73qcRbC1D9WRAVsBBVyNQELYRYjh0E1X2mklLNNull7BEALPQKytivClTKchV_gvX34876b71FGOzL_qeMknftULJGHM0PXSUS2UoVjg-gMDUjeBcZPn4zP3AS2cug-e-lSJWYNl-C659ewpHR8WMPSakqVEvmgwTlGwM5TFSgGXAyJzVS5wWCCwwb7Uo7HmIlvrNkQ1IwY-Q62JiuMnckOOf7F5yWykfun65qpIVej4vJRcM55xzfal6kzxEdr3eJ9R_BDWJ9LPUKmfb6-QnkIvdNZhHv8mA9vRe8MG73umaDYFTGgxWb6XuDBp3fSoHvtkgASoJZXUtd2VzdC0yMN8E.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dddd&deviceDNT=0&deviceModel=0
@@ -303,7 +342,7 @@ https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yvVwGhc3L.__AC_SX300_SY300_QL70_ML2_.jpg" group-title="PELICULAS FAMILIA", GHOST (1990)
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21114&authkey=AETJoWGIWFLm7zI
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Chucky_El_mu_eco_diab_lico-921485433-mmed.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xEIz5tV4sW8/UmamLowdVzI/AAAAAAAAAE8/vW0g2Y90Q_U/s1600/Chucky.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 
 #EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL60GJ/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO 2 (1990)
