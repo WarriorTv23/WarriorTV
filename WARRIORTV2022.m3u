@@ -19,7 +19,7 @@ https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w37901737.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
-https://dds3f6ghl5s0e.cloudfront.net/streaming/js/videojs-7.20.1/videojs-http-streaming.js
+https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
@@ -40,7 +40,7 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
-https://stream-02.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOnwY0oKcZ3Ks3EnBel4ayiQwTZV98pE8bfQ2KeavhmwD)/dm/3/x84eirw/d/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpQurmNeHD8Wh-8jeT3X1AwDqRGNmyTa_3-wtaOj3rac)/dm/3/x84eirw/d/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
@@ -61,7 +61,7 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.
 https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w205729073.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (LA PAZ)
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLpt_hBFrTlfWc0-2LeyLaSyZNCGDQFGywPyJY9raN48x)/dm/3/x828xvr/d/live-2.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpQurmNeHD8Wh-8jeT3X1AwDqRGNmyTa_3-wtaOj3rac)/dm/3/x84eirw/d/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ATV_2001.svg/revision/latest/scale-to-width-down/200?cb=20220310230534&path-prefix=es" group-title="PERU", ATV PERU 
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
@@ -291,32 +291,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS", Vacaciones en Acapulco (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 
-#EXTINF-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg"  group-title="CINE INTERNACIONAL",CHUCKY EL MU—ECO DIABOLICO (1988)
+#EXTINF-1 tvg-logo="http://img12.nnm.me/b/0/1/4/2/d086c4477ccd86dbb444001352a_prev.jpg" group-title="CINE INTERNACIONAL", CHUCKY EL MUÑECO DIABOLICO (1988)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 
-#EXTINF-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg"  group-title="CINE INTERNACIONAL",CHUCKY EL MU—ECO DIABOLICO 2 (1990)
+#EXTINF-1 tvg-logo="http://images.fanpop.com/images/image_uploads/Child-s-Play-2-chucky-96624_365_500.jpg" group-title="CINE INTERNACIONAL", CHUCKY EL MUÑECO DIABOLICO 2 (1990)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
 
-#EXTINF-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg"  group-title="CINE INTERNAIONAL",CHUCKY EL MU—ECO DIABOLICO 3 (1991)
+#EXTINF-1 tvg-logo="http://image.tmdb.org/t/p/original/pDko1kIkrCaHBSfBj7pAJu1Diss.jpg" group-title="CINE INTERNAIONAL", CHUCKY EL MUÑECO DIABOLICO 3 (1991)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
 
-#EXTINF-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg"  group-title="CINE INTERNACIONAL",LA NOVIA DE CHUCKY (1998)
+#EXTINF-1 tvg-logo="http://media.sinematurk.com/cache/f8/64/f864a33b2df2edafbec1d931d06ff6d0.jpg" group-title="CINE INTERNACIONAL", LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08b46870f8ecbe40286e8ef5dfa8fa54de51d6d8e34b88f19553b4974e18f11c._UY500_UX667_RI_V_TTW_.jpg" group-title="CINE NACIONAL BO", ENGAÑO A PRIMERA VISTA
-https://rr3---sn-xouxacv-a2cl.googlevideo.com/videoplayback?expire=1663905659&ei=G9ssY6WXI4PpwASKhr-oBA&ip=2800%3Acd0%3A2f0f%3Ae900%3Ab98e%3A6d0c%3Ad4ad%3A15a&id=o-AEUxzNOIkNxwS1YH6nuf-oK0kU3iHGD5Eg2YNtBuSFCj&itag=22&source=youtube&requiressl=yes&mh=hF&mm=31%2C29&mn=sn-xouxacv-a2cl%2Csn-nja7sner&ms=au%2Crdu&mv=m&mvi=3&pl=47&gcr=bo&initcwndbps=467500&vprv=1&mime=video%2Fmp4&ns=gnhlUT8rBtpMA6HeiixhiH4I&cnr=14&ratebypass=yes&dur=6501.471&lmt=1586087617736027&mt=1663883611&fvip=3&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=14Pfl7YjxoRwmkraK7&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgDaangVIjGJYG-2ZKh90fqzb84jxZihQq_5mJijE87PwCIQCIFDt9bEDRyxxeE5EooUhMl2yNW_OsAvWkpb-_M9vmIA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgMzfgWC2JOCrjLQhvj7RtoKi_Vm3Z7NSNni17XaZ606kCIFVy7DN8C1ish7vTS-mQ16BGUHQcXC1a1pZK7fx296iW
-
-#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA YOUTU
-https://rr1---sn-xouxacv-a2cl.googlevideo.com/videoplayback?expire=1663905973&ei=VdwsY5aiMauv1sQPn_ukmA4&ip=2800%3Acd0%3A2f0f%3Ae900%3Ab98e%3A6d0c%3Ad4ad%3A15a&id=o-AHvZDgvGV4crfGGHCBhtPKCCQkz3TDvKBiX4lGk55rJa&itag=22&source=youtube&requiressl=yes&mh=8i&mm=31%2C29&mn=sn-xouxacv-a2cl%2Csn-nja7snle&ms=au%2Crdu&mv=m&mvi=1&pl=47&initcwndbps=466250&vprv=1&mime=video%2Fmp4&ns=0uL6KEDMcRlJT7z_CLSGeQQI&cnr=14&ratebypass=yes&dur=6627.764&lmt=1573843435226735&mt=1663883864&fvip=1&fexp=24001373%2C24007246&beids=24239120&c=WEB&txp=5432432&n=UmRDh8C6w8FjnTdCRI&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANtUcCzo83w89uSzp1pmzcXikmBq9GZRDo6_iGOC8kNhAiAUsk_yxJ5qriyh1yPPi7jeX8WTig-mLq9NFzLawqW0_g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOdX83Q94aJ4L10OCf6ZTLk8wlgw2A6M8dxzeBii1oKzAiEAr-Ujl5NMFfmGSr5_ODxzxwEEUdz2NKtlSG_guqbLZ74%3D
-
-#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA DRIVE
-https://doc-0k-0c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/gvlmqsgj06pc3edd3mh4f7ctrnbltfvi/1663885875000/15553939643317885612/*/1n66Stg1pRvSXl04sgP3M8DU6lXD-l_JJ?e=download&uuid=32e98319-232d-49dd-91a1-987d93bb7b17
-
-#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE DRIVE
-https://public.dm.files.1drv.com/y4m2MM7GN5WywnAtiI2-MfyjfTieqgtVHW4JKNJtrlWHMDVdHqOshunYiNZr2DA1I0hFo8fIttP9pIbCty_VFskoiWa2AjCOYyR-7RQyMpn7-ftUGUo1Hpqpi8fb-9YpTG2Gs_HcYE8XkutGFUQroZK0vnSx-ZRF8A681Gn2Fd6BmDrWPZkiFQtrntWUQDTdOPQVNWQFucw-wPuWW7E6IOUlEMCnr2dT4o39EJQQD9cKUk?
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE DRIVE2
-https://meqxhg.dm.files.1drv.com/y4mXZY43MazrsPrtzcJyJLsXA2r6DfY08DEcD_ivwoSIUtLZqaL3t_zVxJ0KYzSbFaPgbfnedWB1dGTlgNIja0dEYRb3Egib7CnJFvBsIBUymPzk8BDafU4UDPfetSWdxMxfsDmdFU7FK_qyoLbZ9qAmLZ195WiOrzw3--orvLKBWXvXkvmMPSVt9WcoL67MbXqa-eAOGJyC0QWT3OO5ZIv6A?
+https://t.ly/g98X
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE ESTEE
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21110&authkey=AHpodeWzg0erdRo
