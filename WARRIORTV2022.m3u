@@ -67,7 +67,10 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbiCsWqdkrdQUB_JnDe9OvHcfWWlldZJRK7xfL3w0Ui_)/dm/3/x7vsezg/d/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6A8yDnkjKTmCFm1U2OimEcLZchtIHhWRiS5JDMTDtNo)/dm/3/x7wzxiw/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (LA PAZ)
+https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrAoJtBe5GGUwGGIIFEgzBXkIchHYT67YXYY4Z21BX-3)/dm/3/x828xvr/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpQurmNeHD8Wh-8jeT3X1AwDqRGNmyTa_3-wtaOj3rac)/dm/3/x84eirw/d/live-1.m3u8
@@ -86,9 +89,6 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/Abya-Yala-TV-tvtolive.com_.jpg" group-title="BOLIVIA", ABYA YALA TV
 https://5fc584f3f19c9.streamlock.net/televisionhd/videotelevisionhd/chunklist_w205729073.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (LA PAZ)
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrAoJtBe5GGUwGGIIFEgzBXkIchHYT67YXYY4Z21BX-3)/dm/3/x828xvr/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1e7e9ba3d256c729523a210e6bfd949.webp" group-title="VENEZUELA", TELEVEN TV
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
