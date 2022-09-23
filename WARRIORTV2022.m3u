@@ -12,6 +12,12 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (RADIO)
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000126841738-w5bf2v-t500x500.jpg" group-title="BOLIVIA", M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
 
@@ -27,6 +33,9 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ftsna92WmHs/XGlbZMPpEuI/AAAAAAAAHXQ/__JPrmk4VSYOKBG36QPXYMWhUNC_vMONwCLcBGAs/s1600/Megavisionenvivo.png" group-title="BOLIVIA", MEGAVISION HD
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png" group-title="BOLIVIA", CEACOM ORURO
+https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/chunklist_w2012568074.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvhdtropical.com/wp-content/uploads/2022/05/LOGO-TROPICAL-PNG-2.png" group-title="BOLIVIA", TROPICAL HD
 https://cloud2.streaminglivehd.com:1936/8222/8222/chunklist_w1595934323.m3u8
 
@@ -39,6 +48,9 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION MUSICALES
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZbiCsWqdkrdQUB_JnDe9OvHcfWWlldZJRK7xfL3w0Ui_)/dm/3/x7vsezg/d/live-2.m3u8
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
 https://stream-01.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOpQurmNeHD8Wh-8jeT3X1AwDqRGNmyTa_3-wtaOj3rac)/dm/3/x84eirw/d/live-1.m3u8
 
@@ -47,9 +59,6 @@ https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://vocesdelsurunidas.org/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="BOLIVIA", TVU (LA PAZ)
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w562332466.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvusucre.com/images/logo.png" group-title="BOLIVIA", TVU (Sucre)
-https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/chunklist_w705332276_b1096000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
