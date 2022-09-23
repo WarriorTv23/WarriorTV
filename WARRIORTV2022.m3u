@@ -96,6 +96,9 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" group-title="VENEZUELA", XTREMA TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1482229217.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="MUSICA", VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ATV_2001.svg/revision/latest/scale-to-width-down/200?cb=20220310230534&path-prefix=es" group-title="PERU", ATV PERU 
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
@@ -234,8 +237,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" group-title="MUSICA", MEMORIAS TV
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3695
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="MUSICA", VISION TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png" group-title="MUSICA", VISION TV MUSICA
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1930517796.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="MUSICA", MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w470314076_b964000_sleng.m3u8
