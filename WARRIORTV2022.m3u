@@ -300,16 +300,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS FAMILIA", Vacaciones en Acapulco (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 
-#EXTINF-1 tvg-logo="https://pics.filmaffinity.com/Chucky_El_mu_eco_diab_lico-921485433-mmed.jpg" group-title="CINE INT", CHUCKY EL MUÑECO DIABOLICO (1988)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Chucky_El_mu_eco_diab_lico-921485433-mmed.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
 
-#EXTINF-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL60GJ/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="CINE INT", CHUCKY EL MUÑECO DIABOLICO 2 (1990)
+#EXTINF:-1 tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWZL60GJ/image?locale=es-mx&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO 2 (1990)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
 
-#EXTINF-1 tvg-logo="https://static.wikia.nocookie.net/chucky-el-muneco-diabolico/images/1/1c/20126775.jpg/revision/latest?cb=20211021163215&path-prefix=es" group-title="CINE INT", CHUCKY EL MUÑECO DIABOLICO 3 (1991)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/chucky-el-muneco-diabolico/images/1/1c/20126775.jpg/revision/latest?cb=20211021163215&path-prefix=es" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO 3 (1991)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
 
-#EXTINF-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/95/72/49/20424864.jpg" group-title="CINE INT", LA NOVIA DE CHUCKY (1998)
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/95/72/49/20424864.jpg" group-title="PELICULAS TERROR", LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08b46870f8ecbe40286e8ef5dfa8fa54de51d6d8e34b88f19553b4974e18f11c._UY500_UX667_RI_V_TTW_.jpg" group-title="CINE NACIONAL BO", ENGAÑO A PRIMERA VISTA
@@ -320,8 +320,7 @@ https://rr4---sn-bg0eznzr.c.drive.google.com/videoplayback?expire=1663961684&ei=
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE ESTEE
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21110&authkey=AHpodeWzg0erdRo
 
-
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10lSWg4-lFHJNVVFm10K-J7EZdx7E9rA-ZPkR28qa7mKSkwO8R-wqCXby54iuWaqTlP0&usqp=CAU" group-title="SERIES", Black Summer
+https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21113&authkey=AHGrot5hWNpxSGw
 
 
