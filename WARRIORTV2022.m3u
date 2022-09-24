@@ -102,7 +102,7 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ATV_2001.svg/revision/latest/scale-to-width-down/200?cb=20220310230534&path-prefix=es" group-title="PERU", ATV PERU 
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEZ36-Mkeu5mUlm6vIjo7Dm1qsOnI0LC1Ug&usqp=CAU" group-title="PERU", ATV PLUS PERU 
+#EXTINF:-1 tvg-logo="https://laguia.tv/_nuxt/img/HolaTV_256.25422fa.png" group-title="PERU", HOLA TV
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GHuyQh7E-cDCUik5FYFHBr99v6EiisGgC4p1H5dZc-0ATzZWl3qegAyYv7yF-nYcLOFD" group-title="PERU", TROPICAL RADIO TV
@@ -160,7 +160,7 @@ https://s2.tvdatta.com:3402/hybrid/play.m3u8
 https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Bio_Bio_TV.jpg" group-title="CHILE", BIO BIO TV
-https://unlimited1-us.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?nimblesessionid=23236324
+https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8?nimblesessionid=41287688
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGjAzDHHlc37lldfIb6EN6wzLcL6DWbUg0jewtk2lDojJiP-h5aEdYmxYGjut-koFRXs&usqp=CAU" group-title="PANAMA", TVN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
@@ -267,15 +267,6 @@ http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3696
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest/scale-to-width-down/200?cb=20120102193439" group-title="MUSICA", TELE HIT
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/141
 
-#EXTINF:-1,MUSICA:HTV
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/89_.m3u8?token=zndiSSv_-86SVAjHWigcsw&expires=1663643349
-
-#EXTINF:-1,MUSICA:MTV2000s
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/120_.m3u8?token=7BXFvc8mG6SXfbzoqp_IVg&expires=1663643411
-
-#EXTINF:-1,MUSICA:TOPLATINO
-https://live.telelatinohd.com:8080/MTkwLjEyOS4xNjQuNjU=/123_.m3u8?token=FGbWd9x6RLKfPEOmRI8YxQ&expires=1663643480
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=184&fakeurl=1" group-title="MUSICA", VIWIX TV (MUSICAS)
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
@@ -359,10 +350,11 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSB
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08b46870f8ecbe40286e8ef5dfa8fa54de51d6d8e34b88f19553b4974e18f11c._UY500_UX667_RI_V_TTW_.jpg" group-title="CINE NACIONAL BO", ENGAÑO A PRIMERA VISTA
 
-#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO NACIONAL BO",  EL MATRIKI DE LA IMILLA ONE DRIVE2
+#EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO BOLIVIA",  El Matriqui De La Imilla
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21115&authkey=AHcfgewbI44AKJM
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR10lSWg4-lFHJNVVFm10K-J7EZdx7E9rA-ZPkR28qa7mKSkwO8R-wqCXby54iuWaqTlP0&usqp=CAU" group-title="SERIES", Black Summer
-https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21113&authkey=AHGrot5hWNpxSGw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mh6mSj2/imagen-2022-09-23-195151496.png" group-title="TEATRO BOLIVIA",  Teatro - La Sanguchera de La Esquina
+https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21116&authkey=ABDcPazlrslCeKY
+
 
 
