@@ -9,7 +9,7 @@ https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
 https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (RADIO)
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
@@ -18,17 +18,26 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e504b6f1e6d30c13ae95fc2064376e26.webp" group-title="BOLIVIA", CANELA TELENOVELAS
 https://stream.ads.ottera.tv/cl/13bf874e-1719-43df-9c89-a71c7ed4e01b/960x540_900000_4_f.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
+https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
+https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="BOLIVIA", OXIGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1692246340.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87f15abaa8357cdacb05e7941cfe79b4.webp" group-title="BOLIVIA", TVX HD
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CogFttRVp-qL3TPj40uX6aurMo9rIIKWtX6sxzK2oQARvuKClQw0QW5a_psEBC-Z63Yiv2h4qcjRkvI4Ybhx-sB3Xf_PKsNFN8jdXTU-tSRwea320TR5kF5BIgkkYCWdQVrE4Pnu5K1TvtQpFV3zD27IyZ6pdafUOfO48F8Z6lLwvSKG8IFeqqTrRGSzGoZsMnY70cCTjXtv-Lwh4Ts-XYwiwaesp8yPDtTjQ9FEFKSiJsueG4KqoVFPRaA5MJU4IZya8RZ5eW3NGNNI-3c5liaPFbCW9SMLfj2YQcfex_BxoGt_x_NFezY-fkkseYDaicRev2EX48jeHd8SzvHiUrUCIluNJZQv_6F3Zvyy6tTqlkcUB3fnrtb24Sm6FdRkeZYs9f3mnXod9-k_ckxmXUrZYhCnaULnU54EsVr9Bt65m8-PjnVfjzo81aytOx_VFfGwJrirrjJAtzW25fTnSYsNCTeDl4G8uKPM3IRacLIFapY5TWnH_8Ai6pTH2Xt1gI3Ss-ctssDbMrKhFFbSwziL6mj5gZfHsiHlbTqHYW1yTFzJ8N-i9LnfUOrT72uCuMeK1wPxXjBoJKmfPQoKnFOJIBZ3GXcVwzaSS3PKOdO3ecn4AjMHorrrVvBC-LTzxvHqNbi3BTgvsxQvESvORmfTCekj3i43Rs9K3i5y4wrVoXAEGRFfxfE09ac74RU3nJMgKRypcncx571if1riVVelyzhS-lu5FTnuO4vn5aIztLM26JhKSQ-s1pMhSfHUm335xoc66nPAxj6ewGBHoiDAAavn7Aus0NeTAnNPHljBkVa4ciHVjk-iOqUKASJX7HOwyPXsVqeKdmnm5Zf5J-4mNvd82Ky58E6xGgxnyFH40wcMLuwPdBUgASoJdXMtZWFzdC0yMN4E.m3u8
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cp4FxhgK42vS2224GtSU7cewujTCvAQb281mzj23kZiN00zggif_YhzuwW3m_Ed-1UAZ0CTAWFQlkKgPpnJZGGBwewzFF5d_j9Nbnr9ibVFz5cApHhuP3e25l_eTkQv12pOSEMTj2voWseCcbywxDHEXGFmnE8fnjRlQ2f6Qxx2fkQUfP5mppC50_8f9FJX0cOtUPNn_4KqUupHQrbRRwIRcvdN0L8dydd6Qe_Nz60HfwJZfmu6Te5ycW0FbT1-jsZxfqoDTCcecV30IBoVHhe5tsR6PO7EYPg7rOS1HvJ_n--yILRJKsHumx6xbfQeS9cA_wHY1OUsVkvVT6qc0Sxc79cECodMCXOK9Dv7bhPl_UNFsLquz_CKT5yWthLLn8kdKViJdRn5p7C63oIIFLkHyOGbWaDgTNYXhyo6cT1hNBhjSELdopygkRtjHpuBz3AQqX5fYcYBsdlaBWfnCz2sSlBNw1cPKYcvj-tQSAmaj2AphJGc7rgS9tjM0Ok84zNNmKqMbdTtr4T8h69pmuiWVqoXJ2-HjOLLHbfUa_Eww_aF9xQviYTOSLyaCjtyLisvJDq8svp44OUI43KnskbfwFO3VkKQYpZOnMrw42p1BS84jm0LLq7kE5HMCJsIYMtrewnxdNJf0CFgCDrugUsR8bGmv7w0kNRhQwMqHxynbSmpd0jv1FJ2Fa-Y_iokhWcjzWHK_XtySvD-o8JZeYNavOx9zdawpn3r_xOiBqlrs8caE8ivbmi_BctgDd9TbD-NlUQ99XcrrDm52TJmG_bN-URny1BLL-i834KfeGBcYeuLYqmfB84pcP2Y-C7IFHuhzrHyFBxl311sN-NKkY_FPTZbQJwFr1pLQbEiGbJneH8d7dVMx6dk09MpM6wfHohoMWl1NWbH_0pZc0XV6IAEqCXVzLWVhc3QtMjDeBA.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="BOLIVIA", VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -38,12 +47,6 @@ https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
 
 #EXTINF:-1 tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png" group-title="BOLIVIA", MARVISION TV
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w37901737.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
-https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
-https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ftsna92WmHs/XGlbZMPpEuI/AAAAAAAAHXQ/__JPrmk4VSYOKBG36QPXYMWhUNC_vMONwCLcBGAs/s1600/Megavisionenvivo.png" group-title="BOLIVIA", MEGAVISION HD
 https://livefocamundo.com:8081/megavisiontv/tracks-v1a1/mono.m3u8
@@ -95,9 +98,6 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" group-title="VENEZUELA", XTREMA TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1482229217.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="MUSICA", VISION TV
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ATV_2001.svg/revision/latest/scale-to-width-down/200?cb=20220310230534&path-prefix=es" group-title="PERU", ATV PERU 
 https://dysmuyxh5vstv.cloudfront.net/hls/live_480p30.m3u8
