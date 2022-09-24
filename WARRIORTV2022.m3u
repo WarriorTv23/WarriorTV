@@ -16,7 +16,7 @@ https://panel.seo.tv.bo:3314/live/seolive.m3u8
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e504b6f1e6d30c13ae95fc2064376e26.webp" group-title="BOLIVIA", CANELA TELENOVELAS
-https://stream.ads.ottera.tv/cl/ac7ac83e-d2cd-4ac2-a692-b3c9e7fe539e/960x540_900000_4_f.m3u8
+https://stream.ads.ottera.tv/cl/13bf874e-1719-43df-9c89-a71c7ed4e01b/960x540_900000_4_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000126841738-w5bf2v-t500x500.jpg" group-title="BOLIVIA", M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
@@ -270,17 +270,26 @@ http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/141
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=184&fakeurl=1" group-title="MUSICA", VIWIX TV (MUSICAS)
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/2929
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58284
 
-#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58285
+
+#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (1)
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w955650622.m3u8
+
+#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58120
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/174592266/s332/temporada-4" group-title="24/7", CHAPULIN
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3542
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 1
 http://axyz.encohd.co:35341/live/dt8Kz1A8te/m29N9eSisF/415.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 2
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58121
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CaballerosDelZodiaco
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/2941
@@ -351,7 +360,7 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSB
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08b46870f8ecbe40286e8ef5dfa8fa54de51d6d8e34b88f19553b4974e18f11c._UY500_UX667_RI_V_TTW_.jpg" group-title="CINE NACIONAL BO", ENGAÑO A PRIMERA VISTA
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO BOLIVIA",  El Matriqui De La Imilla
-https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21115&authkey=AHcfgewbI44AKJM
+https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21118&authkey=AIMX9sfS45Qi1bY
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh6mSj2/imagen-2022-09-23-195151496.png" group-title="TEATRO BOLIVIA",  Teatro - La Sanguchera de La Esquina
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21116&authkey=ABDcPazlrslCeKY
