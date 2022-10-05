@@ -219,6 +219,9 @@ http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/85
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AcapulcoShore_logo.png" group-title="ENTRETENIMIENTO", ACAPULCO SHORE
 http://axyz.encohd.co:35341/live/dt8Kz1A8te/m29N9eSisF/399.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (USA)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/43885
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="MUSICA", PORTAL FOX MIX 
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
