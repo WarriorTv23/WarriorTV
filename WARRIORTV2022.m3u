@@ -31,7 +31,7 @@ https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1692246340.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87f15abaa8357cdacb05e7941cfe79b4.webp" group-title="BOLIVIA", TVX HD
-https://bit.ly/3MovMDF
+https://bit.ly/3Ms75q7
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
@@ -104,7 +104,6 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/vostv.png" group-title="BOLIVIA", VOS TV
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1e7e9ba3d256c729523a210e6bfd949.webp" group-title="VENEZUELA", TELEVEN TV
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
