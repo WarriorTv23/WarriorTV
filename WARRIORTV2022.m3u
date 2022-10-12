@@ -296,7 +296,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w19153785
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1093873605.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA)
-http://streaming.bitonlive.net:8080/hls/ottofm2/60_59/index.m3u8?sessId=1054990
+http://streaming.bitonlive.net:8080/hls/ottofm2/64_63/index.m3u8?sessId=1483181
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653fbb7c243f8386820.png" group-title="MUSICA", REWIND
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w367917649.m3u8
@@ -317,13 +317,13 @@ https://stmv.streamingvip.click/television/television/chunklist_w2052691088.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1754321786.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/6679119106cf69f194a4d375b391a2a2.png" group-title="MUSICA", MEMORIAS TV
-https://tvlatina.live:1936/8022/8022/chunklist_w701648625.m3u8
+https://mediacp.us:8081/8022/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fbf6132520e3faf33627f374aca1d384.webp" group-title="MUSICA", AMOR PARA TODOS
-https://stream.ads.ottera.tv/cl/a9f5beab-574a-4bad-85f2-1aabdecb718d/854x480_550000_3_f.m3u8
+https://stream.ads.ottera.tv/cl/aba6de57-2e32-4edd-acf8-f9054809cfc9/960x540_900000_4_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/416d4bff6de22d61a3bc3a7b9e8aecb4.webp" group-title="MUSICA", RITMOS INOLVIDABLES
-https://stream.ads.ottera.tv/cl/23c42003-db20-475f-80bf-fa6d59a3e913/960x540_900000_4_f.m3u8
+https://stream.ads.ottera.tv/cl/3f336634-06c6-41b2-89a1-781941e83bb6/960x540_900000_4_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e2a0874ed649b3ec721875b1892310d2.webp" group-title="MUSICA", AMORDISCOS TV
 https://stream.mediaserver.com.co:8088/live/canalamordiscos.m3u8?hls_ctx=og35tc8m
@@ -334,13 +334,13 @@ https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w1695679830.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8PFY8a8gfbk_FzQqsMG57KVKEklqMXYb8nxOCwwEGeYNYlzrjP_tkfYUN4JCoWvPtGiM&usqp=CAU" group-title="MUSICA", VINTAGE MUSIC
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f4198d87d89cb9c37e5131ce79f122c9.webp" group-title="MUSICA", CAROLINA TV
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8?nimblesessionid=38791586
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/carolinatv/carolinatv.smil/carolinatv/livestream3/chunks.m3u8?dpssid=b2508337425634715951d633&sid=ba5t1l1xb2228819100634715992b222
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png" group-title="MUSICA", VISION TV MUSICA
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1930517796.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc609b6dcbef4d2dea8e40e33a76286a.webp" group-title="MUSICA", CANELA HITS
-https://stream.ads.ottera.tv/cl/0aa3276a-ce24-4630-b617-dffe1202b02f/854x480_1355200_2_f.m3u8
+https://stream.ads.ottera.tv/cl/d7ef7c2e-4023-4335-873a-92144b2ff704/854x480_1355200_2_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d2696770a1daf9373c5414f784650e6.webp" group-title="MUSICA", ZAPPING MUSIC TV
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live3_b941600_sles.m3u8
