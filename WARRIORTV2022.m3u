@@ -27,7 +27,7 @@ https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/zoytv.png" group-title="BOLIVIA", ZOY TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_512,h_512,al_c/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png" group-title="BOLIVIA", ZOY TV
 https://master.tucableip.com/zoytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="BOLIVIA", OXIGENO
@@ -390,7 +390,7 @@ https://stream.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=0264634r
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a0fed5fd6bbc785bbd8e5589a08023e.webp" group-title="MUSICA", PLAY IBIZA 
-https://stream-us-east-1.getpublica.com/cl/cab3c1a9-8766-4d99-ba5e-b006535055ae/1024x576_172272_1_f.m3u8
+https://stream-us-east-1.getpublica.com/cl/1b094c76-1e82-48ad-a332-ee3d15d36558/1024x576_1870438_1_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/753
