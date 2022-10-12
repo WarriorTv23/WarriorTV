@@ -99,10 +99,10 @@ https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 #EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/aynity.png" group-title="BOLIVIA", AYNI TV
+#EXTINF:-1  tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/vostv.png" group-title="BOLIVIA", VOS TV
+#EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VOS TV
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1e7e9ba3d256c729523a210e6bfd949.webp" group-title="VENEZUELA", TELEVEN TV
