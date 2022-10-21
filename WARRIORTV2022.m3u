@@ -37,13 +37,16 @@ https://master.tucableip.com/zoytv/index.m3u8
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1692246340.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87f15abaa8357cdacb05e7941cfe79b4.webp" group-title="BOLIVIA", TVX HD
-https://bit.ly/3Ms75q7
+https://bit.ly/3VPiUei
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yXgRVrR/ndice.jpg" group-title="BOLIVIA", SAN ISIDRO TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="BOLIVIA", VISION TV
-https://cdn.streamhispanatv.net:3086/live/visiontvlive.m3u8
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
