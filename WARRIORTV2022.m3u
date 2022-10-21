@@ -315,8 +315,11 @@ https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="MUSICA", RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1093873605.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA)
-http://streaming.bitonlive.net:8080/hls/ottofm2/64_63/index.m3u8?sessId=1483181
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA) HD
+http://streaming.bitonlive.net:8080/hls/ottofm2/124_123/index.m3u8?sessId=2058420
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA) 560p
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653fbb7c243f8386820.png" group-title="MUSICA", REWIND
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w367917649.m3u8
@@ -355,6 +358,9 @@ https://videostreaming.cloudserverlatam.com/8078/8078/chunklist_w1411484966.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f4198d87d89cb9c37e5131ce79f122c9.webp" group-title="MUSICA", CAROLINA TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/carolinatv/carolinatv.smil/carolinatv/livestream4/chunks.m3u8?dpssid=b2508337425634715951d633&sid=ba5t1l1xb213406559206351e105d7dba
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fG7NJGp/descarga.jpg" group-title="MUSICA", VM LATINO
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w260922317.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png" group-title="MUSICA", VISION TV MUSICA
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1930517796.m3u8
