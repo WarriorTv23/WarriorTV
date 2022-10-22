@@ -45,11 +45,17 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_b2beab93cc1545f6972a497dc5eb665d~mv2.png/v1/fill/w_296,h_91,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_Vtv_3d_edited.png" group-title="BOLIVIA", VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chKDgHr/ndice.jpg" group-title="BOLIVIA", RENUEVA DIGITAL (EL ALTO)
+https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11754/thumb_URBAN_TV_LIVE.jpeg" group-title="BOLIVIA", URBAN TV
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/chunklist_w598303899.m3u8
 
 #EXTINF:-1 tvg-logo="https://marvisiontv.com/wp-content/uploads/elementor/thumbs/logoMV-ouzyrkgtwyns6td1jknv46cuol1f6qonx4cd92wb4y.png" group-title="BOLIVIA", MARVISION TV
 https://stmv.panel.grupolimalive.com/marvision/marvision/chunklist_w37901737.m3u8
@@ -89,6 +95,12 @@ https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://vocesdelsurunidas.org/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="BOLIVIA", TVU (LA PAZ)
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w561629445.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvusucre.com/images/Cabeza-logo.png" group-title="BOLIVIA", TVU (SUCRE)
+https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="BOLIVIA", LEVEL UP TV
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
 https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.m3u8
