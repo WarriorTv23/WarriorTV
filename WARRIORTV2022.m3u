@@ -240,11 +240,14 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGjAzDHHlc37lldfIb6EN6wzLcL6DWbUg0jewtk2lDojJiP-h5aEdYmxYGjut-koFRXs&usqp=CAU" group-title="PANAMA", TVN (MAX)
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS 1
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304328
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS 2
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304331
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR (ESPAÑA)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34704
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR (F1)
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR (PERU)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304302
@@ -366,9 +369,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w260922317.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.teleon.tv/logo/vision-tv-musica.png" group-title="MUSICA", VISION TV MUSICA
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1930517796.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc609b6dcbef4d2dea8e40e33a76286a.webp" group-title="MUSICA", CANELA HITS
-https://stream.ads.ottera.tv/cl/d7ef7c2e-4023-4335-873a-92144b2ff704/854x480_1355200_2_f.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d2696770a1daf9373c5414f784650e6.webp" group-title="MUSICA", ZAPPING MUSIC TV
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live3_b941600_sles.m3u8
 
@@ -387,9 +387,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp" group-title="MUSICA", PANAVISION TV
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w168081271.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Telehit-logo.gif/revision/latest/scale-to-width-down/200?cb=20120102193439" group-title="MUSICA", TELE HIT
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/141
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=184&fakeurl=1" group-title="MUSICA", VIWIX TV (MUSICAS)
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
@@ -403,9 +400,9 @@ https://stream.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=0264634r
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35034
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 90s
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s
 http://mfe02.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MTV 00s
@@ -446,23 +443,29 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50616
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 03
 https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CqsFyHu3TNV42jPQiYS6vGtE69QJi-_P623JBAcFEvdXzSL_XUO0O08gkCufLK-5ZMsFYsIRJHy-2poUwEGhtJKaUP-UalOec-dLMds5LCZe6K65ERHpjMXiELsiiKe46UwEgimcFE1KSCbl5hZ_dve7RXyjwRZosun5Y9N37mNMukg_M-oQNW_Ta_557L-dliLiwmMMsncZ8spsH3jQBAJfYvWjYg92VgqxlDygRoXPECR7vnZhac87RVAqLGBJJljiTeH8lBZx4DsvcqOJMncQqLaQN_leLgJakgRLDpVujTJ1-ZjZ893niEDO4dA53yx6WXYKQxw2SuObJxZuMVzS-IK5F4BDWGE-cuhbc9O8WMhqcLBrOY27RBgBg5aH6-jFqiBZeubBEHmOYb6Heo-uQWCXa9nivai0RcoZ0zPgoTUeEpGL1Cm9kwwPezQmb5f2dNYFkocI0dIMYPjt3YOhiTOjRv7qWA57MMYmosGHCq8g43UIryIAOTRxqe3sxzV7aS1FmgJfdngixgH_sugbJ2rbxRUJBcVd94iDEdnUw0Y_SfDmo18WMkl5UEFzSqmKQPUTTVTzdg163yOTSyhByF8SOzwmRK0tW-W-oDUyC_6TQwLdettRed0eUDqDxYwAvPUlgskClPB8Gs6KTDtsVURNe9xTW_LZvwOHpKj3PHF7wohRLBYNkWA89J7b_cEItRqXOFyzTMR5ny2cGEKhnPP6XFiOSIbkxg1rTZg1vv5tTnicFK7Va4YSvRBZ6Jp18jE6S3nTL9JRj4BsdhwUHT1xApetmp4ozM2HmpUDNkXbIZ1galXP7O3d2ZZotZvPBuw_Cl2QDoQtgu71FgWYdm3OMbE7FANFKlmsjHfR5lA4Ox5qkJM6H5S-CTN3klvogeZzPCuAo2yjQd8aDGbnjRaGqvu8Wm81nCABKgl1cy1lYXN0LTEwoQM.m3u8
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 01
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dddd&deviceDNT=0&deviceModel=0
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 02
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58076
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/123-1237544_pink-panther-pantera-rosa-pink-panther-logo-png.png" group-title="24/7", LA PANTERA ROSA
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34443
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
 http://usuarios.club/usuarios/src3/ElCoyoteYElCorrecaminos/demoUwD/OV0.m3u8
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3547
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50594
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPA
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/2924
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPPA PIG
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35480
 
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/679/290/png-transparent-christmas-line-smurfette-brainy-smurf-papa-smurf-comics-comic-book-smurfs-cartoon-thumbnail.png" group-title="24/7", PITUFOS
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62683498858f3e619d82d903/variant.m3u8?url=eb7bf906fea0bb8c38c516a3bca4131e-b88b4a25caca1f1859e9c7689f21fda4548fea79714368e05e047c9511c355247261d9a1b3e64741682604ccff2e0da16c5917a93ca3fa724af79f7d4393499d50657a1d99b35accb1f1be4c800ab38337e7c5ccd5a7d73037592d653364b1fad94e64b05ac0322bfc0c0be29c5c86206768690fc7937ecbffa1e99dbf674e7acc97203b744716c791613e65103cad92ba91db4b3f2bf60f33365070fb38dddf&x-plex-token=RNJJiaEa3BtKtd2_zmGu
 
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3533
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35509
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34475
@@ -484,6 +487,9 @@ https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yvVwGhc3L.__AC_SX300_SY300_QL70_ML2_.jpg" group-title="PELICULAS FAMILIA", GHOST (1990)
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21114&authkey=AETJoWGIWFLm7zI
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_hu_rfana_Primer_asesinato-880267341-mmed.jpg" group-title="PELICULAS TERROR", LA HUERFANA 2 (2022)
+
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xEIz5tV4sW8/UmamLowdVzI/AAAAAAAAAE8/vW0g2Y90Q_U/s1600/Chucky.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
