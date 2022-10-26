@@ -249,6 +249,9 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGjAzDHHlc37lldfIb6EN6wzLcL6DWbUg0jewtk2lDojJiP-h5aEdYmxYGjut-koFRXs&usqp=CAU" group-title="PANAMA", TVN (MAX)
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="AEMundo",AE Mundo
+http://190.60.37.69:8015/play/a01u/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS 1
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304328
 
@@ -548,6 +551,18 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", Masterchef
 https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2e0fdc78-807f-11eb-b762-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X01
+https://archive.org/download/t-2-x-02/T2X01.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X02
+https://archive.org/download/t-2-x-02/T2X02.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X03
+https://archive.org/download/t-2-x-02/T2X03.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS VARIOS", CHERRY (2010)
+https://archive.org/download/enga-prim-vista/CHERRY+(2010).mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS FAMILIA", VACACIONES EN ACAPULCO (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 
@@ -569,7 +584,14 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/95/72/49/20424864.jpg" group-title="PELICULAS TERROR", LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/08b46870f8ecbe40286e8ef5dfa8fa54de51d6d8e34b88f19553b4974e18f11c._UY500_UX667_RI_V_TTW_.jpg" group-title="CINE NACIONAL BO", ENGAÑO A PRIMERA VISTA
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Enga_o_a_primera_vista-198932254-large.jpg" group-title="CINE BOLIVIANO", ENGAÑO A PRIMERA VISTA
+https://archive.org/download/enga-prim-vista
+
+#EXTINF:-1 tvg-logo="https://www.frombolivia.com/wp-content/uploads/2012/08/1986_Mi-socio.jpg" group-title="CINE BOLIVIANO", MI SOCIO
+https://archive.org/download/enga-prim-vista/SOCIO.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/American_Visa-948535624-large.jpg" group-title="CINE BOLIVIANO", AMERICAN VISA
+https://archive.org/download/enga-prim-vista/AmeVisa.mp4
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO BOLIVIA",  El Matriqui De La Imilla
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21118&authkey=AIMX9sfS45Qi1bY
@@ -586,12 +608,4 @@ https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh6mSj2/imagen-2022-09-23-195151496.png" group-title="TEATRO BOLIVIA",  Teatro - La Sanguchera de La Esquina
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21116&authkey=ABDcPazlrslCeKY
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X01
-https://archive.org/download/t-2-x-02/T2X01.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X02
-https://archive.org/download/t-2-x-02/T2X02.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X03
-https://archive.org/download/t-2-x-02/T2X03.mp4
 
