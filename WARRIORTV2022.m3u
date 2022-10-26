@@ -252,6 +252,9 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="AEMundo",AE Mundo
 http://190.60.37.69:8015/play/a01u/index.m3u8
 
+#EXTINF:-1 group-title="TV PREMIUM" tvg-id="AXN",AXN
+http://190.60.37.69:8015/play/a045/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS 1
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304328
 
@@ -560,8 +563,8 @@ https://archive.org/download/t-2-x-02/T2X02.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X03
 https://archive.org/download/t-2-x-02/T2X03.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS VARIOS", CHERRY (2010)
-https://archive.org/download/enga-prim-vista/CHERRY+(2010).mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvK9xMj/p8386135-p-v8-aa.jpg" group-title="PELICULAS VARIOS", CHERRY (2010)
+https://archive.org/download/enga-prim-vista/CHERRY%20%282010%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS FAMILIA", VACACIONES EN ACAPULCO (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
@@ -569,7 +572,7 @@ https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81yvVwGhc3L.__AC_SX300_SY300_QL70_ML2_.jpg" group-title="PELICULAS FAMILIA", GHOST (1990)
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21114&authkey=AETJoWGIWFLm7zI
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_hu_rfana_Primer_asesinato-880267341-mmed.jpg" group-title="PELICULAS TERROR", LA HUERFANA 2 (2022)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mSB0NJg/La-hu-rfana-Primer-asesinato-880267341-mmed.jpg" group-title="PELICULAS TERROR", LA HUERFANA 2 (2022)
 https://archive.org/download/huer-2022_202210
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xEIz5tV4sW8/UmamLowdVzI/AAAAAAAAAE8/vW0g2Y90Q_U/s1600/Chucky.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
@@ -584,13 +587,12 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/95/72/49/20424864.jpg" group-title="PELICULAS TERROR", LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Enga_o_a_primera_vista-198932254-large.jpg" group-title="CINE BOLIVIANO", ENGAÑO A PRIMERA VISTA
-https://archive.org/download/enga-prim-vista
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02rFnkr/Enga-o-a-primera-vista-198932254-large.jpg" group-title="CINE BOLIVIANO", ENGAÑO A PRIMERA VISTA
 
 #EXTINF:-1 tvg-logo="https://www.frombolivia.com/wp-content/uploads/2012/08/1986_Mi-socio.jpg" group-title="CINE BOLIVIANO", MI SOCIO
 https://archive.org/download/enga-prim-vista/SOCIO.mp4
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/American_Visa-948535624-large.jpg" group-title="CINE BOLIVIANO", AMERICAN VISA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mczczkf/VISA.jpg" group-title="CINE BOLIVIANO", AMERICAN VISA
 https://archive.org/download/enga-prim-vista/AmeVisa.mp4
 
 #EXTINF:-1 tvg-logo="https://static.eldeber.com.bo//Files/Sizes/2021/4/24/la-salud-de-david-santalla-nuevamente-se-encuentra-debilitada-por_253450343_760x520.jpg" group-title="TEATRO BOLIVIA",  El Matriqui De La Imilla
