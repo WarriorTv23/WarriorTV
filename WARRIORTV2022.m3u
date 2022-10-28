@@ -12,7 +12,10 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
 https://panel.seo.tv.bo:3314/live/seolive.m3u8
 
-#EXTINF:-1 tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="BOLIVIA", CINEMA FICCION FHD
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50572
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FICCION FHD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50573
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
@@ -20,6 +23,18 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50583
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50582
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DC UNIVERSE
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50577
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DISNEY FAMILY FHD
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50578
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FAMILIA FHD
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50581
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50586
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
@@ -429,12 +444,12 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34704
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304302
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b84e790678869bca882d17561b701d4.webp" group-title="DEPORTES", TyC SPORTS
-https://1240-vos.dtvott.com/DASH/manifest.mpd
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34685
 
-#EXTINF:-1 tvg-logo="https://preview.redd.it/e7ozb7lkjl371.png?width=200&format=png&auto=webp&s=451186a206263c7ae141c6f6f0bd75c378db0774" group-title="DEPORTES", GOL PERU
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/463
+#EXTINF:-1 tvg-logo="https://preview.redd.it/e7ozb7lkjl371.png?width=200&format=png&auto=webp&s=451186a206263c7ae141c6f6f0bd75c378db0774" group-title="DEPORTES", GOL TV 1
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34693
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="DEPORTES", GOL PERU
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="DEPORTES", GOL TV 2
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304300
 
 #EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="DEPORTES", TNT SPORTS
@@ -444,25 +459,25 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34684
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES", EL CANAL DEL FUTBOL
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3390
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304386
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="DEPORTES", FOX SPORTS 1
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34631
 
 #EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/63-fox-sports-2-1432375612.jpg" group-title="DEPORTES", FOX SPORTS 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34634
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="DEPORTES", FOX SPORTS 3
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34636
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES", ESPN 
-http://45.71.185.142:8500/play/a01e
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES", ESPN 4
-http://45.71.185.142:8500/play/a021
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302637
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES", ESPN 2
-http://200.24.132.99:8000/play/a02w
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302639
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES", ESPN 3
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302640
 
 #EXTINF:-1 tvg-logo="http://image.over-blog.com/_rVc7ZSuFxL12xdIM-8n0Eil7aQ=/filters:no_upscale()/image%2F6692182%2F20220207%2Fob_0444aa_logo-direct-tv.png" group-title="DEPORTES", DIREC TV SPORTS 1
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34616
@@ -486,7 +501,10 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/85
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302634
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302635
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AcapulcoShore_logo.png" group-title="ENTRETENIMIENTO", ACAPULCO SHORE
 http://axyz.encohd.co:35341/live/dt8Kz1A8te/m29N9eSisF/399.m3u8
@@ -590,9 +608,6 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35035
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/mtv.png" group-title="MUSICA", MTV 
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35015
 
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQHewItNf4zl9Q/company-logo_200_200/0/1519856148198?e=2147483647&v=beta&t=_OPY8C0ussEgfcAJ9R8Xw2zzU2H9mafd0a59k2e8HKA" group-title="24/7", CINE MARVEL
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50586
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58284
 
@@ -607,7 +622,7 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58120
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58121
 
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CaballerosDelZodiaco
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35524
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/967/183/small/anime-eyes-vision-fire-pop-culture-logo-design-vector.jpg" group-title="24/7", ANIME
