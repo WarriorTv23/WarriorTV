@@ -60,13 +60,13 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbbfSXY/descarga.png" group-title="BOLIVIA", ITV
 https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.datocms-assets.com/30264/1600714808-tv-logo-1.png" group-title="Bolivia", TOTALVISION
+#EXTINF:-1  tvg-logo="https://www.datocms-assets.com/30264/1600714808-tv-logo-1.png" group-title="BOLIVIA", TOTALVISION
 https://master.tucableip.com/NetTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4yPLyS/unnamed.png" group-title="Bolivia", MEGA AMAZONIA TV  
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4yPLyS/unnamed.png" group-title="BOLIVIA", MEGA AMAZONIA TV  
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ftsna92WmHs/XGlbZMPpEuI/AAAAAAAAHXQ/__JPrmk4VSYOKBG36QPXYMWhUNC_vMONwCLcBGAs/s1600/Megavisionenvivo.png" group-title="BOLIVIA", MEGAVISION HD
