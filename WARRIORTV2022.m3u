@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
-https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+https://seo.tv.bo/tv/SEOX.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)
-https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+https://seo.tv.bo/tv/KIDSX.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
-https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+https://seo.tv.bo/tv/NVLSX.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://panel.seo.tv.bo:3314/live/seolive.m3u8
+https://seo.tv.bo/tv/DEPX.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50572
@@ -57,8 +57,11 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1692246340.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yXgRVrR/ndice.jpg" group-title="BOLIVIA", SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD
-https://master.tucableip.com/neotv/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV 1 HD
+https://stream8.mexiserver.com:1936/neotvbolivia/neotvbolivia/chunklist_w419248054.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV 2 HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
@@ -773,7 +776,7 @@ https://ia601507.us.archive.org/5/items/sml-322/SML322.mp4
 https://ia601401.us.archive.org/24/items/terrifier-1-2016/Terrifier%201%20%282016%29.mp4
 
 #EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/325024_front.jpg?t=1664666402" group-title="PELICULAS TERROR", TERRIFIER 2 (2022) SUBT
-
+https://ia804701.us.archive.org/2/items/terri-2-2022/TERRI%202%202022.mp4
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xEIz5tV4sW8/UmamLowdVzI/AAAAAAAAAE8/vW0g2Y90Q_U/s1600/Chucky.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
