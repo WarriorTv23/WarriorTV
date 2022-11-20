@@ -440,6 +440,12 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304328
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS 2
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304331
 
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES",DIRECT TV
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34612
+
+#EXTINF:-1 tvg-logo="https://wikidat.com/img/directv-sports-0cdd568775e01e5898eadb7fb1744b2d.jpg" group-title="DEPORTES",DIRECT TV +
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/123871
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR (ESPAÑA)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34704
 
