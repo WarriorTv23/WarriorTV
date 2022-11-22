@@ -43,7 +43,7 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
-https://streannlivecontactobolivia.cachefly.net/contactobolivia1/contactobolivia1/chunks.m3u8
+https://streannlivecontactobolivia.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.129.164.222/1ccbd2283353e21e7e94926a328e34d806d0fa09adc5a4df69e17e8926e5c920/contactobolivia1/contactobolivia1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
@@ -440,11 +440,41 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304328
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS 2
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304331
 
-#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES",DIRECT TV
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DIRECT TV
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34612
 
-#EXTINF:-1 tvg-logo="https://wikidat.com/img/directv-sports-0cdd568775e01e5898eadb7fb1744b2d.jpg" group-title="DEPORTES",DIRECT TV +
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DIRECT TV HD
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/123872
+
+#EXTINF:-1 tvg-logo="https://wikidat.com/img/directv-sports-0cdd568775e01e5898eadb7fb1744b2d.jpg" group-title="DEPORTES", DIRECT TV +
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/123871
+
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DIRECT TV 2
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34612
+
+#EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DIRECT TV (CO)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/43430
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1503811367203090438/BKws2DP3_400x400.jpg" group-title="DEPORTES", CLARO SPORTS SD (LAT)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34617
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1503811367203090438/BKws2DP3_400x400.jpg" group-title="DEPORTES", CLARO SPORTS FHD (LAT)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34618
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="DEPORTES", TNT SPORTS HD (CL)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34675
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="DEPORTES", TNT SPORTS SD (CL)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34674
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="DEPORTES", TNT Sports HD (ARG)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34683
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="DEPORTES", TNT Sports FHD (ARG)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34684
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="DEPORTES", CDO PREMIUM SD (CL)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34679
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR (ESPAÑA)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34704
@@ -455,14 +485,20 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304302
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b84e790678869bca882d17561b701d4.webp" group-title="DEPORTES", TyC SPORTS
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34685
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b84e790678869bca882d17561b701d4.webp" group-title="DEPORTES", TyC SPORTS+
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34688
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="DEPORTES", WIN SPORTS SD (CO)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34689
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="DEPORTES", WIN SPORTS + FHD (CO)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34691
+
 #EXTINF:-1 tvg-logo="https://preview.redd.it/e7ozb7lkjl371.png?width=200&format=png&auto=webp&s=451186a206263c7ae141c6f6f0bd75c378db0774" group-title="DEPORTES", GOL TV 1
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34693
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="DEPORTES", GOL TV 2
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304300
-
-#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632432438/sites/tntsports/arte/apps/twitter_summary_card_20210114.jpg" group-title="DEPORTES", TNT SPORTS
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34684
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="DEPORTES", BEIN SPORTS
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
@@ -478,6 +514,9 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34634
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="DEPORTES", FOX SPORTS 3
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34636
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTES", FOX SPORTS PREMIUM (MX VIP)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304554
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES", ESPN 
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302637
@@ -497,11 +536,20 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34612
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/HACpPafOQ9Yj5f8T8Ey1Y/fe9b0f454657b8c4812a138c5870239e/12_ClaroSports.png" group-title="DEPORTES", CLARO SPORTS
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34617
 
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/deportes/univision.png" group-title="DEPORTES", UNIVISION DEPORTES NETWORK HD (US)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34715
+
+#EXTINF:-1 tvg-logo="http://hidra.live:80/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="DEPORTES", UFC FIGHT PASS FHD (US)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34714
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="DEPORTES", HARD KNOCKS (INGLES)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/a540917e-d607-41ec-b1cf-b7b7944822dd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.tv/userfiles/image/channel/150x150fightsport.jpg" group-title="DEPORTES", FIGHT SPORTS (INGLES)
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/deportes/wwe.png" group-title="DEPORTES", WWE NETWORK HD  (US)
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34716
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5ld2Zhc3QuYm94dWhkX3NjcmVlbl8wXzE2MDAzNjgyMjZfMDEx/screen-0.jpg?fakeurl=1&type=.webp" group-title="DEPORTES", BOX TV (INGLES)
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
