@@ -1,16 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
-https://seo.tv.bo/tv/SEOX.m3u8
+https://seo.tv.bo/tv/1SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)
-https://seo.tv.bo/tv/KIDSX.m3u8
+https://live.seo.tv.bo/live/2SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
-https://seo.tv.bo/tv/NVLSX.m3u8
+https://live.seo.tv.bo/live/3SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://seo.tv.bo/tv/DEPX.m3u8
+https://live.seo.tv.bo/live/4SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (DEPORTES)
+https://live.seo.tv.bo/live/5SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (MUNDIAL22)
+https://live.seo.tv.bo/live/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50572
@@ -35,6 +41,12 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50581
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50586
+
+#EXTINF:-1 tvg-logo="https://img.lovepik.com/free_png/33/54/66/75I58PIC9Yt58PICwDcUgnRuD_PIC2018.png_860.png" group-title="BOLIVIA", FULL CINE BO
+https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/49-491422_file-vinyl-record-cover-png.png" group-title="BOLIVIA", FULL MUSIC BO
+https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
 https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist.m3u8
@@ -84,6 +96,9 @@ https://master.tucableip.com/NetTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png" group-title="BOLIVIA", MEGA TV (RURENABAQUE)
+https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/f4yPLyS/unnamed.png" group-title="BOLIVIA", MEGA AMAZONIA TV  
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
@@ -107,9 +122,6 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION
 https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION MUSICALES
-https://d2byzrnrdb259r.cloudfront.net/hls/upptv_360.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
@@ -820,8 +832,14 @@ https://ia601507.us.archive.org/14/items/t-2-x-06_202211/T2X06.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X07
 https://ia601502.us.archive.org/25/items/t-2-x-07_202211/T2X07.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X08
+https://ia904704.us.archive.org/13/items/t-2-x-08/T2X08.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvK9xMj/p8386135-p-v8-aa.jpg" group-title="PELICULAS VARIOS", CHERRY (2010)
 https://archive.org/download/enga-prim-vista/CHERRY%20%282010%29.mp4
+
+#EXTINF:-1 tvg-logo="https://www.sonyvideo.com.mx/media/packshots/url/pasajeros_digital.jpg" group-title="PELICULAS VARIOS", PASAJEROS (2016)
+https://ia601507.us.archive.org/5/items/pass-2016/Pass%282016%29.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="PELICULAS FAMILIA", VACACIONES EN ACAPULCO (1977)
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
@@ -838,7 +856,7 @@ https://ia601507.us.archive.org/5/items/sml-322/SML322.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YLQF1D/images.jpg" group-title="PELICULAS TERROR", TERRIFIER 1 (2016)
 https://ia601401.us.archive.org/24/items/terrifier-1-2016/Terrifier%201%20%282016%29.mp4
 
-#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/325024_front.jpg?t=1664666402" group-title="PELICULAS TERROR", TERRIFIER 2 (2022) SUBT
+#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/325024_front.jpg?t=1664666402" group-title="PELICULAS TERROR", TERRIFIER 2 (2022) SUB
 https://ia804701.us.archive.org/2/items/terri-2-2022/TERRI%202%202022.mp4
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xEIz5tV4sW8/UmamLowdVzI/AAAAAAAAAE8/vW0g2Y90Q_U/s1600/Chucky.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
