@@ -55,7 +55,7 @@ https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/1/streamPlaylist
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
-https://streannlivecontactobolivia.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.129.181.146/e98f03bc66e8e57aa3b3d91c06303fd0854ca17e7c163a78b6d14e7949aa13b6/contactobolivia1/contactobolivia1/chunks.m3u8
+https://streannlivecontactobolivia.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.129.164.13/69b86405497b91cb6637c4838eedb6e672cc0f4cd572dceaff7a32ce80296483/contactobolivia1/contactobolivia1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
@@ -79,7 +79,7 @@ https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chKDgHr/ndice.jpg" group-title="BOLIVIA", RENUEVA DIGITAL (EL ALTO)
-https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -88,7 +88,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.datocms-assets.com/30264/1600714808-tv-logo-1.png" group-title="BOLIVIA", TOTALVISION
-https://master.tucableip.com/NetTv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w2029772688.m3u8
@@ -133,7 +133,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/ind
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304323
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB
-http://186.121.206.197/live/daniel/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB SD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304314
@@ -145,7 +145,7 @@ https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w561629445.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvusucre.com/images/Cabeza-logo.png" group-title="BOLIVIA", TVU (SUCRE)
-https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_480p/playlist.m3u8
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cnj0xbN/channels4-profile.jpg" group-title="BOLIVIA", TVU (SANTA CRUZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
@@ -160,31 +160,30 @@ https://614013e273786.streamlock.net/RtpBolivia/RtpBolivia/chunklist_w216051707.
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/Abya-Yala-TV-tvtolive.com_.jpg" group-title="BOLIVIA", ABYA YALA TV
-https://master.tucableip.com/abyayalatvsd/tracks-v1a1/mono.m3u8
+https://master.tucableip.com/abyayalatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="BOLIVIA", CRISTAL TV (Santa Cruz)
-http://america.tucableip.com/bolivia/cristaltv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://editor.zenomedia.com/resources/zs_station/584130/CardWebsite/image.png" group-title="BOLIVIA", RADIO MEGA 97.3
-https://cdnhd.iblups.com/hls/Ghhf9SS1HB.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", ERBOL TV
 https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png" group-title="BOLIVIA", TV OFF
-https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
-http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VOS TV
-http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1e7e9ba3d256c729523a210e6bfd949.webp" group-title="VENEZUELA", TELEVEN TV
-https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" group-title="VENEZUELA", XTREMA TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w1482229217.m3u8
@@ -700,6 +699,15 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58284
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58285
 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34475
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58123
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9b/6d/76/9b6d765065d7e1628cf1570ae3125eec.jpg" group-title="24/7", LOS 3 CHIFLADOS
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/49190
+
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58120
 
@@ -732,6 +740,9 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58076
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/123-1237544_pink-panther-pantera-rosa-pink-panther-logo-png.png" group-title="24/7", LA PANTERA ROSA
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34443
 
+#EXTINF:-1 tvg-logo="https://www.serietv.es/images/serie/GC/el-show-de-el-pajaro-loco-G.jpg" group-title="24/7", PAJARO LOCO SD
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58322
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
 http://usuarios.club/usuarios/src3/ElCoyoteYElCorrecaminos/demoUwD/OV0.m3u8
 
@@ -747,8 +758,28 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-62683498858f
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35509
 
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34475
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35530
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="24/7", SUPERCAMPEONES
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58109
+
+#EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 1
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58082
+
+#EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 2
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/1013/941/301/logo-dragon-ball-gt-anime-original-04-dragonball-gt-illustration-png-clipart.jpg" group-title="24/7", DRAGON BALL GT 1
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58084
+
+#EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/1013/941/301/logo-dragon-ball-gt-anime-original-04-dragonball-gt-illustration-png-clipart.jpg" group-title="24/7", DRAGON BALL GT 2
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35529
+
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/769/118/png-clipart-dagron-ball-super-logo-dragonball-super-logo-thumbnail.png" group-title="24/7", DRAGON BALL SUPER
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35528
+
+#EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58112
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="PLUTO TV", South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
