@@ -75,9 +75,8 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rbbfSXY/descarga.png" group-title="BOLIVIA", ITV
-
-#EXTINF:-1  tvg-logo="https://www.datocms-assets.com/30264/1600714808-tv-logo-1.png" group-title="BOLIVIA", TOTALVISION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fntJmzB/TROPICAL-HD.jpg" group-title="BOLIVIA", TV HD TROPICAL
+https://cloud3.streaminglivehd.com:1936/8068/8068/chunklist_w153237228.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
 https://ddy1.salamus1.lol/ddy1/premium376/playlist.m3u8
@@ -176,6 +175,8 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rbbfSXY/descarga.png" group-title="BOLIVIA", ITV
+#EXTINF:-1  tvg-logo="https://www.datocms-assets.com/30264/1600714808-tv-logo-1.png" group-title="BOLIVIA", TOTALVISION
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
 #EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
 #EXTINF:-1 tvg-logo="https://img.lovepik.com/free_png/33/54/66/75I58PIC9Yt58PICwDcUgnRuD_PIC2018.png_860.png" group-title="BOLIVIA", FULL CINE BO
