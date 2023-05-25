@@ -26,6 +26,8 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50572
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FICCION FHD
 
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", PELICULAS INFANTILES FHD
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/202426
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50583
@@ -1009,6 +1011,9 @@ https://audionext.rds.radio/media_57310243.aac
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/11526
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58284
 
@@ -1016,7 +1021,7 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58284
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58285
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34475
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/236535
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58123
@@ -1028,6 +1033,7 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/49190
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58120
 
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/40829
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58121
@@ -1062,7 +1068,11 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34443
 #EXTINF:-1 tvg-logo="https://www.serietv.es/images/serie/GC/el-show-de-el-pajaro-loco-G.jpg" group-title="24/7", PAJARO LOCO SD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58322
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/203853
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/248674
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50594
@@ -1070,7 +1080,11 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50594
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPPA PIG
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35480
 
-#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.3787542886.1970/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7", Paw Patroll
+#EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.3787542886.1970/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7", PAW PATROLL
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/203599
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="24/7", PLIM PLIM
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/207821
 
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/679/290/png-transparent-christmas-line-smurfette-brainy-smurf-papa-smurf-comics-comic-book-smurfs-cartoon-thumbnail.png" group-title="24/7", PITUFOS
 
@@ -1079,6 +1093,9 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35509
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35530
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="24/7", POKEMON
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/208207
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="24/7", SUPERCAMPEONES
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58109
@@ -1099,18 +1116,6 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35528
 
 #EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58112
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="24/7", VECINOS
-https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="24/7", LA FAMILIA PELUCHE
-https://linear-311.frequency.stream/dist/vix/311/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="24/7", UNA FAMILIA DE 10
-https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="24/7", LA ROSA DE GUADALUPE
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="24/7", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1545,6 +1550,29 @@ http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75201.mkv
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="ENTRETENIMIENTO", MTV Shore 24/7
 http://51.222.43.170:8001/3meseskaw154/UZW8rn3GgFBT/282996
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="ENTRETENIMIENTO", Cero en Conducta
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/296951
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 1
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/274307
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 2
+https://linear-311.frequency.stream/dist/vix/311/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="ENTRETENIMIENTO", VECINOS
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="ENTRETENIMIENTO", UNA FAMILIA DE 10
+https://linear-450.frequency.stream/dist/vix/450/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="ENTRETENIMIENTO", Caso Cerrado
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/297298
+
+#EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="ENTRETENIMIENTO", LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X01
 https://archive.org/download/t-2-x-02/T2X01.mp4
