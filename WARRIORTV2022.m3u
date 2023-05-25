@@ -47,6 +47,9 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50581
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50586
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/263275
+
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="BOLIVIA", Retro Play TV 
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
@@ -130,6 +133,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SD
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304335
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/248531
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO (SANTA CRUZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -568,6 +574,175 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", AXN HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69254
 
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="SD | Las Estrellas" tvg-logo="http://51.222.43.170:8001/images/b15c919ea2656eb10414e6e6001d61e1.png" group-title="CANALES SD (Poco Internet)",SD | Las Estrellas
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260578
+#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="http://51.222.43.170:8001/images/a62ec558eb0f31d4ed08a54eaebdfabb.png" group-title="CANALES SD (Poco Internet)",SD | Las Estrellas
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260602
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SD | Az corazón" tvg-logo="http://51.222.43.170:36995/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg" group-title="CANALES SD (Poco Internet)",SD | Az corazón
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260534
+#EXTINF:-1 tvg-id="axn.mx" tvg-name="SD | AXN" tvg-logo="http://51.222.43.170:36995/images/afeda469188fbc964d949faa482b7b57.png" group-title="CANALES SD (Poco Internet)",SD | AXN
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260579
+#EXTINF:-1 tvg-id="" tvg-name="SD | AXN" tvg-logo="http://51.222.43.170:36995/images/afeda469188fbc964d949faa482b7b57.png" group-title="CANALES SD (Poco Internet)",SD | AXN
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260585
+#EXTINF:-1 tvg-id="" tvg-name="SD | Comedy Central" tvg-logo="http://51.222.43.170:8001/images/129caaaa7a43053b5fb844224d63c5bb.png" group-title="CANALES SD (Poco Internet)",SD | Comedy Central
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260587
+#EXTINF:-1 tvg-id="eentertainmentandes.co" tvg-name="SD | E!" tvg-logo="http://51.222.43.170:8001/images/66420f0f47bd4691fc0fb3a0a0c2fa8e.png" group-title="CANALES SD (Poco Internet)",SD | E!
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260569
+#EXTINF:-1 tvg-id="" tvg-name="SD | Food Network" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Food Network
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260594
+#EXTINF:-1 tvg-id="fx.mx" tvg-name="SD | FX" tvg-logo="http://51.222.43.170:8001/images/a1d2f92ee37d23d923743f93e4a60483.png" group-title="CANALES SD (Poco Internet)",SD | FX
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260561
+#EXTINF:-1 tvg-id="" tvg-name="SD | Garage tv" tvg-logo="http://51.222.43.170:36995/images/3824795e4e1fbf0f72f1cf99ee90d861.jpg" group-title="CANALES SD (Poco Internet)",SD | Garage tv
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260518
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="SD | Gourmet" tvg-logo="http://51.222.43.170:36995/images/0828abc672148441b3ad47023650f8ab.jpg" group-title="CANALES SD (Poco Internet)",SD | Gourmet
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260558
+#EXTINF:-1 tvg-id="glitz.co" tvg-name="SD | Glitz" tvg-logo="http://51.222.43.170:36995/images/a9252dcb4eae3a97e0dd312d42125937.jpg" group-title="CANALES SD (Poco Internet)",SD | Glitz
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260560
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | ID" tvg-logo="http://51.222.43.170:36995/images/b718adec73e04ce3ec720dd11a06a308.jpg" group-title="CANALES SD (Poco Internet)",SD | ID
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260552
+#EXTINF:-1 tvg-id="lifetime.co" tvg-name="SD | Lifetime" tvg-logo="http://51.222.43.170:8001/images/67e7c7cfdee04a097a96c4fa88e10516.png" group-title="CANALES SD (Poco Internet)",SD | Lifetime
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260551
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="SD | Mas Chic" tvg-logo="http://51.222.43.170:36995/images/fbfd4e550d121590a065930450c8c12d.jpg" group-title="CANALES SD (Poco Internet)",SD | Mas Chic
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260520
+#EXTINF:-1 tvg-id="" tvg-name="SD | SYFY" tvg-logo="http://51.222.43.170:8001/images/e06fe0e616040ead9314a10dfd3bc1bb.png" group-title="CANALES SD (Poco Internet)",SD | SYFY
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260606
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="SD | TLC" tvg-logo="http://51.222.43.170:8001/images/d2d37c7c32173210d37a387a3d1f3dd6.png" group-title="CANALES SD (Poco Internet)",SD | TLC
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260539
+#EXTINF:-1 tvg-id="tcm.co" tvg-name="SD | TCM" tvg-logo="http://51.222.43.170:36995/images/b1147024579f6eaf7a218e3098814fda.jpg" group-title="CANALES SD (Poco Internet)",SD | TCM
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260540
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="SD | Unicable" tvg-logo="http://51.222.43.170:8001/images/85ee06a027e5ae6f8c99ca586cf6f05f.png" group-title="CANALES SD (Poco Internet)",SD | Unicable
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260536
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="SD | Animal planet" tvg-logo="http://51.222.43.170:8001/images/ce063ebc7cd75033f93f0ae651507bdc.png" group-title="CANALES SD (Poco Internet)",SD | Animal planet
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260535
+#EXTINF:-1 tvg-id="history.co" tvg-name="SD | History" tvg-logo="http://51.222.43.170:36995/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CANALES SD (Poco Internet)",SD | History
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260553
+#EXTINF:-1 tvg-id="history2.co" tvg-name="SD | H2" tvg-logo="http://51.222.43.170:36995/images/0a012393fa9a95c3671ba881683c62f6.jpg" group-title="CANALES SD (Poco Internet)",SD | H2
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260528
+#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery ID" tvg-logo="http://51.222.43.170:8001/images/c99033f970a968286a3387c079426629.png" group-title="CANALES SD (Poco Internet)",SD | Discovery ID
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260589
+#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="SD | Discovery science" tvg-logo="http://51.222.43.170:8001/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="CANALES SD (Poco Internet)",SD | Discovery science
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260574
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="SD | Discovery H&H" tvg-logo="http://51.222.43.170:8001/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CANALES SD (Poco Internet)",SD | Discovery H&H
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260576
+#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery HH" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Discovery HH
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260588
+#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="SD | Discovery Turbo" tvg-logo="http://51.222.43.170:8001/images/306bb49a5594573218e8770f24e166c7.png" group-title="CANALES SD (Poco Internet)",SD | Discovery Turbo
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260572
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="SD | Discovery Theater" tvg-logo="http://51.222.43.170:36995/images/2f8b33bc431006afa5310403ef614593.png" group-title="CANALES SD (Poco Internet)",SD | Discovery Theater
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260573
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="SD | Discovery world" tvg-logo="http://51.222.43.170:8001/images/f5606e1196d693cf21b7ae31877ce473.png" group-title="CANALES SD (Poco Internet)",SD | Discovery world
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260571
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="SD | NatGeo" tvg-logo="http://51.222.43.170:8001/images/da70fa6e98bc60c62f134d0716289fcf.png" group-title="CANALES SD (Poco Internet)",SD | NatGeo
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260548
+#EXTINF:-1 tvg-id="babytv.co" tvg-name="SD | Baby tv" tvg-logo="http://51.222.43.170:36995/images/45914664eafc286fb139a5036f142106.jpg" group-title="CANALES SD (Poco Internet)",SD | Baby tv
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260533
+#EXTINF:-1 tvg-id="" tvg-name="SD | Boomerang" tvg-logo="http://51.222.43.170:8001/images/b04742bbf18ec1642dee80f6e674e00a.png" group-title="CANALES SD (Poco Internet)",SD | Boomerang
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260586
+#EXTINF:-1 tvg-id="boomerang.co" tvg-name="SD | Boomerang" tvg-logo="http://51.222.43.170:8001/images/4acfe0602d8a4fa437b9ac8c061e6493.png" group-title="CANALES SD (Poco Internet)",SD | Boomerang
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260610
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="SD | Cartoon network" tvg-logo="http://51.222.43.170:8001/images/1bc94183160849d6b99192b880949a9e.png" group-title="CANALES SD (Poco Internet)",SD | Cartoon network
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260532
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="SD | Disney" tvg-logo="http://51.222.43.170:36995/images/c6e44b56b7a2d04182aa31e05ec919b8.jpg" group-title="CANALES SD (Poco Internet)",SD | Disney
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260521
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="SD | Discovery Kids" tvg-logo="http://51.222.43.170:8001/images/e1abff7cfbdd9135b1fa98cc85ac8576.png" group-title="CANALES SD (Poco Internet)",SD | Discovery Kids
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260575
+#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Channel" tvg-logo="http://51.222.43.170:8001/images/731b1c883232679c23426e8c32a6ca01.png" group-title="CANALES SD (Poco Internet)",SD | Disney Channel
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260590
+#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Jr" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Disney Jr
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260591
+#EXTINF:-1 tvg-id="nickjr.co" tvg-name="SD | Nick jr" tvg-logo="http://51.222.43.170:8001/images/53a027a0798e6d3f3f70b0307f6e38fc.png" group-title="CANALES SD (Poco Internet)",SD | Nick jr
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260544
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="SD | Nick" tvg-logo="http://51.222.43.170:8001/images/dbe20313e007928ef4e9990347a2e424.png" group-title="CANALES SD (Poco Internet)",SD | Nick
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260545
+#EXTINF:-1 tvg-id="nick2.mx" tvg-name="SD | Nick 2" tvg-logo="http://51.222.43.170:36995/images/e2e42a07550863f8b67f5eb252581f6d.jpg" group-title="CANALES SD (Poco Internet)",SD | Nick 2
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260546
+#EXTINF:-1 tvg-id="" tvg-name="SD | Nickelodeon" tvg-logo="http://51.222.43.170:36995/images/572d540acd8d2692383acfcec7b8efec.png" group-title="CANALES SD (Poco Internet)",SD | Nickelodeon
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260603
+#EXTINF:-1 tvg-id="tooncast.co" tvg-name="SD | Tooncast" tvg-logo="http://51.222.43.170:36995/images/1f2004d2d300ac1da929d30860236fc6.jpg" group-title="CANALES SD (Poco Internet)",SD | Tooncast
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260537
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="SD | Cinecanal" tvg-logo="http://51.222.43.170:8001/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CANALES SD (Poco Internet)",SD | Cinecanal
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260577
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="SD | Cinemax" tvg-logo="http://51.222.43.170:8001/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="CANALES SD (Poco Internet)",SD | Cinemax
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260531
+#EXTINF:-1 tvg-id="fox.mx" tvg-name="SD | Fox" tvg-logo="http://51.222.43.170:36995/images/2b95d1f09b8b66c5c43622a4d9ec9a04.jpg" group-title="CANALES SD (Poco Internet)",SD | Fox
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260530
+#EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="SD | Golden premier" tvg-logo="http://51.222.43.170:8001/images/598ba378f9c22a784f11a6fa71abcabf.png" group-title="CANALES SD (Poco Internet)",SD | Golden premier
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260559
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="SD | Golden Edge" tvg-logo="http://51.222.43.170:8001/images/a11dbdba8e777fc8f5ef6f76579678e8.png" group-title="CANALES SD (Poco Internet)",SD | Golden Edge
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260583
+#EXTINF:-1 tvg-id="hbohd.co" tvg-name="SD | HBO" tvg-logo="http://51.222.43.170:8001/images/23334b4e9c2bb90eb08163c545722d1d.png" group-title="CANALES SD (Poco Internet)",SD | HBO
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260557
+#EXTINF:-1 tvg-id="" tvg-name="SD | HBO" tvg-logo="http://51.222.43.170:8001/images/23334b4e9c2bb90eb08163c545722d1d.png" group-title="CANALES SD (Poco Internet)",SD | HBO
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260599
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="SD | HBO 2" tvg-logo="http://51.222.43.170:8001/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CANALES SD (Poco Internet)",SD | HBO 2
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260527
+#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="SD | HBO Family" tvg-logo="http://51.222.43.170:8001/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CANALES SD (Poco Internet)",SD | HBO Family
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260554
+#EXTINF:-1 tvg-id="hbomundi.co" tvg-name="SD | HBO Mundi" tvg-logo="http://51.222.43.170:8001/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="CANALES SD (Poco Internet)",SD | HBO Mundi
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260529
+#EXTINF:-1 tvg-id="hboplus.co" tvg-name="SD | HBO Plus" tvg-logo="http://51.222.43.170:8001/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CANALES SD (Poco Internet)",SD | HBO Plus
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260556
+#EXTINF:-1 tvg-id="" tvg-name="SD | HBO plus" tvg-logo="http://51.222.43.170:36995/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CANALES SD (Poco Internet)",SD | HBO plus
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260600
+#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="SD | HBO Signature" tvg-logo="http://51.222.43.170:8001/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="CANALES SD (Poco Internet)",SD | HBO Signature
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260555
+#EXTINF:-1 tvg-id="paramountchannel.co" tvg-name="SD | Paramount" tvg-logo="http://51.222.43.170:36995/images/e80b1aa22a55e05706369fb01d551dd3.jpg" group-title="CANALES SD (Poco Internet)",SD | Paramount
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260543
+#EXTINF:-1 tvg-id="" tvg-name="SD | I SAT" tvg-logo="http://51.222.43.170:8001/images/08f106f9fa65c99ae849844b7482d3fc.png" group-title="CANALES SD (Poco Internet)",SD | I SAT
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260601
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="SD | TNT Series" tvg-logo="http://51.222.43.170:8001/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CANALES SD (Poco Internet)",SD | TNT Series
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260538
+#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="SD | Sony" tvg-logo="http://51.222.43.170:8001/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="CANALES SD (Poco Internet)",SD | Sony
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260542
+#EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="http://51.222.43.170:8001/images/7334fa93b1ca52c9c0d26ee59cada4b4.png" group-title="CANALES SD (Poco Internet)",SD | Sony
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260604
+#EXTINF:-1 tvg-id="space.co" tvg-name="SD | Space" tvg-logo="http://51.222.43.170:8001/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CANALES SD (Poco Internet)",SD | Space
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260541
+#EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="http://51.222.43.170:8001/images/70fae6a0b602eafc43bba02c4078e623.png" group-title="CANALES SD (Poco Internet)",SD | Space
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260605
+#EXTINF:-1 tvg-id="" tvg-name="SD | Studio Universal" tvg-logo="http://51.222.43.170:8001/images/1f2e06860e7d7e541152d3a53df4b9e9.png" group-title="CANALES SD (Poco Internet)",SD | Studio Universal
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260612
+#EXTINF:-1 tvg-id="" tvg-name="SD | TNT" tvg-logo="http://51.222.43.170:8001/images/38d61f61a07c2ca90d0d1a66e894d559.png" group-title="CANALES SD (Poco Internet)",SD | TNT
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260607
+#EXTINF:-1 tvg-id="tnt.co" tvg-name="SD | TNT" tvg-logo="http://51.222.43.170:8001/images/077907a73fa487ea0cf7b541b860dfd3.png" group-title="CANALES SD (Poco Internet)",SD | TNT
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260525
+#EXTINF:-1 tvg-id="" tvg-name="SD | TNT Series" tvg-logo="http://51.222.43.170:8001/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="CANALES SD (Poco Internet)",SD | TNT Series
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260608
+#EXTINF:-1 tvg-id="" tvg-name="SD | Universal" tvg-logo="http://51.222.43.170:8001/images/a49c61ad9f5101d3e1f856df5d725d20.png" group-title="CANALES SD (Poco Internet)",SD | Universal
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260609
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="SD | Universal Channel" tvg-logo="http://51.222.43.170:8001/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="CANALES SD (Poco Internet)",SD | Universal Channel
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260524
+#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner" tvg-logo="http://51.222.43.170:8001/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="CANALES SD (Poco Internet)",SD | Warner
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260522
+#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="SD | Bandamax" tvg-logo="http://51.222.43.170:36995/images/c157cd3cfba5c444f2f0e6378f3da47e.jpg" group-title="CANALES SD (Poco Internet)",SD | Bandamax
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260519
+#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv hits" tvg-logo="http://51.222.43.170:36995/images/dfbb5449cf9d4a78e9b1fe3fda609614.jpg" group-title="CANALES SD (Poco Internet)",SD | Mtv hits
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260549
+#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv live" tvg-logo="http://51.222.43.170:36995/images/02253c97a6c5a009555d41208616cf15.png" group-title="CANALES SD (Poco Internet)",SD | Mtv live
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260526
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="SD | Mtv" tvg-logo="http://51.222.43.170:36995/images/a7a62d661016583d1a01616b4500c51e.jpg" group-title="CANALES SD (Poco Internet)",SD | Mtv
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260550
+#EXTINF:-1 tvg-id="vh1hd.co" tvg-name="SD | Vh1" tvg-logo="http://51.222.43.170:36995/images/268b85175a1d2788bb935265c63facbb.png" group-title="CANALES SD (Poco Internet)",SD | Vh1
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260523
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="SD | TUDN" tvg-logo="http://51.222.43.170:8001/images/06c9460347bd5f1229d48626ba513feb.png" group-title="CANALES SD (Poco Internet)",SD | TUDN
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/262195
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="SD | Espn 3 MX" tvg-logo="http://51.222.43.170:8001/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="CANALES SD (Poco Internet)",SD | Espn 3 MX
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260517
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="SD | ESPN 2" tvg-logo="http://51.222.43.170:8001/images/2c43f34598080c3ad9331c4f8af3a144.png" group-title="CANALES SD (Poco Internet)",SD | ESPN 2
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260580
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SD | Fox Sports 2" tvg-logo="http://51.222.43.170:8001/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 2
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260581
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="SD | Fox Sports 3" tvg-logo="http://51.222.43.170:36995/images/464bcb4597a95683a700913a7ff774d0.jpg" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260582
+#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 3" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260598
+#EXTINF:-1 tvg-id="" tvg-name="SD | ESPN 2 SD" tvg-logo="http://51.222.43.170:36995/images/7b69fb58de1147098509430d0f498d6f.png" group-title="CANALES SD (Poco Internet)",SD | ESPN 2 SD
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/262172
+#EXTINF:-1 tvg-id="" tvg-name="SD | AMC" tvg-logo="http://51.222.43.170:8001/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="CANALES SD (Poco Internet)",SD | AMC
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/265941
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SD | Fox Sports 2*" tvg-logo="http://51.222.43.170:8001/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 2*
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/311894
+
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="AEMundo",AE Mundo
 http://190.60.37.69:8015/play/a01u/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="AXN",AXN
@@ -741,6 +916,9 @@ http://maxpro.cc:8080/live/tafconew29/ADjlrXVLas345/31816.ts
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS COSTA RICA
 http://maxpro.cc:8080/live/tafconew29/ADjlrXVLas345/31195.ts
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES", FORMULA 1 (MOVISTAR)
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260370
+
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DIRECT TV
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34612
 
@@ -858,17 +1036,6 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqaVzQl1XS1vXylAd1Yu4MRq5Rv-zjjPa1OkJkVjMWGhqw04QSPvG5xQgQSV_yWA-DtY&usqp=CAU" group-title="DEPORTES", MMA TV (INGLES)
 https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302634
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302635
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AcapulcoShore_logo.png" group-title="ENTRETENIMIENTO", ACAPULCO SHORE
-http://axyz.encohd.co:35341/live/dt8Kz1A8te/m29N9eSisF/399.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (USA)
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/43885
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="MUSICA", PORTAL FOX MIX 
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w519343788.m3u8
@@ -1572,6 +1739,14 @@ http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/297298
 #EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="ENTRETENIMIENTO", LA ROSA DE GUADALUPE
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302634
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/302635
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (LAT)
+http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260606
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X01
