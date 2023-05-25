@@ -1281,6 +1281,264 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e299600076
 #EXTINF:-1 group-title="PLUTO TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png",DOUG EL CAZARRECOMPENZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E01
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E02
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E03
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E04
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E05
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E06
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E07
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75019.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E08
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E09
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E10
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E11
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E12
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E13
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E14
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E15
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E16
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E17
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E18
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E19
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E20
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E21
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E22
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E23
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E24
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E25
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E26
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E27
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E28
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E29
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E30
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E31
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E32
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E33
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E34
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E35
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E36
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E37
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E38
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E39
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E40
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E41
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E42
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E43
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E44
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E45
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E46
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E47
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E48
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E49
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E50
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E51
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E52
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E53
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E54
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E55
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E56
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E57
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E58
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E59
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E60
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E61
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E62
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E63
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E64
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E65
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E66
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E67
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E68
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E69
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E70
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E71
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E72
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E73
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E74
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E75
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E76
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E77
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E78
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E79
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E80
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E81
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E82
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E83
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E84
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E85
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E86
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E87
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E88
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E89
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E90
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E91
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E92
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E93
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E94
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E95
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E96
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E97
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E98
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E99
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E100
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E101
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E102
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E103
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E104
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E105
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E106
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E107
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E108
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E109
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E110
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E111
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E112
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E113
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E114
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E115
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E116
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E117
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E118
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E119
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E120
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E121
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E122
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E123
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E124
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E125
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E126
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E127
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E128
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El premio mayor S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KPVEDZ68X7cHKj7RCo2NmHvUwa.jpg" group-title="⚡ SERIES NOVELAS ♾️",El premio mayor S01 E129
+http://arboltv.xyz:8080/series/GaNgyv4NRX/ujbSeCkCsvDb/75201.mkv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K52YKqJ/imagen-2022-10-22-110626360.png" group-title="SERIES 2022",  CHUCKY T2X01
 https://archive.org/download/t-2-x-02/T2X01.mp4
@@ -1356,6 +1614,107 @@ https://ia801408.us.archive.org/15/items/chuk-4-novia/CHUK4%28NOVIA%29.mp4
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71bR37yHm8L._AC_SX679_.jpg" group-title="PELICULAS COMEDIA", SUPERCOOL (2007)
 https://cdn12.tokyvideo.com/videos/204/204659/mp4/c24aab1c220ddc038b84a138ff0478515fa090a2bc6d5d54e02296de0eb4cc7f.mp4?nva=20230526003248&nvb=20230524003248&token=0630b54641733d18275e6
+
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Reloaded (2003)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg" group-title="⚡ SAGAS",Matrix Reloaded (2003).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix (1999)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg" group-title="⚡ SAGAS",Matrix (1999).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matrix Revolutions (2003)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg" group-title="⚡ SAGAS",Matrix Revolutions (2003).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: El retorno del rey (2003)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="⚡ SAGAS",El señor de los anillos: El retorno del rey (2003).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg" group-title="⚡ SAGAS",Titanic (1997).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La momia (1999)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7uThJzwh4mEJGDUutENSMnD2lh.jpg" group-title="⚡ SAGAS",La momia (1999).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de la momia (2001)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouV5es1ylyKdLiBUJeEQrKcpm0k.jpg" group-title="⚡ SAGAS",El regreso de la momia (2001).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La momia: La tumba del emperador Dragón (2008)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjiqVRGzD3n05uqSy0A30HuHNfE.jpg" group-title="⚡ SAGAS",La momia: La tumba del emperador Dragón (2008).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Covenant (2017)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title="⚡ SAGAS",Alien: Covenant (2017).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien³ (1992)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg" group-title="⚡ SAGAS",Alien³ (1992).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien Abduction (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGlzXMQcEoxsvVdw5FC86UkOVzp.jpg" group-title="⚡ SAGAS",Alien Abduction (2005)
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien: Resurrección (1997)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2X4DHqeRDG11LytPtvMKodm3lDO.jpg" group-title="⚡ SAGAS",Alien: Resurrección (1997).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens: El regreso (1986)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg" group-title="⚡ SAGAS",Aliens: El regreso (1986).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad Xtraterrestre (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3UGrAX6D1AMVra80jmUMUOLq8Qr.jpg" group-title=" ⭐ ANIME",Navidad Xtraterrestre (2020)
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La saga Crepúsculo:  Amanecer - Parte 1 (2011)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27WlKKz9f3vMr6JvSf0LDBVdtaZ.jpg" group-title="⚡ SAGAS",La saga Crepúsculo:  Amanecer - Parte 1 (2011).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: El amanecer de la Justicia (2016)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" group-title="⚡ SAGAS",Batman vs Superman: El amanecer de la Justicia (2016).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La muerte de Superman - Parte 2: el reinado de los superhombres (2019)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkpysKRxELppiBohAlVeruvsCoP.jpg" group-title="⚡ SAGAS",La muerte de Superman - Parte 2: el reinado de los superhombres (2019).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="⚡ SAGAS",Cazafantasmas (2016).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los cazafantasmas II (1989)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="⚡ SAGAS",Los cazafantasmas II (1989).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (1998)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnxbuFGnyFUmIuZhMgv1Ls8IWUv.jpg" group-title="⚡ SAGAS",Godzilla (1998).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (2014)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1t0FcqSsBs51PDhDkFd7EiEytU6.jpg" group-title="⚡ SAGAS",Godzilla (2014).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic Park (Parque Jurásico) (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg" group-title="⚡ SAGAS",Jurassic Park (Parque Jurásico) (1993)
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max 2: El guerrero de la carretera (1981)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNKYLy9am8yLvCb1ZatHOFsE4AA.jpg" group-title="⚡ SAGAS",Mad Max 2: El guerrero de la carretera (1981).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 4: Ultratumba (2010)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20Lc7ZCcbVuDCbBBmtB2Ul0o90.jpg" group-title="⚡ SAGAS",Resident Evil 4: Ultratumba (2010).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Rambo (2008). " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9DEHlztqhZL7cWn4D6c5EdP3AI.jpg" group-title="⚡ SAGAS",John Rambo (2008). 
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Acorralado Parte II (1985)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg" group-title="⚡ SAGAS",Rambo: Acorralado Parte II (1985).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg" group-title="⚡ SAGAS",Rambo III (1988).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" group-title="⚡ SAGAS",Rambo: Last Blood (2019).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El padrino (1972)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg" group-title="⚡ SAGAS",El padrino (1972).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175769.avi
+#EXTINF:-1 tvg-id="" tvg-name="El padrino. Parte II (1974)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" group-title="⚡ SAGAS",El padrino. Parte II (1974).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175770.avi
+#EXTINF:-1 tvg-id="" tvg-name="El padrino. Parte III (1990)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2D8Gzuzw8hN41UthdqM9Osu9I3.jpg" group-title="⚡ SAGAS",El padrino. Parte III (1990).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175771.avi
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: La comunidad del anillo (2001)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xtH1RmAzQ0rrMBNUMXstb2s3er.jpg" group-title="⚡ SAGAS",El señor de los anillos: La comunidad del anillo (2001).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: Las dos torres (2002)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHEU9067PL8iIZULg7q58NvoWlS.jpg" group-title="⚡ SAGAS",El señor de los anillos: Las dos torres (2002).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street (1984)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wt0cspfvaksuFpJUUPdJjIPdPH.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street (1984).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 2: La venganza de Freddy (1985)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruBkIRLPflq9RrkWIoG9o2SRuRd.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street 2: La venganza de Freddy (1985).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 3: Los guerreros del sueño (1987)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2whqvFgyDUmgPXLfLxZSEGkmTPh.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street 3: Los guerreros del sueño (1987).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 4: El amo del sueño (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmAcwWWhacEbU6Grp20CQbjfKOP.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street 4: El amo del sueño (1988)
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street 5: El niño de los sueños (1989)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/745GbVAVGLh7wadvJD8Oq1DHgZB.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street 5: El niño de los sueños (1989).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6) (1991)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg" group-title="⚡ SAGAS",Pesadilla final: La muerte de Freddy (Pesadilla en Elm Street 6) (1991).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street: Desde dentro (2010)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjo0erw7vqzI3gGfbapCkZjxehV.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street: Desde dentro (2010).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQKvObSEYESsDQXFWxfe0FARIP7.jpg" group-title="⚡ SAGAS",Rocky (1976).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II (1979)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2WuqQ0Jbyaql1WXNFx9dr6Ldpt.jpg" group-title="⚡ SAGAS",Rocky II (1979).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III (1982)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL7URmnAVfJIPxRSKkz2kJJhall.jpg" group-title="⚡ SAGAS",Rocky III (1982).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tumJ3PVmg8tj4f6hrxT1l1mYxwo.jpg" group-title="⚡ SAGAS",Rocky IV (1985).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg" group-title="⚡ SAGAS",Rocky V (1990).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oN30JAimKk2LcLOusSYpGvMPgG.jpg" group-title="⚡ SAGAS",Rocky Balboa (2006).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed. La leyenda de Rocky (2015)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" group-title="⚡ SAGAS",Creed. La leyenda de Rocky (2015).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed II: La leyenda de Rocky (2018)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t53WEu1Ck7qAMS3theMnQK2N2c.jpg" group-title="⚡ SAGAS",Creed II: La leyenda de Rocky (2018).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="⚡ SAGAS",Creed III (2023).
+http://arboltv.xyz:8080/movie/GaNgyv4NRX/ujbSeCkCsvDb/175789.mkv
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02rFnkr/Enga-o-a-primera-vista-198932254-large.jpg" group-title="CINE BOLIVIANO", ENGAÑO A PRIMERA VISTA (2016)
 https://ia601403.us.archive.org/18/items/eng-prim-vista/EngPrimVista.mp4
