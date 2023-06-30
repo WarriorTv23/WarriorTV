@@ -1708,7 +1708,7 @@ http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/11526
 http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/169378
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/244346
+http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58285
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
 http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/236535
@@ -1765,10 +1765,10 @@ http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/203853
 http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/248674
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/50594
+
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPPA PIG
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35480
+http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50627
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.3787542886.1970/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7", PAW PATROLL
 http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/203599
@@ -1819,8 +1819,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4ef223a464479139e59d833c2b885a14730ee1dce26df54bdaf66bf39446040b._RI_V_TTW_SX360_FMwebp_.jpg" group-title="24/7", JIMMY NEUTRON
 http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/6440.ts
 
-
-
+#EXTINF:-1 tvg-logo="https://p4.wallpaperbetter.com/wallpaper/914/510/345/tv-show-dexter-s-laboratory-dexter-tv-show-wallpaper-preview.jpg" group-title="24/7", DEXTER
+http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50598
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="PLUTO TV1", South Park
@@ -2018,6 +2018,9 @@ http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/257014
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
 http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/242904
+
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/3efb0842292e7dbce9a096b0784a67a1.png"group-title="ENTRETENIMIENTO", CSI: Miami 
+http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/204878
 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/83bd7fa9f427f283e95d42baea68853c.jpg" group-title="ENTRETENIMIENTO", Retro Chile
 http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248272
