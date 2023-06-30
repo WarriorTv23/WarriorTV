@@ -1680,6 +1680,11 @@ https://audionext.rds.radio/media_57310243.aac
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS
 http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/11526
 
@@ -1708,7 +1713,7 @@ http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/40829
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58121
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35524
+http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/192676
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/967/183/small/anime-eyes-vision-fire-pop-culture-logo-design-vector.jpg" group-title="24/7", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
