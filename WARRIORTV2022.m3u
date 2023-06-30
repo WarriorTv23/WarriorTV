@@ -745,167 +745,9 @@ http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/265941
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SD | Fox Sports 2*" tvg-logo="http://51.222.43.170:8001/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 2*
 http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/311894
 
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="AEMundo",AE Mundo
-http://190.60.37.69:8015/play/a01u/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="AXN",AXN
-http://190.60.37.69:8015/play/a045/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="AnimalPlanet",Animal Planet
-http://190.60.37.69:8015/play/a01l/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="BabyFirst",BabyFirst
-http://190.60.37.69:8015/play/a00v/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CNNEspanol",CNN Espanol
-http://190.60.37.69:8015/play/a00z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Canal13HD",Canal 13 HD
-http://190.60.37.69:8015/play/a08d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CanalCaracol",Canal Caracol
-http://190.60.37.69:8015/play/a02y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CanalCaracolHD",Canal Caracol HD
-http://190.60.37.69:8015/play/a08m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CanalEstrellas",Canal Estrellas
-http://190.60.37.69:8015/play/a028/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Canal_Institucional",Canal Institucional
-http://190.60.37.69:8015/play/a032/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CanalRCN",Canal RCN
-http://190.60.37.69:8015/play/a02z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="canalrcnhd",Canal RCN HD
-http://190.60.37.69:8015/play/a07y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CanalUno",Canal Uno
-http://190.60.37.69:8015/play/a02w/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CanalCongreso",Canal del Congreso
-http://190.60.37.69:8015/play/a033/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Capital",Capital
-http://190.60.37.69:8015/play/a03e/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CartoonNetwork",Cartoon Network
-http://190.60.37.69:8015/play/a00o/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Cinecanal",Cinecanal
-http://190.60.37.69:8015/play/a00g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Cinemax",Cinemax
-http://190.60.37.69:8015/play/a043/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="CityTv",City TV
-http://190.60.37.69:8015/play/a03d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ClaroCinema",Claro Cinema
-http://190.60.37.69:8015/play/a07b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryChannel",Discovery Channel
-http://190.60.37.69:8015/play/a01k/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryH&HHD",Discovery H&H HD
-http://190.60.37.69:8015/play/a08y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryHD",Discovery HD
-http://190.60.37.69:8015/play/a08p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryID",Discovery ID
-http://190.60.37.69:8015/play/a02d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryKids",Discovery Kids
-http://190.60.37.69:8015/play/a00y/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryKidsHD",Discovery Kids HD
-http://190.60.37.69:8015/play/a08x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryTheaterHD",Discovery Theater HD
-http://190.60.37.69:8015/play/a08z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DiscoveryTurbo",Discovery Turbo
-http://190.60.37.69:8015/play/a04g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DisneyChannel",Disney Channel
-http://190.60.37.69:8015/play/a01j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="DisneyJr",Disney Jr
-http://190.60.37.69:8015/play/a01b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="E-Entertainment",E Entertainment
-http://190.60.37.69:8015/play/a01n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN2",ESPN 2
-http://190.60.37.69:8015/play/a01e/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN3",ESPN 3
-http://190.60.37.69:8015/play/a04i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN4",ESPN 4
-http://190.60.37.69:8015/play/a02n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN4HD",ESPN 4 HD
-http://190.60.37.69:8015/play/a094/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPN-CO",ESPN CO
-http://190.60.37.69:8015/play/a037/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="ESPNHD",ESPN HD
-http://190.60.37.69:8015/play/a09b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Enlace",Enlace
-http://190.60.37.69:8015/play/a00t/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FOXSports2HD",FOX Sports 2 HD
-http://190.60.37.69:8015/play/a095/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FX",FX
-http://190.60.37.69:8015/play/a047/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FXHD",FX HD
-http://190.60.37.69:8015/play/a09a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FoxSports1HD",Fox Sports 1 HD
-http://190.60.37.69:8015/play/a08q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FoxSports2",Fox Sports 2
-http://190.60.37.69:8015/play/a029/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="FoxSports3",Fox Sports 3
-http://190.60.37.69:8015/play/a02a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HBOFamilyHD",HBO Family HD
-http://190.60.37.69:8015/play/a08s/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HDBOXTREMEHD",HBO XTREME HD
-http://190.60.37.69:8015/play/a0ah/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="History2HD",History 2 HD
-http://190.60.37.69:8015/play/a08r/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HistoryChannel",History Channel
-http://190.60.37.69:8015/play/a00f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="HomeandHealth",HomeandHealth
-http://190.60.37.69:8015/play/a02i/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="LasEstrellasHD",Las Estrellas HD
-http://190.60.37.69:8015/play/a08n/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="LoveNatureHD",Love Nature HD
-http://190.60.37.69:8015/play/a08g/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="MTV",MTV
-http://190.60.37.69:8015/play/a00j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="NatGeo",Nat Geo
-http://190.60.37.69:8015/play/a00e/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="NickJr",Nick Jr
-http://190.60.37.69:8015/play/a04f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Nickelodeon",Nickelodeon
-http://190.60.37.69:8015/play/a00d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="RCN-Novelas",RCN Novelas
-http://190.60.37.69:8015/play/a02c/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="STARCHANNEL",STAR CHANNEL
-http://190.60.37.69:8015/play/a00m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id=STARCHANNELHD",STAR CHANNEL HD
-http://190.60.37.69:8015/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Se?alColombia",Senal Colombia
-http://190.60.37.69:8015/play/a034/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Sin Limites",Sin Limites
-http://190.60.37.69:8015/play/a02q/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Sony",Sony
-http://190.60.37.69:8015/play/a044/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Space",Space
-http://190.60.37.69:8015/play/a046/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="StudioUniversal",Studio Universal
-http://190.60.37.69:8015/play/a01d/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="SyFy",SyFy
-http://190.60.37.69:8015/play/a00x/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TBS",TBS
-http://190.60.37.69:8015/play/a062/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TBSVeryFunnyHD",TBS Very Funny HD
-http://190.60.37.69:8015/play/a08u/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TLC",TLC
-http://190.60.37.69:8015/play/a026/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TNT",TNT
-http://190.60.37.69:8015/play/a00p/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TNTSeriesHD",TNT Series HD
-http://190.60.37.69:8015/play/a099/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="TRO",TRO
-http://190.60.37.69:8015/play/a03b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Teleantioquia",Teleantioquia
-http://190.60.37.69:8015/play/a048/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telecafe",Telecafe
-http://190.60.37.69:8015/play/a04l/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telecaribe",Telecaribe
-http://190.60.37.69:8015/play/a04j/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telemundo",Telemundo
-http://190.60.37.69:8015/play/a02b/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Telepacifico",Telepacifico
-http://190.60.37.69:8015/play/a04a/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="UNIVERSALCHANNELHD",UNIVERSAL CHANNEL HD
-http://190.60.37.69:8015/play/a092/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Universal",Universal
-http://190.60.37.69:8015/play/a00h/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Warner",Warner
-http://190.60.37.69:8015/play/a01m/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="WinSport",Win
-http://190.60.37.69:8015/play/a049/index.m3u8
+
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Zoom",Zoom
 http://190.60.37.69:8015/play/a03a/index.m3u8
-
 
 #EXTM3U
 #EXTINF:-1,TNT Sports 2
@@ -1256,6 +1098,311 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/313
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/338
 #EXTINF:-1,24/7 El Juego Del Calamar
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/348
+#EXTINF:-1,Telemundo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3924
+#EXTINF:-1,DTV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3925
+#EXTINF:-1,Win Sports +
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3926
+#EXTINF:-1,CONGRESO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3927
+#EXTINF:-1,ET Canal El Tiempo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3928
+#EXTINF:-1,JUSTICIA TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3929
+#EXTINF:-1,MOVISTAR PLUS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
+#EXTINF:-1,Venevision
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3931
+#EXTINF:-1,Canal Institucional
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3932
+#EXTINF:-1,TV PERU 7.3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3933
+#EXTINF:-1,De Pelicula
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3934
+#EXTINF:-1,HGTV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3935
+#EXTINF:-1,Gol TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3936
+#EXTINF:-1,HBO POP
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3937
+#EXTINF:-1,HBO Family hd
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
+#EXTINF:-1,HBO 2 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
+#EXTINF:-1,HBO XTREME HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
+#EXTINF:-1,MTV HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4184
+#EXTINF:-1,MTV LIVE HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4185
+#EXTINF:-1,E! HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4186
+#EXTINF:-1,CLOVER HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4187
+#EXTINF:-1,Kanal D Drama HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4188
+#EXTINF:-1,Love Nature HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4189
+#EXTINF:-1,EVENTOS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4195
+#EXTINF:-1,NICK HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4226
+#EXTINF:-1,Canal 13 i
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4239
+#EXTINF:-1,Canal 13 Cultura
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4240
+#EXTINF:-1,Canal 13 Entretencion
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4241
+#EXTINF:-1,Canal 13 Prime
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4242
+#EXTINF:-1,Canal 13 Teleseries
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4243
+#EXTINF:-1,EnerGeek
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4244
+#EXTINF:-1,EnerGeek Fanpop
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4245
+#EXTINF:-1,EnerGeek Wowly
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4246
+#EXTINF:-1,A3series HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4247
+#EXTINF:-1,Universal Cinema SD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4248
+#EXTINF:-1,Universal Comedy SD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4249
+#EXTINF:-1,Universal Premiere SD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4250
+#EXTINF:-1,Via X Esports
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4251
+#EXTINF:-1,ATRES SERIES
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4252
+#EXTINF:-1,Antena 3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4253
+#EXTINF:-1,BBC World
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4254
+#EXTINF:-1,CNN Internacional
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4255
+#EXTINF:-1,CNT SPORTS SD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4256
+#EXTINF:-1,CableNoticias
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4257
+#EXTINF:-1,Canal Uno
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4258
+#EXTINF:-1,Canal 13 (CO)
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4259
+#EXTINF:-1,Canal I
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4260
+#EXTINF:-1,Clover
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4261
+#EXTINF:-1,Conciencia
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4262
+#EXTINF:-1,DW (Deutsch +)
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4263
+#EXTINF:-1,Distrito Comedia
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4264
+#EXTINF:-1,ESPN op3
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4265
+#EXTINF:-1,ESPN 4
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
+#EXTINF:-1,Ecuador TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4267
+#EXTINF:-1,Ecuavisa
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4268
+#EXTINF:-1,El Gourmet
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4269
+#EXTINF:-1,El Trece
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4270
+#EXTINF:-1,Epoca
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4271
+#EXTINF:-1,Eurochannel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4272
+#EXTINF:-1,FANB
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4273
+#EXTINF:-1,Fox News
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4274
+#EXTINF:-1,France 24
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4275
+#EXTINF:-1,GLOBAL
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4276
+#EXTINF:-1,Gamavision
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4277
+#EXTINF:-1,Glitz
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4278
+#EXTINF:-1,Globovision
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4279
+#EXTINF:-1,HBO SD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4280
+#EXTINF:-1,HBO Xtreme
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4281
+#EXTINF:-1,Kanal D Drama
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4282
+#EXTINF:-1,La Redonda TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4283
+#EXTINF:-1,Lolly Kids
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4284
+#EXTINF:-1,Love Nature
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4285
+#EXTINF:-1,Mas Chic
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4286
+#EXTINF:-1,NTN 24 Horas
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4287
+#EXTINF:-1,Nuestra Tele
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4288
+#EXTINF:-1,Oromar TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4289
+#EXTINF:-1,PLUSTV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4290
+#EXTINF:-1,RAI
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4291
+#EXTINF:-1,RTS
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4292
+#EXTINF:-1,RTU
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4293
+#EXTINF:-1,Sun Channel
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4294
+#EXTINF:-1,TLT
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4295
+#EXTINF:-1,TV Diputados
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4296
+#EXTINF:-1,TV Familia
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4297
+#EXTINF:-1,TV Senado
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4298
+#EXTINF:-1,TVES
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4299
+#EXTINF:-1,Teen Nick
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4300
+#EXTINF:-1,Teleamazonas
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4301
+#EXTINF:-1,Telecanal
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4302
+#EXTINF:-1,Telefe
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4303
+#EXTINF:-1,Telesur
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4304
+#EXTINF:-1,Televicentro
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4305
+#EXTINF:-1,Tru TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4306
+#EXTINF:-1,UCL
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4307
+#EXTINF:-1,Wuan+
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4308
+#EXTINF:-1,Win Sports+
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4309
+#EXTINF:-1,ATRES SERIES HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4310
+#EXTINF:-1,America TV HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4311
+#EXTINF:-1,Canal Institucional HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4312
+#EXTINF:-1,Caracol HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4313
+#EXTINF:-1,ESPN 4 HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
+#EXTINF:-1,Gol Peru HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4315
+#EXTINF:-1,Gol TV HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4316
+#EXTINF:-1,HBO POP HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
+#EXTINF:-1,Hola TV HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4318
+#EXTINF:-1,Las Estrellas HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4319
+#EXTINF:-1,Latina HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4320
+#EXTINF:-1,MTV 00s
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4321
+#EXTINF:-1,Movistar Deportes HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4322
+#EXTINF:-1,NICK MUSIC
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4323
+#EXTINF:-1,RCN HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4325
+#EXTINF:-1,Senal Colombiana HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4326
+#EXTINF:-1,Stingray Concerts HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4327
+#EXTINF:-1,TBS Very Funny HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4328
+#EXTINF:-1,Telehit HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4329
+#EXTINF:-1,Win Sports+ HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4330
+#EXTINF:-1,AMC
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4331
+#EXTINF:-1,America TV PY
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4332
+#EXTINF:-1,Baby First
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4333
+#EXTINF:-1,C9N
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4334
+#EXTINF:-1,Canal Claro
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4335
+#EXTINF:-1,Canal TRO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4336
+#EXTINF:-1,Claro Cinema
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4337
+#EXTINF:-1,Claro Sports
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4338
+#EXTINF:-1,Comedy Central
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4339
+#EXTINF:-1,Cristovision
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4340
+#EXTINF:-1,ESPN CO
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4341
+#EXTINF:-1,Enlace
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4342
+#EXTINF:-1,Esne TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4343
+#EXTINF:-1,Europa Europa
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4344
+#EXTINF:-1,Film&Arts
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4345
+#EXTINF:-1,Gama TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4346
+#EXTINF:-1,Globo Internacional
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4347
+#EXTINF:-1,HBO Plus HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4349
+#EXTINF:-1,HBO Signature HD
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4350
+#EXTINF:-1,La Tele
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4351
+#EXTINF:-1,Movistar TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4352
+#EXTINF:-1,NPY
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4353
+#EXTINF:-1,Paravision
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4354
+#EXTINF:-1,Paraguay TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4355
+#EXTINF:-1,RCN Novelas
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4357
+#EXTINF:-1,SNT
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4358
+#EXTINF:-1,SUR TV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4359
+#EXTINF:-1,Sin Limites
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4361
+#EXTINF:-1,TC Television
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4362
+#EXTINF:-1,TV Camara
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4363
+#EXTINF:-1,telecaribe
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4364
+#EXTINF:-1,telefuturo
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4365
+#EXTINF:-1,televen
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4366
+#EXTINF:-1,Unicanal
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4367
+#EXTINF:-1,Willax
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4368
+#EXTINF:-1,NTV
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
+
 
 
 
