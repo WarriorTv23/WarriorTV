@@ -1679,10 +1679,10 @@ http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31145
 http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149153
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35034
+http://46.10.218.219:8000/play/a06q
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s
-http://mfe02.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+http://211449150831321354.of2304.xyz:80/play/vi914676/9560732625/321354.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MTV 00s
 http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4321
@@ -2440,6 +2440,20 @@ https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%2
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21120&authkey=AKgmqC-cbRO3Z94
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mh6mSj2/imagen-2022-09-23-195151496.png" group-title="TEATRO BOLIVIA",  Teatro - La Sanguchera de La Esquina
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Bolivia
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/764
 https://onedrive.live.com/download?cid=D7FEF8A7CCBD87C6&resid=D7FEF8A7CCBD87C6%21116&authkey=ABDcPazlrslCeKY
 
 
