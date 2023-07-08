@@ -18,6 +18,9 @@ https://live.seo.tv.bo/live/5SEO.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png" group-title="BOLIVIA", UNI TEL
+http://kuchini.site:8080/d1823794/40bcdac324/8775
+
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i3c8a4fed05168784/version/1615223208/image.jpg" group-title="BOLIVIA", COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -136,7 +139,7 @@ http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/171034
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SD
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304335
+http://kuchini.site:8080/d1823794/40bcdac324/8775
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
 http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/248531
@@ -151,12 +154,15 @@ https://www.dailymotion.com/video/x827j2y
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB SD
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/304314
+
 
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", GIGAVISION
 https://tinyurl.com/2fr5y2xx
+
+#EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="BOLIVIA", BOLIVIA TV
+http://kuchini.site:8080/d1823794/40bcdac324/286026
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="BOLIVIA", VIRGEN DE COPACABANA HD
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w872851651.m3u8
