@@ -1570,14 +1570,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA)
 http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA) 2
+http://streaming.bitonlive.net:8080/hls/ottofm2/6_5/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxmLSpY/PLANETA-MUSIC-HD.jpg" group-title="MUSICA", PLANETA TV MUSIC HD
 https://scl.edge.grupoz.cl/music/live/chunklist_w688351090.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cyrNJJV/RADIO-TECA-HD.jpg" group-title="MUSICA", RADIOTECA HD
 https://paneltv.net:3908/stream/play.m3u8
-
-#EXTINF:-1,  tvg-logo="https://i.ibb.co/3mPNj7m/imagen-2022-10-27-170634034.png" group-title="MUSICA", VIETNAM MTV
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1a30d757bf7bfb8d26b8ddebc3151043a101efb20767c653fbb7c243f8386820.png" group-title="MUSICA", REWIND
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w367917649.m3u8
@@ -1620,7 +1620,7 @@ https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
 https://canal.mediaserver.com.co:8088/live/canalamordiscos.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/416d4bff6de22d61a3bc3a7b9e8aecb4.webp" group-title="MUSICA", RITMOS INOLVIDABLES
-https://stream.ads.ottera.tv/cl/230329cghp70j1n5mjgeh4gek0/960x540_900000_4_f.m3u8?i=475_1081
+https://stream.ads.ottera.tv/cl/230712cinboe9ra6j2ia1nf14g/854x480_550000_3_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a4119b9db2c7cc260792ab528324bac8.webp" group-title="MUSICA", MUNDO MUSICA TV
 https://6362ca6f1fc28.streamlock.net/8078/8078/chunklist_w1647103547.m3u8
@@ -1670,7 +1670,7 @@ https://s2.tvdatta.com:3548/hybrid/play.m3u8
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w738075556.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8686a630362f5b20fb1b670a9cfd8559.webp" group-title="MUSICA", MELODY CHANNEL
-https://stream.mediaserver.com.co:8088/live/MelodyChannel.m3u8?hls_ctx=0264634r
+https://canal.mediaserver.com.co:8088/live/MelodyChannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="MUSICA", M2O TV
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
@@ -1688,16 +1688,21 @@ http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149153
 http://46.10.218.219:8000/play/a06q
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s
-http://211449150831321354.of2304.xyz:80/play/vi914676/9560732625/321354.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MTV 00s
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4321
+http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/35033
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/mtv.png" group-title="MUSICA", MTV 
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35015
+http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/35018
+
+#EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/mtv.png" group-title="MUSICA", MTV LIVE FHD
+http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/35021
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image75920906617.jpg" group-title="MUSICA", RADIO RDS NEXT (ITALIA)
-https://audionext.rds.radio/media_57310243.aac
+
+#EXTINF:-1,  tvg-logo="https://i.ibb.co/3mPNj7m/imagen-2022-10-27-170634034.png" group-title="MUSICA", VIETNAM MTV
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/685286c919ab8768f8a6f70eb5dc8171.webp" group-title="BOLIVIA", KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
