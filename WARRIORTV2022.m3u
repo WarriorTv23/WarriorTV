@@ -72,6 +72,12 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1692246340.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yXgRVrR/ndice.jpg" group-title="BOLIVIA", SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDHnsNg/305092247-416522003802362-853640521855610587-n.jpg" group-title="BOLIVIA", SITEL
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/262766
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/619275202627768321/a8Vx4jFs_400x400.jpg" group-title="BOLIVIA", PALENQUE TV
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/262773
+
 #EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -194,6 +200,12 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsb3YgC/channels4-profile.jpg" group-title="BOLIVIA", PLUS TLT (TARIJA)
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/262753
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbbfSXY/descarga.png" group-title="BOLIVIA", ITV
@@ -320,6 +332,10 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGjAzDHHlc37lldfIb6EN6wzLcL6DWbUg0jewtk2lDojJiP-h5aEdYmxYGjut-koFRXs&usqp=CAU" group-title="PANAMA", TVN (MAX)
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Accion SD 
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69132
@@ -1341,7 +1357,7 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
 
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS ESPAÑA
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248393
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/141392
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA
 http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/257202
@@ -1611,8 +1627,11 @@ http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/149153
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
 http://46.10.218.219:8000/play/a06q
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/86097
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/93080
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MTV 00s
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/35033
@@ -1636,13 +1655,16 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 1
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58264
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLA 1
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198146
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 3
 http://15.235.83.170:8080/Arnulfo72/Gonzales72/99097
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 4
 http://15.235.83.170:8080/Arnulfo72/Gonzales72/99094
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
@@ -1652,13 +1674,16 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58284
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58285
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-http://15.235.83.170:8080/Arnulfo72/Gonzales72/110547
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198248
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58123
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9b/6d/76/9b6d765065d7e1628cf1570ae3125eec.jpg" group-title="24/7", LOS 3 CHIFLADOS
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/49190
+
+#EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Combat-.jpg" group-title="24/7", COMBATE
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198351
 
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58120
@@ -1671,6 +1696,9 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58121
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58301
+
+#EXTINF:-1 tvg-logo="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/604be6b5d3c84/clean.jpg" group-title="24/7", ULTRAMAN
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198321
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/967/183/small/anime-eyes-vision-fire-pop-culture-logo-design-vector.jpg" group-title="24/7", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
@@ -1691,18 +1719,25 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f80007
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58076
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 03
-
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198410
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/123-1237544_pink-panther-pantera-rosa-pink-panther-logo-png.png" group-title="24/7", LA PANTERA ROSA
-
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198246
 
 #EXTINF:-1 tvg-logo="https://www.serietv.es/images/serie/GC/el-show-de-el-pajaro-loco-G.jpg" group-title="24/7", PAJARO LOCO SD
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58086
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_maascara_Serie_de_TV-424025709-large.jpg" group-title="24/7", LA MASCARA
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198245
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198268
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
+
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/cinicosdesinope.com/wp-content/uploads/2022/04/los-pitufos.jpg?fit=504%2C768&ssl=1" group-title="24/7", PITUFOS
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198270
 
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
@@ -1718,14 +1753,10 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50626
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="24/7", PLIM PLIM
 
-
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/679/290/png-transparent-christmas-line-smurfette-brainy-smurf-papa-smurf-comics-comic-book-smurfs-cartoon-thumbnail.png" group-title="24/7", PITUFOS
-
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50632
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
-
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="24/7", POKEMON
 
@@ -1768,7 +1799,7 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50598
 
 
 
-
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/368-3681498_24-7-hd-png-download.png", CINE 24/7
 #EXTINF:-1,PPV: Cinema 01
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34477
 #EXTINF:-1,PPV: Cinema 02
@@ -1840,6 +1871,63 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34512
 #EXTINF:-1,PPV: Cinema 37
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34513
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/24-7-titlecard.jpg", SAGAS 24/7
+#EXTINF:-1,24/7 | Alien (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198415
+#EXTINF:-1,24/7 | Harry Potter
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198416
+#EXTINF:-1,24/7 | JOHN WICK
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198417
+#EXTINF:-1,24/7 | CHUCKY EL MUÑECO DIABOLICO
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198418
+#EXTINF:-1,24/7 | El ARO
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198421
+#EXTINF:-1,24/7 | SAGA RAMBO
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198423
+#EXTINF:-1,24/7 | RAPIDOS Y FURIOSOS
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198424
+#EXTINF:-1,24/7 | EL TRANSPORTADOR (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198425
+#EXTINF:-1,24/7 | Saga Transformers (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198426
+#EXTINF:-1,24/7 | Saga X-MEN
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198427
+#EXTINF:-1,24/7 | AMERICAN PIE
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198428
+#EXTINF:-1,24/7 | piratas del caribe  (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198429
+#EXTINF:-1,24/7 | ROCKY
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198430
+#EXTINF:-1,24/7 | The Avengers (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198431
+#EXTINF:-1,24/7 |EL HOBBIT
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198432
+#EXTINF:-1,24/7 DEPREDADOR
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198434
+#EXTINF:-1,24/7 DURO DE MATAR
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198439
+#EXTINF:-1,24/7 JAMES BOND AGENTE 007
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198440
+#EXTINF:-1,24/7 MISION IMPOSIBLE
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198441
+#EXTINF:-1,24/7 SUPERMAN
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198442
+#EXTINF:-1,24/7 PELICULAS BATMAN
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198443
+#EXTINF:-1,24/7 | INDIANA JONES (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198450
+#EXTINF:-1,24/7 Spider-Man  (ES)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198451
+#EXTINF:-1,24/7 VOLVER AL FUTURO
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198452
+#EXTINF:-1,Cine Belico (e)(720)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198453
+#EXTINF:-1,Cine Biografico (e)(720)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198454
+#EXTINF:-1,Cine Catastrofico (e)(1080)
+http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198455
 
 
 
