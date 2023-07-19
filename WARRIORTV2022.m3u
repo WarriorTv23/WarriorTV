@@ -1360,16 +1360,19 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
 http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/141392
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/257202
+
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS ESPAÑA
-http://maxpro.cc:8080/live/tafconew29/ADjlrXVLas345/31816.ts
+
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS COSTA RICA
-http://maxpro.cc:8080/live/tafconew29/ADjlrXVLas345/31195.ts
+
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES", FORMULA 1 (MOVISTAR)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/259422
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/125365
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES", FORMULA 2 (MOVISTAR)
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/125363
 
 #EXTINF:-1 tvg-logo="https://www.directvsports.com/static/media/LogoDtvsports.67638ad7.png" group-title="DEPORTES", DIRECT TV
 http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/256904
@@ -1387,13 +1390,16 @@ http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/256904
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1503811367203090438/BKws2DP3_400x400.jpg" group-title="DEPORTES", CLARO SPORTS SD (LAT)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/181284
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/68639
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1503811367203090438/BKws2DP3_400x400.jpg" group-title="DEPORTES", CLARO SPORTS FHD (LAT)
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/115785
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e57379b5ea8e1ea9060265bce615139.webp" group-title="DEPORTES", DEPORT TV (ARG)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="DEPORTES", TNT SPORTS HD (CL)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/176362
+
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/fd495288dc2eef3132dac1d195dc63fe.png" group-title="DEPORTES", TNT SPORTS SD (CL)
 
@@ -1408,34 +1414,37 @@ http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/176362
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR (ESPAÑA)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/222094
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Movistar_TV_%28Latin_America%29_-_2018_logo.png" group-title="DEPORTES", MOVISTAR 
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/181257
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/159501
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b84e790678869bca882d17561b701d4.webp" group-title="DEPORTES", TyC SPORTS
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/169975
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/81253
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b84e790678869bca882d17561b701d4.webp" group-title="DEPORTES", TyC SPORTS+
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/257229
+
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="DEPORTES", WIN SPORTS SD (CO)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/256960
+
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="DEPORTES", WIN SPORTS + FHD (CO)
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/1383
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="DEPORTES", GOL TV 1
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/150136
 
-#EXTINF:-1 tvg-logo="https://preview.redd.it/e7ozb7lkjl371.png?width=200&format=png&auto=webp&s=451186a206263c7ae141c6f6f0bd75c378db0774" group-title="DEPORTES", GOL TV 1
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/256834
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="DEPORTES", GOL TV 2
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/116002
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9xoQUbxyXJM/XRm2Ajw2LiI/AAAAAAAAEao/j818WFdzRI4Hi6XpbHAQn_LKT5Kg6nzygCPcBGAYYCw/s1600/Gol%2BPeru.png" group-title="DEPORTES", GOL TV 2
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/256833
+#EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/02/04/h54c8bhajd-golperu-en-vivo.jpg" group-title="DEPORTES", GOL PERU
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/135813
 
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="DEPORTES", BEIN SPORTS
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/74f6f40197334ad6b7fdb78439e35d5a-hd.jpg" group-title="DEPORTES", EL CANAL DEL FUTBOL
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/170162
+
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-1-hd_m.png" group-title="DEPORTES", FOX SPORTS 1
 http://sansat.net:25461/02022121991284/MCII9E2K33LVCLZ/95092
@@ -1450,7 +1459,7 @@ http://sansat.net:25461/02022121991284/MCII9E2K33LVCLZ/95093
 http://sansat.net:25461/02022121991284/MCII9E2K33LVCLZ/191183
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/32f3121bc314ba06628573737f575b3e.png" group-title="DEPORTES", FOX SPORTS PREMIUM (MX VIP)
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/258266
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/11571
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-Símbolo.jpg" group-title="DEPORTES", ESPN 
 http://sansat.net:25461/02022121991284/MCII9E2K33LVCLZ/94761
@@ -1475,9 +1484,14 @@ http://sansat.net:25461/02022121991284/MCII9E2K33LVCLZ/95097
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/deportes/univision.png" group-title="DEPORTES", UNIVISION DEPORTES NETWORK HD (US)
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e09566ba67685210144b055327ccf1e.webp" group-title="DEPORTES", COMBATE GLOBAL
+https://stream.ads.ottera.tv/cl/230719cis51sorbdgecm9g70o0/854x480_550000_3_f.m3u8?i=475_960
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd1a297f1f16bf6cb34cf077ae7cd041.webp" group-title="DEPORTES", CRTV CHILE
+https://vdo.panelstreaming.live:3058/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/0f1e6af3ded265ef957875152c35f14b.png" group-title="DEPORTES", UFC FIGHT PASS FHD (US)
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34714
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/53888
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="DEPORTES", HARD KNOCKS (INGLES)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/a540917e-d607-41ec-b1cf-b7b7944822dd.m3u8
@@ -1486,13 +1500,13 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/deportes/wwe.png" group-title="DEPORTES", WWE NETWORK HD  (US)
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/34716
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/112091
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5ld2Zhc3QuYm94dWhkX3NjcmVlbl8wXzE2MDAzNjgyMjZfMDEx/screen-0.jpg?fakeurl=1&type=.webp" group-title="DEPORTES", BOX TV (INGLES)
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqaVzQl1XS1vXylAd1Yu4MRq5Rv-zjjPa1OkJkVjMWGhqw04QSPvG5xQgQSV_yWA-DtY&usqp=CAU" group-title="DEPORTES", MMA TV (INGLES)
-https://alchimie-mmatv-samsung.amagi.tv/playlist360_p.m3u8
+
 
 
 
