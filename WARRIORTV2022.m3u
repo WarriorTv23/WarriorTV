@@ -48,11 +48,14 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50581
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE DREAMWORKS FHD
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50580
 
-#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 1
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87465.ts
 
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 2
+http://209.126.124.165:8080/Oscar0193848444/n2sHuhhJ2Tvr/198344
+
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/263275
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="BOLIVIA", Retro Play TV 
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
@@ -1360,13 +1363,13 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
 http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/141392
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS GUATEMALA
-
+http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/253785
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS ESPAÑA
 
 
 #EXTINF:-1 tvg-logo="http://hidra.live:80/images/7f6972401eae2892e179aeff22e3f276.png" group-title="DEPORTES",TIGO SPORTS COSTA RICA
-
+http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/263130
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/59b9b9313bffc12c40a24cfb14a8c08d.png" group-title="DEPORTES", FORMULA 1 (MOVISTAR)
 http://15.235.83.170:8080/Arnulfo72/Gonzales72/125365
@@ -1702,11 +1705,14 @@ http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198351
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58120
 
-#EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN
-
+#EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253119
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58121
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4f8wywd/images.jpg" group-title="24/7", AH QUE KIKO
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/110567
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58301
@@ -1744,8 +1750,12 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58086
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_maascara_Serie_de_TV-424025709-large.jpg" group-title="24/7", LA MASCARA
 http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198245
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS 1
 http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198268
+
+#EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS 2
+http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58112
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
 
@@ -1773,7 +1783,7 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50632
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="24/7", POKEMON
-
+http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/198303
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="24/7", SUPERCAMPEONES
 http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58109
@@ -1791,9 +1801,6 @@ http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35529
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/769/118/png-clipart-dagron-ball-super-logo-dragonball-super-logo-thumbnail.png" group-title="24/7", DRAGON BALL SUPER
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58273
-
-#EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58112
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="24/7", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2112,43 +2119,49 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="ENTRETENIMIENTO", MTV Shore 24/7
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248260
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/111635
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/12corazones.jpg" group-title="ENTRETENIMIENTO", 12 Corazones
 http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339651.ts
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="ENTRETENIMIENTO", Cero en Conducta
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/296951
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253362
 
-#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/274307
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 1
+http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/198243
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 2
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/130800
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 3
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253084
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="ENTRETENIMIENTO", VECINOS
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/197004
+http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/198345
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="ENTRETENIMIENTO", UNA FAMILIA DE 10
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248314
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="ENTRETENIMIENTO", UNA FAMILIA DE 10 (TEMP INICIOS)
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253087
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="ENTRETENIMIENTO", UNA FAMILIA DE 10 (TEMP ULTIMOS)
+http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253086
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="ENTRETENIMIENTO", Caso Cerrado
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248275
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/234851
 
 #EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="ENTRETENIMIENTO", LA ROSA DE GUADALUPE
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248308
+http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/263090
 
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/257014
+http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/253773
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/242904
+http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/260086
 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/3efb0842292e7dbce9a096b0784a67a1.png"group-title="ENTRETENIMIENTO", CSI: Miami 
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/204878
+http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/249112
 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/83bd7fa9f427f283e95d42baea68853c.jpg" group-title="ENTRETENIMIENTO", Retro Chile
-http://51.222.47.134:8080/LauraGarcia/XxXVNE9M96pt/248272
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Syfy-logo-2017-2.png?w=246&h=246&crop=1&ssl=1" group-title="ENTRETENIMIENTO", SYFY (LAT)
