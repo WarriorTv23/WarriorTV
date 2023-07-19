@@ -1639,6 +1639,12 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58264
 
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLA 1
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/99097
+
+#EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/99094
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58284
 
@@ -1646,7 +1652,7 @@ http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58284
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58285
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-
+http://15.235.83.170:8080/Arnulfo72/Gonzales72/110547
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
 http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58123
