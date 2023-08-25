@@ -6,14 +6,20 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)
 https://live.seo.tv.bo/live/2SEO.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (NOVELAS)
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (NOVELAS)
 https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (NOVELAS)
+https://live.seo.tv.bo/live/6SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
 https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (DEPORTES)
-https://live.seo.tv.bo/live/5SEO.m3u8
+https://seo.tv.bo/tv/5EVE.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 7
+https://live.seo.tv.bo/live/7SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
@@ -22,46 +28,51 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50572
+http://15.235.83.170:8080/usuario22CR/wtT6YSTT2dhw/212292
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR CLASSICS FHD
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50574
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA COMEDIA FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50575
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50575
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", PELICULAS INFANTILES FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50579
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50595
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50583
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50583
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50582
+http://15.235.83.170:8080/usuario22CR/wtT6YSTT2dhw/212288
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DC UNIVERSE
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50577
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50577
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DISNEY FAMILY FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50578
+http://15.235.83.170:8080/usuario22CR/wtT6YSTT2dhw/212289
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FAMILIA FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50581
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99093
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE DREAMWORKS FHD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50580
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50580
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 1
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/87465.ts
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/86338
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 2
-http://209.126.124.165:8080/Oscar0193848444/n2sHuhhJ2Tvr/198344
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50585
+
+#EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/86339
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
-http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/198934
+
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="BOLIVIA", Retro Play TV 
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CtsFUsl55TyLOK-poAIxuFAIlOrFNKPsUaPeZhBoqmldRNHvMLOoSVPoWfe5-WP54SJV7Ifim2bAA0L8iLDPwS9DazWvDd53oGiQhhFM5F3CBK_Oyq9x7HEC7I-peT3Xu9Qo_FrvC-S3983cV2HNVu6GFWv3D2yoQlViRfFn1ulS9SmZHykZUIVoKnmbOw6UP_5d7r4Mvx9IvDLv1ybw37mWzkYMFASUZlctj5i2mDClDV8Necke8NZ-lJYQBO6yxs1aybCIS_fzX8vv3881GmIqelBHi7Zm9UbXuYuQaE5bgr-Ylslkp7daKyp2at1Dl2e8LQUJ-3USiVdJ6fwGY4YYJQ81qQK9N8Z0U4SDGaXLTjKoVTpKc0K2AvbF1Or5E0FrhfNCOE62HU8qAaFzRj1EHDSOzXn7NQDXCK4P9eKf_N37nKb8NjOv0627lt8vOuLDBENmPw4yVVZAHeHl-ZPHx0KPyBF6ieQbureOGUUEMPE-zlJpQw3o0A5xS663m44OM77fi7rBKSbBOpft2_Gh8RS0Bbpp1pB-4DjFui0HStCsVMreTtSIw8jgR_LEbmI6A7GMK7hNQ9ikxmRDOw1pSbxSUFCVljT61vz0DPFvXC-qQL50ReV3nUYUXipvIRl8EOW8p4v-sN87pKtoyEa5jAT9AHGc7K_HTqadR1Xtu0i_ngBvmOPwxXR9Bj19IvC-mZ-nneQUDCNVXQxZw6MLvXNMyKdv0oLz-u-8FXNc-ZeRK7rVKKeYOSyfkKpjbKuzfui9g5lce-J3U-R6YFVcBnnhBwCHePxcdWiPStXnglP6lAire5VGEwk-8fLG1ttLMNsFXRMccCsgBxdSo9xWJZ6ZfEw8fwjdZnNlhGbXRDOhnUA44lY1Dfy4ZBnY176D8SqzzG07NC0jB4ja0oF57aq4i3fmzME1lXxDSncF6P5kuM8B60-lZQTdPOfU55xRK8f5IcEYIE4l_tUaDGRLPo67Eke8B1hoxiABKglldS13ZXN0LTIw6QY.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
@@ -352,1021 +363,467 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Accion SD 
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69132
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Drama HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69134
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Multideporteⓧ SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69136
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Series Mania HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69137
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Deportesⓧ HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar LaLigaⓧ SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69139
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Golfⓧ HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Gol TVⓧ HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69147
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Blaze HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69148
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Telecincoⓧ SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69157
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", LaLiga TV ENGⓧ FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69159
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Real Madrid TVⓧ SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69160
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Barca TVⓧ SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69161
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", National Geographic SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69164
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", FOX News EN SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69165
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Gol TVⓧ FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69166
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Nickelodeon SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69167
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Disney+ SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69168
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", LA 2 SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69173
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", 24 Horas SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69174
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Antena 3 FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69175
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Toros SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69176
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Eurosport 2 HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69177
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", MTV Hits Europe SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69178
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Trece HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69179
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", LA 1 FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69180
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", LA 2 FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69181
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Cuatro FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69182
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Telecinco FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69183
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", La Sexta FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69184
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", #0 FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69185
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Vamos FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69186
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Series FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69187
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Series Mania FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69188
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", FOX FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69189
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", AXN FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69190
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", TNT HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69191
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Comedy Central HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69192
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Calle 13 FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69193
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Cosmo FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69194
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", AMC FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69195
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", FOX Life FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69196
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", AXN White FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69197
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", SYFY FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69198
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", MTV Espana SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69199
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", FDF FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69200
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", A3 Series FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69202
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Energy FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69203
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Estrenos FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69204
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar CineDoc&Roll FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69205
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Accion FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69206
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Comedia FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69207
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Drama FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69208
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Cine Español SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69209
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", TCM FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69210
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Deportes 1 (Solo Eventos)
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69212
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Mezzo HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69213
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Movistar Golf SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69214
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Eurosport 1 HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69215
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Eurosport 1 SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69216
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Teledeporte HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69217
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Caza y Pesca FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69218
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", National Geographic FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69219
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Odisea FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69220
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Decasa FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69221
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Divinity FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69222
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Mega FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69224
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Be Mad FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69225
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Baby TV SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69226
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Disney JR SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69227
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Nickelodeon FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69229
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Disney Channel FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69230
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Boing FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69231
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", VH1
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69233
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Mezzo Live FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69234
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", 24 Horas HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69235
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", EL Toro TV HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69236
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", XTRM FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69237
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Somos FHD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69238
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Iberalia TV SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69239
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", LA 1 HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69240
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", LA 1 SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69241
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Antena 3 HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69243
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Antena 3 SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69244
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Cuatro HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69245
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Cuatro SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69246
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", Telecinco HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69247
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", La Sexta HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69248
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", La Sexta SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69249
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", #0 HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69250
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", #0 SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", FOX HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69252
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", AXN SD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69253
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bandera_Nacional_de_España.png/800px-Bandera_Nacional_de_España.png" group-title="ESPAÑA", AXN HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/69254
-
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="SD | Las Estrellas" tvg-logo="http://51.222.43.170:8001/images/b15c919ea2656eb10414e6e6001d61e1.png" group-title="CANALES SD (Poco Internet)",SD | Las Estrellas
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260578
-#EXTINF:-1 tvg-id="" tvg-name="SD | Las Estrellas" tvg-logo="http://51.222.43.170:8001/images/a62ec558eb0f31d4ed08a54eaebdfabb.png" group-title="CANALES SD (Poco Internet)",SD | Las Estrellas
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260602
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="SD | Az corazón" tvg-logo="http://51.222.43.170:36995/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg" group-title="CANALES SD (Poco Internet)",SD | Az corazón
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260534
-#EXTINF:-1 tvg-id="axn.mx" tvg-name="SD | AXN" tvg-logo="http://51.222.43.170:36995/images/afeda469188fbc964d949faa482b7b57.png" group-title="CANALES SD (Poco Internet)",SD | AXN
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260579
-#EXTINF:-1 tvg-id="" tvg-name="SD | AXN" tvg-logo="http://51.222.43.170:36995/images/afeda469188fbc964d949faa482b7b57.png" group-title="CANALES SD (Poco Internet)",SD | AXN
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260585
-#EXTINF:-1 tvg-id="" tvg-name="SD | Comedy Central" tvg-logo="http://51.222.43.170:8001/images/129caaaa7a43053b5fb844224d63c5bb.png" group-title="CANALES SD (Poco Internet)",SD | Comedy Central
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260587
-#EXTINF:-1 tvg-id="eentertainmentandes.co" tvg-name="SD | E!" tvg-logo="http://51.222.43.170:8001/images/66420f0f47bd4691fc0fb3a0a0c2fa8e.png" group-title="CANALES SD (Poco Internet)",SD | E!
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260569
-#EXTINF:-1 tvg-id="" tvg-name="SD | Food Network" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Food Network
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260594
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="SD | FX" tvg-logo="http://51.222.43.170:8001/images/a1d2f92ee37d23d923743f93e4a60483.png" group-title="CANALES SD (Poco Internet)",SD | FX
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260561
-#EXTINF:-1 tvg-id="" tvg-name="SD | Garage tv" tvg-logo="http://51.222.43.170:36995/images/3824795e4e1fbf0f72f1cf99ee90d861.jpg" group-title="CANALES SD (Poco Internet)",SD | Garage tv
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260518
-#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="SD | Gourmet" tvg-logo="http://51.222.43.170:36995/images/0828abc672148441b3ad47023650f8ab.jpg" group-title="CANALES SD (Poco Internet)",SD | Gourmet
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260558
-#EXTINF:-1 tvg-id="glitz.co" tvg-name="SD | Glitz" tvg-logo="http://51.222.43.170:36995/images/a9252dcb4eae3a97e0dd312d42125937.jpg" group-title="CANALES SD (Poco Internet)",SD | Glitz
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260560
-#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="SD | ID" tvg-logo="http://51.222.43.170:36995/images/b718adec73e04ce3ec720dd11a06a308.jpg" group-title="CANALES SD (Poco Internet)",SD | ID
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260552
-#EXTINF:-1 tvg-id="lifetime.co" tvg-name="SD | Lifetime" tvg-logo="http://51.222.43.170:8001/images/67e7c7cfdee04a097a96c4fa88e10516.png" group-title="CANALES SD (Poco Internet)",SD | Lifetime
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260551
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="SD | Mas Chic" tvg-logo="http://51.222.43.170:36995/images/fbfd4e550d121590a065930450c8c12d.jpg" group-title="CANALES SD (Poco Internet)",SD | Mas Chic
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260520
-#EXTINF:-1 tvg-id="" tvg-name="SD | SYFY" tvg-logo="http://51.222.43.170:8001/images/e06fe0e616040ead9314a10dfd3bc1bb.png" group-title="CANALES SD (Poco Internet)",SD | SYFY
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260606
-#EXTINF:-1 tvg-id="tlc.co" tvg-name="SD | TLC" tvg-logo="http://51.222.43.170:8001/images/d2d37c7c32173210d37a387a3d1f3dd6.png" group-title="CANALES SD (Poco Internet)",SD | TLC
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260539
-#EXTINF:-1 tvg-id="tcm.co" tvg-name="SD | TCM" tvg-logo="http://51.222.43.170:36995/images/b1147024579f6eaf7a218e3098814fda.jpg" group-title="CANALES SD (Poco Internet)",SD | TCM
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260540
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="SD | Unicable" tvg-logo="http://51.222.43.170:8001/images/85ee06a027e5ae6f8c99ca586cf6f05f.png" group-title="CANALES SD (Poco Internet)",SD | Unicable
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260536
-#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="SD | Animal planet" tvg-logo="http://51.222.43.170:8001/images/ce063ebc7cd75033f93f0ae651507bdc.png" group-title="CANALES SD (Poco Internet)",SD | Animal planet
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260535
-#EXTINF:-1 tvg-id="history.co" tvg-name="SD | History" tvg-logo="http://51.222.43.170:36995/images/43f1ac6263ded5b136c8c5db73c73c6c.png" group-title="CANALES SD (Poco Internet)",SD | History
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260553
-#EXTINF:-1 tvg-id="history2.co" tvg-name="SD | H2" tvg-logo="http://51.222.43.170:36995/images/0a012393fa9a95c3671ba881683c62f6.jpg" group-title="CANALES SD (Poco Internet)",SD | H2
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260528
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery ID" tvg-logo="http://51.222.43.170:8001/images/c99033f970a968286a3387c079426629.png" group-title="CANALES SD (Poco Internet)",SD | Discovery ID
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260589
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="SD | Discovery science" tvg-logo="http://51.222.43.170:8001/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="CANALES SD (Poco Internet)",SD | Discovery science
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260574
-#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="SD | Discovery H&H" tvg-logo="http://51.222.43.170:8001/images/fcd8f69a6e6e13eac99d7278428610c8.png" group-title="CANALES SD (Poco Internet)",SD | Discovery H&H
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260576
-#EXTINF:-1 tvg-id="" tvg-name="SD | Discovery HH" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Discovery HH
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260588
-#EXTINF:-1 tvg-id="discoveryturbo.mx" tvg-name="SD | Discovery Turbo" tvg-logo="http://51.222.43.170:8001/images/306bb49a5594573218e8770f24e166c7.png" group-title="CANALES SD (Poco Internet)",SD | Discovery Turbo
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260572
-#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="SD | Discovery Theater" tvg-logo="http://51.222.43.170:36995/images/2f8b33bc431006afa5310403ef614593.png" group-title="CANALES SD (Poco Internet)",SD | Discovery Theater
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260573
-#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="SD | Discovery world" tvg-logo="http://51.222.43.170:8001/images/f5606e1196d693cf21b7ae31877ce473.png" group-title="CANALES SD (Poco Internet)",SD | Discovery world
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260571
-#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="SD | NatGeo" tvg-logo="http://51.222.43.170:8001/images/da70fa6e98bc60c62f134d0716289fcf.png" group-title="CANALES SD (Poco Internet)",SD | NatGeo
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260548
-#EXTINF:-1 tvg-id="babytv.co" tvg-name="SD | Baby tv" tvg-logo="http://51.222.43.170:36995/images/45914664eafc286fb139a5036f142106.jpg" group-title="CANALES SD (Poco Internet)",SD | Baby tv
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260533
-#EXTINF:-1 tvg-id="" tvg-name="SD | Boomerang" tvg-logo="http://51.222.43.170:8001/images/b04742bbf18ec1642dee80f6e674e00a.png" group-title="CANALES SD (Poco Internet)",SD | Boomerang
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260586
-#EXTINF:-1 tvg-id="boomerang.co" tvg-name="SD | Boomerang" tvg-logo="http://51.222.43.170:8001/images/4acfe0602d8a4fa437b9ac8c061e6493.png" group-title="CANALES SD (Poco Internet)",SD | Boomerang
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260610
-#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="SD | Cartoon network" tvg-logo="http://51.222.43.170:8001/images/1bc94183160849d6b99192b880949a9e.png" group-title="CANALES SD (Poco Internet)",SD | Cartoon network
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260532
-#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="SD | Disney" tvg-logo="http://51.222.43.170:36995/images/c6e44b56b7a2d04182aa31e05ec919b8.jpg" group-title="CANALES SD (Poco Internet)",SD | Disney
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260521
-#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="SD | Discovery Kids" tvg-logo="http://51.222.43.170:8001/images/e1abff7cfbdd9135b1fa98cc85ac8576.png" group-title="CANALES SD (Poco Internet)",SD | Discovery Kids
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260575
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Channel" tvg-logo="http://51.222.43.170:8001/images/731b1c883232679c23426e8c32a6ca01.png" group-title="CANALES SD (Poco Internet)",SD | Disney Channel
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260590
-#EXTINF:-1 tvg-id="" tvg-name="SD | Disney Jr" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Disney Jr
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260591
-#EXTINF:-1 tvg-id="nickjr.co" tvg-name="SD | Nick jr" tvg-logo="http://51.222.43.170:8001/images/53a027a0798e6d3f3f70b0307f6e38fc.png" group-title="CANALES SD (Poco Internet)",SD | Nick jr
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260544
-#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="SD | Nick" tvg-logo="http://51.222.43.170:8001/images/dbe20313e007928ef4e9990347a2e424.png" group-title="CANALES SD (Poco Internet)",SD | Nick
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260545
-#EXTINF:-1 tvg-id="nick2.mx" tvg-name="SD | Nick 2" tvg-logo="http://51.222.43.170:36995/images/e2e42a07550863f8b67f5eb252581f6d.jpg" group-title="CANALES SD (Poco Internet)",SD | Nick 2
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260546
-#EXTINF:-1 tvg-id="" tvg-name="SD | Nickelodeon" tvg-logo="http://51.222.43.170:36995/images/572d540acd8d2692383acfcec7b8efec.png" group-title="CANALES SD (Poco Internet)",SD | Nickelodeon
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260603
-#EXTINF:-1 tvg-id="tooncast.co" tvg-name="SD | Tooncast" tvg-logo="http://51.222.43.170:36995/images/1f2004d2d300ac1da929d30860236fc6.jpg" group-title="CANALES SD (Poco Internet)",SD | Tooncast
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260537
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="SD | Cinecanal" tvg-logo="http://51.222.43.170:8001/images/23848efd0ecb6bf5a2073da8785c9761.png" group-title="CANALES SD (Poco Internet)",SD | Cinecanal
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260577
-#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="SD | Cinemax" tvg-logo="http://51.222.43.170:8001/images/18c234e60a3dc89fa4b4176e3d37d080.png" group-title="CANALES SD (Poco Internet)",SD | Cinemax
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260531
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="SD | Fox" tvg-logo="http://51.222.43.170:36995/images/2b95d1f09b8b66c5c43622a4d9ec9a04.jpg" group-title="CANALES SD (Poco Internet)",SD | Fox
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260530
-#EXTINF:-1 tvg-id="goldenpremier.co" tvg-name="SD | Golden premier" tvg-logo="http://51.222.43.170:8001/images/598ba378f9c22a784f11a6fa71abcabf.png" group-title="CANALES SD (Poco Internet)",SD | Golden premier
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260559
-#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="SD | Golden Edge" tvg-logo="http://51.222.43.170:8001/images/a11dbdba8e777fc8f5ef6f76579678e8.png" group-title="CANALES SD (Poco Internet)",SD | Golden Edge
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260583
-#EXTINF:-1 tvg-id="hbohd.co" tvg-name="SD | HBO" tvg-logo="http://51.222.43.170:8001/images/23334b4e9c2bb90eb08163c545722d1d.png" group-title="CANALES SD (Poco Internet)",SD | HBO
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260557
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO" tvg-logo="http://51.222.43.170:8001/images/23334b4e9c2bb90eb08163c545722d1d.png" group-title="CANALES SD (Poco Internet)",SD | HBO
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260599
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="SD | HBO 2" tvg-logo="http://51.222.43.170:8001/images/857cc1299f323b3da2c26cd013d0cc36.png" group-title="CANALES SD (Poco Internet)",SD | HBO 2
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260527
-#EXTINF:-1 tvg-id="hbofamily.co" tvg-name="SD | HBO Family" tvg-logo="http://51.222.43.170:8001/images/6ea796d2cc6be935f471325a6929784f.png" group-title="CANALES SD (Poco Internet)",SD | HBO Family
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260554
-#EXTINF:-1 tvg-id="hbomundi.co" tvg-name="SD | HBO Mundi" tvg-logo="http://51.222.43.170:8001/images/2a299240b93fe53b5a52ef09e3ec3314.png" group-title="CANALES SD (Poco Internet)",SD | HBO Mundi
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260529
-#EXTINF:-1 tvg-id="hboplus.co" tvg-name="SD | HBO Plus" tvg-logo="http://51.222.43.170:8001/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CANALES SD (Poco Internet)",SD | HBO Plus
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260556
-#EXTINF:-1 tvg-id="" tvg-name="SD | HBO plus" tvg-logo="http://51.222.43.170:36995/images/efb429f49591f00a44ea4e14e93d56a0.png" group-title="CANALES SD (Poco Internet)",SD | HBO plus
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260600
-#EXTINF:-1 tvg-id="hbosignaturehd.co" tvg-name="SD | HBO Signature" tvg-logo="http://51.222.43.170:8001/images/d3ec501f325429f6f8174ec6a9e11bd3.png" group-title="CANALES SD (Poco Internet)",SD | HBO Signature
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260555
-#EXTINF:-1 tvg-id="paramountchannel.co" tvg-name="SD | Paramount" tvg-logo="http://51.222.43.170:36995/images/e80b1aa22a55e05706369fb01d551dd3.jpg" group-title="CANALES SD (Poco Internet)",SD | Paramount
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260543
-#EXTINF:-1 tvg-id="" tvg-name="SD | I SAT" tvg-logo="http://51.222.43.170:8001/images/08f106f9fa65c99ae849844b7482d3fc.png" group-title="CANALES SD (Poco Internet)",SD | I SAT
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260601
-#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="SD | TNT Series" tvg-logo="http://51.222.43.170:8001/images/3d9b6b4d3c0fe15c610dbc7bcfcd93d3.png" group-title="CANALES SD (Poco Internet)",SD | TNT Series
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260538
-#EXTINF:-1 tvg-id="sonyentertainmenttv.mx" tvg-name="SD | Sony" tvg-logo="http://51.222.43.170:8001/images/3a09d1427a58ffd09192b85a563d91c9.png" group-title="CANALES SD (Poco Internet)",SD | Sony
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260542
-#EXTINF:-1 tvg-id="" tvg-name="SD | Sony" tvg-logo="http://51.222.43.170:8001/images/7334fa93b1ca52c9c0d26ee59cada4b4.png" group-title="CANALES SD (Poco Internet)",SD | Sony
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260604
-#EXTINF:-1 tvg-id="space.co" tvg-name="SD | Space" tvg-logo="http://51.222.43.170:8001/images/b0c3521287053a4d90f1e1f9ea6756ca.png" group-title="CANALES SD (Poco Internet)",SD | Space
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260541
-#EXTINF:-1 tvg-id="" tvg-name="SD | Space" tvg-logo="http://51.222.43.170:8001/images/70fae6a0b602eafc43bba02c4078e623.png" group-title="CANALES SD (Poco Internet)",SD | Space
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260605
-#EXTINF:-1 tvg-id="" tvg-name="SD | Studio Universal" tvg-logo="http://51.222.43.170:8001/images/1f2e06860e7d7e541152d3a53df4b9e9.png" group-title="CANALES SD (Poco Internet)",SD | Studio Universal
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260612
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT" tvg-logo="http://51.222.43.170:8001/images/38d61f61a07c2ca90d0d1a66e894d559.png" group-title="CANALES SD (Poco Internet)",SD | TNT
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260607
-#EXTINF:-1 tvg-id="tnt.co" tvg-name="SD | TNT" tvg-logo="http://51.222.43.170:8001/images/077907a73fa487ea0cf7b541b860dfd3.png" group-title="CANALES SD (Poco Internet)",SD | TNT
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260525
-#EXTINF:-1 tvg-id="" tvg-name="SD | TNT Series" tvg-logo="http://51.222.43.170:8001/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="CANALES SD (Poco Internet)",SD | TNT Series
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260608
-#EXTINF:-1 tvg-id="" tvg-name="SD | Universal" tvg-logo="http://51.222.43.170:8001/images/a49c61ad9f5101d3e1f856df5d725d20.png" group-title="CANALES SD (Poco Internet)",SD | Universal
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260609
-#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="SD | Universal Channel" tvg-logo="http://51.222.43.170:8001/images/c9e7e7a94a518fa0394d6e611709bd9f.png" group-title="CANALES SD (Poco Internet)",SD | Universal Channel
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260524
-#EXTINF:-1 tvg-id="warnerchannel.co" tvg-name="SD | Warner" tvg-logo="http://51.222.43.170:8001/images/9724076cceed4c18d42e04d6157f0e54.png" group-title="CANALES SD (Poco Internet)",SD | Warner
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260522
-#EXTINF:-1 tvg-id="bandamax.mx" tvg-name="SD | Bandamax" tvg-logo="http://51.222.43.170:36995/images/c157cd3cfba5c444f2f0e6378f3da47e.jpg" group-title="CANALES SD (Poco Internet)",SD | Bandamax
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260519
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv hits" tvg-logo="http://51.222.43.170:36995/images/dfbb5449cf9d4a78e9b1fe3fda609614.jpg" group-title="CANALES SD (Poco Internet)",SD | Mtv hits
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260549
-#EXTINF:-1 tvg-id="" tvg-name="SD | Mtv live" tvg-logo="http://51.222.43.170:36995/images/02253c97a6c5a009555d41208616cf15.png" group-title="CANALES SD (Poco Internet)",SD | Mtv live
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260526
-#EXTINF:-1 tvg-id="mtv.co" tvg-name="SD | Mtv" tvg-logo="http://51.222.43.170:36995/images/a7a62d661016583d1a01616b4500c51e.jpg" group-title="CANALES SD (Poco Internet)",SD | Mtv
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260550
-#EXTINF:-1 tvg-id="vh1hd.co" tvg-name="SD | Vh1" tvg-logo="http://51.222.43.170:36995/images/268b85175a1d2788bb935265c63facbb.png" group-title="CANALES SD (Poco Internet)",SD | Vh1
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260523
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="SD | TUDN" tvg-logo="http://51.222.43.170:8001/images/06c9460347bd5f1229d48626ba513feb.png" group-title="CANALES SD (Poco Internet)",SD | TUDN
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/262195
-#EXTINF:-1 tvg-id="espn3.mx" tvg-name="SD | Espn 3 MX" tvg-logo="http://51.222.43.170:8001/images/4ce8f6ad68bf634e2332d766d587880c.png" group-title="CANALES SD (Poco Internet)",SD | Espn 3 MX
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260517
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="SD | ESPN 2" tvg-logo="http://51.222.43.170:8001/images/2c43f34598080c3ad9331c4f8af3a144.png" group-title="CANALES SD (Poco Internet)",SD | ESPN 2
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260580
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SD | Fox Sports 2" tvg-logo="http://51.222.43.170:8001/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 2
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260581
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="SD | Fox Sports 3" tvg-logo="http://51.222.43.170:36995/images/464bcb4597a95683a700913a7ff774d0.jpg" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260582
-#EXTINF:-1 tvg-id="" tvg-name="SD | Fox Sports 3" tvg-logo="" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 3
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/260598
-#EXTINF:-1 tvg-id="" tvg-name="SD | ESPN 2 SD" tvg-logo="http://51.222.43.170:36995/images/7b69fb58de1147098509430d0f498d6f.png" group-title="CANALES SD (Poco Internet)",SD | ESPN 2 SD
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/262172
-#EXTINF:-1 tvg-id="" tvg-name="SD | AMC" tvg-logo="http://51.222.43.170:8001/images/a34b5592645bbea24cc0e8ac51b276dd.png" group-title="CANALES SD (Poco Internet)",SD | AMC
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/265941
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SD | Fox Sports 2*" tvg-logo="http://51.222.43.170:8001/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="CANALES SD (Poco Internet)",SD | Fox Sports 2*
-http://51.222.43.170:8001/dariorodriguez2304/wVS7L8xpdbCa/311894
-
 
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Zoom",Zoom
 http://190.60.37.69:8015/play/a03a/index.m3u8
 
-#EXTM3U
-#EXTINF:-1,TNT Sports 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/1
-#EXTINF:-1,CDF HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/2
-#EXTINF:-1,CNN Chile
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3
-#EXTINF:-1,24 horas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4
-#EXTINF:-1,La red
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/5
-#EXTINF:-1,tvn
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/6
-#EXTINF:-1,Mega
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/7
-#EXTINF:-1,CHV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/8
-#EXTINF:-1,Canal 13
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/9
-#EXTINF:-1,Cartoonito
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/10
-#EXTINF:-1,NICK JR
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/11
-#EXTINF:-1,DISCOVERY KIDS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/12
-#EXTINF:-1,DISCOVERY TURBO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/13
-#EXTINF:-1,Disney Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/14
-#EXTINF:-1,Disney Jr
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/15
-#EXTINF:-1,Cartoon Network
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/18
-#EXTINF:-1,ESPN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/19
-#EXTINF:-1,ESPN 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/20
-#EXTINF:-1,ESPN 2 CO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/21
-#EXTINF:-1,ESPN 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/22
-#EXTINF:-1,Fox Sports 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/23
-#EXTINF:-1,Win
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/24
-#EXTINF:-1,FX
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/25
-#EXTINF:-1,TNT
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/26
-#EXTINF:-1,Cinecanal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/27
-#EXTINF:-1,Cinemax
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/28
-#EXTINF:-1,Star Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/31
-#EXTINF:-1,Warner
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/32
-#EXTINF:-1,Universal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/33
-#EXTINF:-1,Sony
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/34
-#EXTINF:-1,Space
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/35
-#EXTINF:-1,TCM
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/36
-#EXTINF:-1,I-sat
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/37
-#EXTINF:-1,AXN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/38
-#EXTINF:-1,Nat Geo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/39
-#EXTINF:-1,Home and Health
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/40
-#EXTINF:-1,Discovery ID
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/41
-#EXTINF:-1,Discovery Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/42
-#EXTINF:-1,Animal Planet
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/43
-#EXTINF:-1,History Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/44
-#EXTINF:-1,TLC
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/45
-#EXTINF:-1,CNN espanol
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/46
-#EXTINF:-1,Canal de Las estrellas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/47
-#EXTINF:-1,E Entertainment
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/48
-#EXTINF:-1,TVE
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/49
-#EXTINF:-1,MTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/50
-#EXTINF:-1,ViaX
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/51
-#EXTINF:-1,Zona Latina
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/52
-#EXTINF:-1,Canal Caracol
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/53
-#EXTINF:-1,Canal RCN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/54
-#EXTINF:-1,Canal Del Congreso CO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/55
-#EXTINF:-1,Canal Capital
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/56
-#EXTINF:-1,City TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/57
-#EXTINF:-1,Senal Colombiana
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/59
-#EXTINF:-1,TBS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/60
-#EXTINF:-1,Telepacifico
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/61
-#EXTINF:-1,Teleislas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/62
-#EXTINF:-1,Teleantioquia
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/63
-#EXTINF:-1,Telecafe
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/64
-#EXTINF:-1,Golf Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/66
-#EXTINF:-1,teletrak
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/67
-#EXTINF:-1,13 C
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/148
-#EXTINF:-1,Rec TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/149
-#EXTINF:-1,TV+
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/150
-#EXTINF:-1,TNT Sports 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/151
-#EXTINF:-1,Fox Sports 1
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
-#EXTINF:-1,Fox Sports 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
-#EXTINF:-1,CDO basico
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/154
-#EXTINF:-1,CDO premium
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/155
-#EXTINF:-1,ANTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/156
-#EXTINF:-1,ATV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/157
-#EXTINF:-1,Baby TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/158
-#EXTINF:-1,CMD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/159
-#EXTINF:-1,Canal N
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/160
-#EXTINF:-1,Discovery Science
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/161
-#EXTINF:-1,EWTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/162
-#EXTINF:-1,ECDF El canal del futbol
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/164
-#EXTINF:-1,Gol Peru
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/170
-#EXTINF:-1,Golden
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/171
-#EXTINF:-1,HBO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/173
-#EXTINF:-1,HBO Mundi
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/174
-#EXTINF:-1,HBO Signature
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/175
-#EXTINF:-1,HBO 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/176
-#EXTINF:-1,HTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/177
-#EXTINF:-1,History 2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/178
-#EXTINF:-1,HOLA TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/179
-#EXTINF:-1,Las Estrellas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/180
-#EXTINF:-1,Lifetime
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/181
-#EXTINF:-1,Meridiano
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/182
-#EXTINF:-1,Panamericana
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/184
-#EXTINF:-1,Paramount
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/185
-#EXTINF:-1,Peru Magico
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/186
-#EXTINF:-1,RPP
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/187
-#EXTINF:-1,Studio Universal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/188
-#EXTINF:-1,SYFY
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/189
-#EXTINF:-1,Tnt Series
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/191
-#EXTINF:-1,TV EPACO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/192
-#EXTINF:-1,TV Peru
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/193
-#EXTINF:-1,Telenovelas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/194
-#EXTINF:-1,Tooncast
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/195
-#EXTINF:-1,TYC Sports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/196
-#EXTINF:-1,VALE TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/197
-#EXTINF:-1,VenevisionPlus
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/198
-#EXTINF:-1,Venezolana de TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/199
-#EXTINF:-1,Vive
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/200
-#EXTINF:-1,WOBI
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/201
-#EXTINF:-1,ETC TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/202
-#EXTINF:-1,movistar deportes
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/203
-#EXTINF:-1,ESPN op2
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/204
-#EXTINF:-1,America Television
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/205
-#EXTINF:-1,Latina
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/206
-#EXTINF:-1,Fox sports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/207
-#EXTINF:-1,A&E HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/208
-#EXTINF:-1,AMC HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/209
-#EXTINF:-1,AXN HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/210
-#EXTINF:-1,Animal Planet HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/211
-#EXTINF:-1,CHV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/212
-#EXTINF:-1,CNN Chile HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/213
-#EXTINF:-1,Canal 13 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/214
-#EXTINF:-1,Canal 24 Horas HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/215
-#EXTINF:-1,Cartoon Network HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/216
-#EXTINF:-1,Cinecanal HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/217
-#EXTINF:-1,Cinemax HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/218
-#EXTINF:-1,Comedy Central HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/219
-#EXTINF:-1,DHE HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/220
-#EXTINF:-1,Discovery H&H HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/221
-#EXTINF:-1,Discovery HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/222
-#EXTINF:-1,Discovery Kids HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/223
-#EXTINF:-1,Discovery Theater HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/224
-#EXTINF:-1,Discovery World HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/225
-#EXTINF:-1,Disney HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/226
-#EXTINF:-1,ESPN 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/227
-#EXTINF:-1,ESPN 3 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/228
-#EXTINF:-1,ESPN EXTRA HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/229
-#EXTINF:-1,ESPN HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/230
-#EXTINF:-1,El Gourmet HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/231
-#EXTINF:-1,FOX Sports 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/232
-#EXTINF:-1,FX HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/233
-#EXTINF:-1,Food Network HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/235
-#EXTINF:-1,Fox Sports 1 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/236
-#EXTINF:-1,Fox Sports 3 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/237
-#EXTINF:-1,Golden HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/238
-#EXTINF:-1,HBO HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/239
-#EXTINF:-1,History 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/240
-#EXTINF:-1,History Channel HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/241
-#EXTINF:-1,Discovery ID HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/242
-#EXTINF:-1,La Red HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/243
+#EXTINF:-1,24/7 HARRY POTTER
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99100
+#EXTINF:-1,24/7 M|Películas Romance
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99101
+#EXTINF:-1,LAT: GOLF CHANNEL LATINOAMERICA ©️
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99327
+#EXTINF:-1,24/7 El encantador de perros
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99794
+#EXTINF:-1,24/7 Master Chef
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99803
+#EXTINF:-1,24/7 CSI
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99828
+#EXTINF:-1,27/7 Novelas de Romance
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99829
+#EXTINF:-1,LAT | F⚽X SPORTS 1 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99836
+#EXTINF:-1,LAT | F⚽X SPORTS 1 SD.
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99837
+#EXTINF:-1,TN 23
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99966
+#EXTINF:-1,LAT | F⚽X SPORTS 1 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100115
+#EXTINF:-1,LAT | FOX SPORTS 2 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100116
+#EXTINF:-1,24/7 Sony Canal Novelas
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100288
+#EXTINF:-1,RD | CANAL 4
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100689
+#EXTINF:-1,RD | CANAL 25
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100690
+#EXTINF:-1,RD | TELECENTRO CANAL 13
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100693
+#EXTINF:-1,RD | Telesistema 11
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/100694
+#EXTINF:-1,ALQUILER 1
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101027
+#EXTINF:-1,ALQUILER 2
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101029
+#EXTINF:-1,ALQUILER 3
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101031
+#EXTINF:-1,ALQUILER 4
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101032
+#EXTINF:-1,ALQUILER 5
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101033
+#EXTINF:-1,ALQUILER 6
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101035
+#EXTINF:-1,PR II PUNTO 2 HD (PP)
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101646
+#EXTINF:-1,PR II NOTIUNO SD (PP)
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/101648
+#EXTINF:-1,LA 1
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110038
+#EXTINF:-1,LA 1 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110039
+#EXTINF:-1,LA 1 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110040
+#EXTINF:-1,STAR TVE
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110041
+#EXTINF:-1,STAR TVE FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110042
+#EXTINF:-1,LA 2
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110043
+#EXTINF:-1,LA 2 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110044
+#EXTINF:-1,TVE INTERNACIONAL*
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110045
+#EXTINF:-1,ANTENA 3
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110046
+#EXTINF:-1,ANTENA 3 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110047
+#EXTINF:-1,ANTENA 3 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110048
+#EXTINF:-1,CUATRO
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110049
+#EXTINF:-1,CUATRO HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110050
+#EXTINF:-1,CUATRO FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110051
+#EXTINF:-1,TELECINCO
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110052
+#EXTINF:-1,TELECINCO HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110053
+#EXTINF:-1,TELECINCO FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110054
+#EXTINF:-1,LA SEXTA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110055
+#EXTINF:-1,LA SEXTA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110056
+#EXTINF:-1,LA SEXTA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110057
+#EXTINF:-1,A3SERIES
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110058
+#EXTINF:-1,A3SERIES HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110059
+#EXTINF:-1,A3SERIES FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110060
+#EXTINF:-1,NEOX
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110061
+#EXTINF:-1,NEOX FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110062
+#EXTINF:-1,NOVA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110063
+#EXTINF:-1,NOVA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110064
+#EXTINF:-1,BEMAD TV HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110065
+#EXTINF:-1,BEMAD SD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110066
+#EXTINF:-1,BEMAD TV FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110067
+#EXTINF:-1,MEGA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110068
 #EXTINF:-1,MEGA HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/244
-#EXTINF:-1,Nat Geo HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/245
-#EXTINF:-1,Paramount HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/248
-#EXTINF:-1,Pasiones HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/249
-#EXTINF:-1,STAR CHANNEL HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/251
-#EXTINF:-1,Sony HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/257
-#EXTINF:-1,Space HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/258
-#EXTINF:-1,Studio Universal HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/259
-#EXTINF:-1,Sun Channel HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/260
-#EXTINF:-1,TNT HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/261
-#EXTINF:-1,TNT SPORTS HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/262
-#EXTINF:-1,TNT Series HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/263
-#EXTINF:-1,TRUTV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/264
-#EXTINF:-1,TVN HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/265
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/266
-#EXTINF:-1,Warner Channel HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/267
-#EXTINF:-1,A&E Mundo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/268
-#EXTINF:-1,HBO Family
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/269
-#EXTINF:-1,HBO plus
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/270
-#EXTINF:-1,HBO Xtream
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/271
-#EXTINF:-1,Nickelodeon
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/272
-#EXTINF:-1,TV+ HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/273
-#EXTINF:-1,NTV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/274
-#EXTINF:-1,DragonBall Z - Saga Freezer
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/304
-#EXTINF:-1,24/7 INVENCIBLE
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/313
-#EXTINF:-1,24/7 JUJUTSU KAISEN
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/338
-#EXTINF:-1,24/7 El Juego Del Calamar
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/348
-#EXTINF:-1,Telemundo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3924
-#EXTINF:-1,DTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3925
-#EXTINF:-1,Win Sports +
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3926
-#EXTINF:-1,CONGRESO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3927
-#EXTINF:-1,ET Canal El Tiempo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3928
-#EXTINF:-1,JUSTICIA TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3929
-#EXTINF:-1,MOVISTAR PLUS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3930
-#EXTINF:-1,Venevision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3931
-#EXTINF:-1,Canal Institucional
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3932
-#EXTINF:-1,TV PERU 7.3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3933
-#EXTINF:-1,De Pelicula
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3934
-#EXTINF:-1,HGTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3935
-#EXTINF:-1,Gol TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3936
-#EXTINF:-1,HBO POP
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/3937
-#EXTINF:-1,HBO Family hd
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4181
-#EXTINF:-1,HBO 2 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4182
-#EXTINF:-1,HBO XTREME HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4183
-#EXTINF:-1,MTV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4184
-#EXTINF:-1,MTV LIVE HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4185
-#EXTINF:-1,E! HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4186
-#EXTINF:-1,CLOVER HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4187
-#EXTINF:-1,Kanal D Drama HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4188
-#EXTINF:-1,Love Nature HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4189
-#EXTINF:-1,EVENTOS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4195
-#EXTINF:-1,NICK HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4226
-#EXTINF:-1,Canal 13 i
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4239
-#EXTINF:-1,Canal 13 Cultura
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4240
-#EXTINF:-1,Canal 13 Entretencion
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4241
-#EXTINF:-1,Canal 13 Prime
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4242
-#EXTINF:-1,Canal 13 Teleseries
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4243
-#EXTINF:-1,EnerGeek
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4244
-#EXTINF:-1,EnerGeek Fanpop
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4245
-#EXTINF:-1,EnerGeek Wowly
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4246
-#EXTINF:-1,A3series HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4247
-#EXTINF:-1,Universal Cinema SD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4248
-#EXTINF:-1,Universal Comedy SD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4249
-#EXTINF:-1,Universal Premiere SD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4250
-#EXTINF:-1,Via X Esports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4251
-#EXTINF:-1,ATRES SERIES
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4252
-#EXTINF:-1,Antena 3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4253
-#EXTINF:-1,BBC World
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4254
-#EXTINF:-1,CNN Internacional
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4255
-#EXTINF:-1,CNT SPORTS SD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4256
-#EXTINF:-1,CableNoticias
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4257
-#EXTINF:-1,Canal Uno
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4258
-#EXTINF:-1,Canal 13 (CO)
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4259
-#EXTINF:-1,Canal I
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4260
-#EXTINF:-1,Clover
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4261
-#EXTINF:-1,Conciencia
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4262
-#EXTINF:-1,DW (Deutsch +)
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4263
-#EXTINF:-1,Distrito Comedia
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4264
-#EXTINF:-1,ESPN op3
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4265
-#EXTINF:-1,ESPN 4
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
-#EXTINF:-1,Ecuador TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4267
-#EXTINF:-1,Ecuavisa
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4268
-#EXTINF:-1,El Gourmet
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4269
-#EXTINF:-1,El Trece
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4270
-#EXTINF:-1,Epoca
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4271
-#EXTINF:-1,Eurochannel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4272
-#EXTINF:-1,FANB
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4273
-#EXTINF:-1,Fox News
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4274
-#EXTINF:-1,France 24
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4275
-#EXTINF:-1,GLOBAL
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4276
-#EXTINF:-1,Gamavision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4277
-#EXTINF:-1,Glitz
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4278
-#EXTINF:-1,Globovision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4279
-#EXTINF:-1,HBO SD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4280
-#EXTINF:-1,HBO Xtreme
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4281
-#EXTINF:-1,Kanal D Drama
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4282
-#EXTINF:-1,La Redonda TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4283
-#EXTINF:-1,Lolly Kids
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4284
-#EXTINF:-1,Love Nature
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4285
-#EXTINF:-1,Mas Chic
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4286
-#EXTINF:-1,NTN 24 Horas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4287
-#EXTINF:-1,Nuestra Tele
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4288
-#EXTINF:-1,Oromar TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4289
-#EXTINF:-1,PLUSTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4290
-#EXTINF:-1,RAI
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4291
-#EXTINF:-1,RTS
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4292
-#EXTINF:-1,RTU
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4293
-#EXTINF:-1,Sun Channel
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4294
-#EXTINF:-1,TLT
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4295
-#EXTINF:-1,TV Diputados
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4296
-#EXTINF:-1,TV Familia
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4297
-#EXTINF:-1,TV Senado
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4298
-#EXTINF:-1,TVES
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4299
-#EXTINF:-1,Teen Nick
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4300
-#EXTINF:-1,Teleamazonas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4301
-#EXTINF:-1,Telecanal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4302
-#EXTINF:-1,Telefe
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4303
-#EXTINF:-1,Telesur
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4304
-#EXTINF:-1,Televicentro
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4305
-#EXTINF:-1,Tru TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4306
-#EXTINF:-1,UCL
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4307
-#EXTINF:-1,Wuan+
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4308
-#EXTINF:-1,Win Sports+
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4309
-#EXTINF:-1,ATRES SERIES HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4310
-#EXTINF:-1,America TV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4311
-#EXTINF:-1,Canal Institucional HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4312
-#EXTINF:-1,Caracol HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4313
-#EXTINF:-1,ESPN 4 HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4314
-#EXTINF:-1,Gol Peru HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4315
-#EXTINF:-1,Gol TV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4316
-#EXTINF:-1,HBO POP HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4317
-#EXTINF:-1,Hola TV HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4318
-#EXTINF:-1,Las Estrellas HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4319
-#EXTINF:-1,Latina HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4320
-#EXTINF:-1,MTV 00s
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4321
-#EXTINF:-1,Movistar Deportes HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4322
-#EXTINF:-1,NICK MUSIC
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4323
-#EXTINF:-1,RCN HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4325
-#EXTINF:-1,Senal Colombiana HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4326
-#EXTINF:-1,Stingray Concerts HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4327
-#EXTINF:-1,TBS Very Funny HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4328
-#EXTINF:-1,Telehit HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4329
-#EXTINF:-1,Win Sports+ HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4330
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110069
+#EXTINF:-1,MEGA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110070
+#EXTINF:-1,ENERGY HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110071
+#EXTINF:-1,DKISS
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110072
+#EXTINF:-1,DIVINITY
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110073
+#EXTINF:-1,TRECE
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110074
+#EXTINF:-1,TEN
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110075
+#EXTINF:-1,24H
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110076
+#EXTINF:-1,FDF
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110077
+#EXTINF:-1,COSMO
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110078
+#EXTINF:-1,COSMOS HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110079
+#EXTINF:-1,COSMO FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110080
+#EXTINF:-1,SYFY
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110081
+#EXTINF:-1,SYFY HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110082
+#EXTINF:-1,SYFY FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110083
 #EXTINF:-1,AMC
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4331
-#EXTINF:-1,America TV PY
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4332
-#EXTINF:-1,Baby First
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4333
-#EXTINF:-1,C9N
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4334
-#EXTINF:-1,Canal Claro
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4335
-#EXTINF:-1,Canal TRO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4336
-#EXTINF:-1,Claro Cinema
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4337
-#EXTINF:-1,Claro Sports
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4338
-#EXTINF:-1,Comedy Central
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4339
-#EXTINF:-1,Cristovision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4340
-#EXTINF:-1,ESPN CO
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4341
-#EXTINF:-1,Enlace
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4342
-#EXTINF:-1,Esne TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4343
-#EXTINF:-1,Europa Europa
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4344
-#EXTINF:-1,Film&Arts
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4345
-#EXTINF:-1,Gama TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4346
-#EXTINF:-1,Globo Internacional
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4347
-#EXTINF:-1,HBO Plus HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4349
-#EXTINF:-1,HBO Signature HD
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4350
-#EXTINF:-1,La Tele
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4351
-#EXTINF:-1,Movistar TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4352
-#EXTINF:-1,NPY
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4353
-#EXTINF:-1,Paravision
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4354
-#EXTINF:-1,Paraguay TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4355
-#EXTINF:-1,RCN Novelas
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4357
-#EXTINF:-1,SNT
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4358
-#EXTINF:-1,SUR TV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4359
-#EXTINF:-1,Sin Limites
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4361
-#EXTINF:-1,TC Television
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4362
-#EXTINF:-1,TV Camara
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4363
-#EXTINF:-1,telecaribe
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4364
-#EXTINF:-1,telefuturo
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4365
-#EXTINF:-1,televen
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4366
-#EXTINF:-1,Unicanal
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4367
-#EXTINF:-1,Willax
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4368
-#EXTINF:-1,NTV
-http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110084
+#EXTINF:-1,AMC FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110085
+#EXTINF:-1,DARK
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110086
+#EXTINF:-1,SOMOS
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110087
+#EXTINF:-1,XTRM HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110088
+#EXTINF:-1,XTRM FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110089
+#EXTINF:-1,SUNDANCE TV
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110090
+#EXTINF:-1,SUNDANCE HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110091
+#EXTINF:-1,SUNDANCE FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110092
+#EXTINF:-1,MTV
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110093
+#EXTINF:-1,::::::::::::::: MOVISTAR CINE  :::::::::::::::
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110094
+#EXTINF:-1,#0
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110095
+#EXTINF:-1,# HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110096
+#EXTINF:-1,#0 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110097
+#EXTINF:-1,MOVISTAR  ESTRENOS
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110098
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110099
+#EXTINF:-1,MOVISTAR  ESTRENOS FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110100
+#EXTINF:-1,MOVISTAR ESTRENOS 2 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110101
+#EXTINF:-1,MOVISTAR ESTRENOS 2 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110102
+#EXTINF:-1,MOVISTAR ACCION
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110103
+#EXTINF:-1,MOVISTAR ACCION HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110104
+#EXTINF:-1,MOVISTAR ACCION FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110105
+#EXTINF:-1,MOVISTAR COMEDIA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110106
+#EXTINF:-1,MOVISTAR COMEDIA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110108
+#EXTINF:-1,MOVISTAR DRAMA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110109
+#EXTINF:-1,MOVISTAR DRAMA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110110
+#EXTINF:-1,MOVISTAR DRAMA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110111
+#EXTINF:-1,MOVISTAR CLASICOS SD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110112
+#EXTINF:-1,MOVISTAR CLASICOS FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110113
+#EXTINF:-1,MOVISTAR FEST FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110114
+#EXTINF:-1,COMEDY CENTRAL
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110115
+#EXTINF:-1,COMEDY CENTRAL HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110116
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110117
+#EXTINF:-1,MOVISTAR  CINE ESPAÑOL
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110118
+#EXTINF:-1,MOVISTAR CINE ESPAÑOL FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110119
+#EXTINF:-1,MOVISTAR DISNEY +
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110120
+#EXTINF:-1,ALQUILER 7
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110126
+#EXTINF:-1,ALQUILER 8
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110127
+#EXTINF:-1,ALQUILER 9
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110128
+#EXTINF:-1,ALQUILER 10
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110129
+#EXTINF:-1,MOVISTAR  SERIES 2
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110133
+#EXTINF:-1,MOVISTAR SERIES 2 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110134
+#EXTINF:-1,MOVISTAR  SERIES 2 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110135
+#EXTINF:-1,MOVISTAR  SERIES
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110136
+#EXTINF:-1,MOVISTAR SERIES HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110137
+#EXTINF:-1,MOVISTAR  SERIES FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110138
+#EXTINF:-1,MOVISTAR LA RESISTENCIA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110139
+#EXTINF:-1,AXN White
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110140
+#EXTINF:-1,AXN WHITE HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110141
+#EXTINF:-1,AXN WHITE FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110142
+#EXTINF:-1,AXN
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110143
+#EXTINF:-1,AXN HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110144
+#EXTINF:-1,AXN FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110145
+#EXTINF:-1,CALLE 13
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110146
+#EXTINF:-1,CALLE 13 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110147
+#EXTINF:-1,CALLE 13 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110148
+#EXTINF:-1,TNT
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110149
+#EXTINF:-1,TNT HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110150
+#EXTINF:-1,TNT FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110151
+#EXTINF:-1,TCM
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110152
+#EXTINF:-1,TCM HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110153
+#EXTINF:-1,TCM FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110154
+#EXTINF:-1,FOX
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110155
+#EXTINF:-1,FOX HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110156
+#EXTINF:-1,FOX FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110157
+#EXTINF:-1,HOLLYWOOD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110158
+#EXTINF:-1,HOLLYWOOD HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110159
+#EXTINF:-1,HOLLYWOOD FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110160
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110161
+#EXTINF:-1,MyTIME MOVIE NETWORK
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110162
+#EXTINF:-1,COMEDY DYNAMICS
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110163
+#EXTINF:-1,::::::::::::::: DEPORTES :::::::::::::::
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110164
+#EXTINF:-1,MOVISTAR VAMOS
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110165
+#EXTINF:-1,MOVISTAR VAMOS HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110166
+#EXTINF:-1,MOVISTAR  VAMOS FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110167
+#EXTINF:-1,MOVISTAR VAMOS FHD EXTRA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110168
+#EXTINF:-1,EUROSPORT
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110179
+#EXTINF:-1,MOVISTAR  LA LIGA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110184
+#EXTINF:-1,MOVISTAR LA LIGA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110185
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110189
+#EXTINF:-1,MOVISTAR LA LIGA 1
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110191
+#EXTINF:-1,MOVISTAR  GOLF
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110216
+#EXTINF:-1,MOVISTAR GOLF HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110217
+#EXTINF:-1,MOVISTAR  GOLF FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110218
+#EXTINF:-1,MOVISTAR F1 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110220
+#EXTINF:-1,MOVISTAR F1 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110221
+#EXTINF:-1,DAZN MOVISTAR 1 FHD.
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110224
+#EXTINF:-1,DAZN MOVISTAR 1 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110225
+#EXTINF:-1,DAZN MOVISTAR 2 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110226
+#EXTINF:-1,DAZN MOVISTAR 2 FHD.
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110228
+#EXTINF:-1,DAZN MOVISTAR 3 HD.
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110229
+#EXTINF:-1,DAZN MOVISTAR 3 FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110230
+#EXTINF:-1,DAZN MOVISTAR 4 HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110231
+#EXTINF:-1,DAZN MOVISTAR 1 SD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110232
+#EXTINF:-1,TELEDEPORTES
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110233
+#EXTINF:-1,TELEDEPORTES FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110234
+#EXTINF:-1,BARCA TV
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110235
+#EXTINF:-1,BARCA TV FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110236
+#EXTINF:-1,SEVILLA FC
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110237
+#EXTINF:-1,REAL MADRID TV
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110238
+#EXTINF:-1,REAL MADRID FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110239
+#EXTINF:-1,::::::::::::::: LIFE STYLE :::::::::::::::
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110240
+#EXTINF:-1,CANAL COCINA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110241
+#EXTINF:-1,CANAL COCINA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110242
+#EXTINF:-1,CANAL COCINA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110243
+#EXTINF:-1,CANAL DECASA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110244
+#EXTINF:-1,CANAL DECASA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110245
+#EXTINF:-1,CANAL DECASA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110246
+#EXTINF:-1,::::::::::::::: DOCUMENTALES :::::::::::::::
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110247
+#EXTINF:-1,HISTORIA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110248
+#EXTINF:-1,HISTORIA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110249
+#EXTINF:-1,HISTORIA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110250
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110251
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110252
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110253
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110254
+#EXTINF:-1,NATIONAL GEOGRAFIC WILD HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110255
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110256
+#EXTINF:-1,DISCOVERY CHANNEL
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110257
+#EXTINF:-1,DISCOVERY HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110258
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110259
+#EXTINF:-1,DMAX
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110260
+#EXTINF:-1,ODISEA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110261
+#EXTINF:-1,ODISEA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110262
+#EXTINF:-1,ODISEA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110263
+#EXTINF:-1,BLAZE
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110264
+#EXTINF:-1,BLAZE HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110265
+#EXTINF:-1,CRIMEN & INVESTIGACION FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110266
+#EXTINF:-1,MEZZO LIVE FULL HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110267
+#EXTINF:-1,::::::::::::::: AFICIONES :::::::::::::::
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110268
+#EXTINF:-1,Mundotoros tv
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110269
+#EXTINF:-1,TOROS HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110270
+#EXTINF:-1,TOROS TV FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110271
+#EXTINF:-1,CAZA Y PESCA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110272
+#EXTINF:-1,CAZA Y PESCA HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110273
+#EXTINF:-1,CAZA Y PESCA FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110274
+#EXTINF:-1,IBERALIA TV
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110275
+#EXTINF:-1,CAZAVISION
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110276
+#EXTINF:-1,CAZAVISION FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110277
+#EXTINF:-1,::::::::::::::: INFANTILES :::::::::::::::
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110278
+#EXTINF:-1,DISNEY
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110279
+#EXTINF:-1,DISNEY HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110280
+#EXTINF:-1,DISNEY FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110281
+#EXTINF:-1,DISNEY CHANNEL HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110282
+#EXTINF:-1,NICKELODEON HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110283
+#EXTINF:-1,CLAN HD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110284
+#EXTINF:-1,DISNEY CHANNEL
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110285
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110286
+#EXTINF:-1,DISNEY JUNIOR
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110287
+#EXTINF:-1,DISNEY XD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110288
+#EXTINF:-1,NICK JUNIOR
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110289
+#EXTINF:-1,CLAN TVE
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110290
+#EXTINF:-1,CANAL PANDA
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110291
+#EXTINF:-1,NICKELODEON FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110292
+#EXTINF:-1,BOING SD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110293
+#EXTINF:-1,BOING FHD
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110294
+
+
+
 
 
 
@@ -1374,222 +831,6 @@ http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4370
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1,La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1,Antena 3
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110047
-#EXTINF:-1,Cuatro
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110050
-#EXTINF:-1,Telecinco
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110053
-#EXTINF:-1,La Sexta 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110057
-#EXTINF:-1,Factoría de Ficción
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110077
-#EXTINF:-1,Be Mad
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110065
-#EXTINF:-1,Be Mad 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110067
-#EXTINF:-1,Energy
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110071
-#EXTINF:-1,Atreseries
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110059
-#EXTINF:-1,Atreseries
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110060
-#EXTINF:-1,Mega
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110068
-#EXTINF:-1,Mega
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110070
-#EXTINF:-1,Neox
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110061
-#EXTINF:-1,Neox
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110062
-#EXTINF:-1,Nova
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110063
-#EXTINF:-1,Nova
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110064
-#EXTINF:-1,Divinity
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110073
-#EXTINF:-1,Historia
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110249
-#EXTINF:-1,Historia
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110250
-#EXTINF:-1,Canal Cocina
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110242
-#EXTINF:-1,Canal Cocina
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110243
-#EXTINF:-1,Amc Crime
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110266
-#EXTINF:-1,National Geographic
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110253
-#EXTINF:-1,DMax
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110260
-#EXTINF:-1,DKiss
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110072
-#EXTINF:-1,Canal Sur
-https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
-#EXTINF:-1,24 Horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1,M+ #0
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/13437
-#EXTINF:-1,M+ #0
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110097
-#EXTINF:-1,M+ Estrenos
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110099
-#EXTINF:-1,M+ Estrenos
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110100
-#EXTINF:-1,M+ Estrenos 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110101
-#EXTINF:-1,M+ Estrenos 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110102
-#EXTINF:-1,M+ Acción
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110104
-#EXTINF:-1,M+ Acción
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110105
-#EXTINF:-1,M+ Comedia
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/13433
-#EXTINF:-1,M+ Comedia
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110108
-#EXTINF:-1,M+ Drama
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/13436
-#EXTINF:-1,M+ Drama
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110110
-#EXTINF:-1,M+ Cine Español
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110118
-#EXTINF:-1,M+ Cine Español
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110119
-#EXTINF:-1,Somos
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110087
-#EXTINF:-1,Dark 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110086
-#EXTINF:-1,Xtrm
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110088
-#EXTINF:-1,Xtrm
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110089
-#EXTINF:-1,Canal Hollywood
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110159
-#EXTINF:-1,Canal Hollywood
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110160
-#EXTINF:-1,Syfy
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110082
-#EXTINF:-1,Syfy
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110083
-#EXTINF:-1,Amc
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110084
-#EXTINF:-1,Amc
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110085
-#EXTINF:-1,Tcm
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110153
-#EXTINF:-1,Tcm
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110154
-#EXTINF:-1,Paramount Network
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110161
-#EXTINF:-1,Comedy Central
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110116
-#EXTINF:-1,Comedy Central
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110117
-#EXTINF:-1,M+ Series
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110137
-#EXTINF:-1,M+ Series
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110138
-#EXTINF:-1,M+ Series 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110134
-#EXTINF:-1,M+ Series 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110135
-#EXTINF:-1,M+ Fest
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110114
-#EXTINF:-1,La Resistencia 24h
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110139
-#EXTINF:-1,Fox
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110156
-#EXTINF:-1,Fox
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110157
-#EXTINF:-1,Axn
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110144
-#EXTINF:-1,Axn
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110145
-#EXTINF:-1,Axn Movies
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110142
-#EXTINF:-1,Calle 13
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110147
-#EXTINF:-1,Calle 13
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110148
-#EXTINF:-1,Warner tv
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110150
-#EXTINF:-1,Cosmo
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110079
-#EXTINF:-1,Cosmo
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110080
-#EXTINF:-1,Sundance Tv
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110092
-#EXTINF:-1,M+ #Vamos
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110167
-#EXTINF:-1,M+ #Vamos
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110168
-#EXTINF:-1,M+ LaLigatv
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110185
-#EXTINF:-1,M+ LaLigatv
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110189
-#EXTINF:-1,M+ LaLigatv
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144025
-#EXTINF:-1,M+ LaLigatv
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144026
-#EXTINF:-1,Dazn LaLiga
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144035
-#EXTINF:-1,Laliga SmartBanktv 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144039
-#EXTINF:-1,LaLigaTvBar
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144032
-#EXTINF:-1,M+ Liga de Campeones
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/147932
-#EXTINF:-1,M+ Liga de Campeones
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/147936
-#EXTINF:-1,Gol Play 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144071
-#EXTINF:-1,Gol Play 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144072
-#EXTINF:-1,Dazn 1
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110225
-#EXTINF:-1,Dazn 1
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110224
-#EXTINF:-1,Dazn 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110226
-#EXTINF:-1,Dazn 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110228
-#EXTINF:-1,Dazn 3
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110229
-#EXTINF:-1,Dazn 3
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110230
-#EXTINF:-1,Dazn 4
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/110231
-#EXTINF:-1,Dazn F1
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/125364
-#EXTINF:-1,Dazn F1
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/125365
-#EXTINF:-1,M+ Deportes
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144049
-#EXTINF:-1,M+ Deportes
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144051
-#EXTINF:-1,Teledeporte
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF:-1,Eurosport 1
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/17186
-#EXTINF:-1,Eurosport 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/17187
-#EXTINF:-1,M+ LaLigatv 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144027
-#EXTINF:-1,Dazn LaLiga 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144037
-#EXTINF:-1,Dazn LaLiga 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144038
-#EXTINF:-1,Laliga SmartBanktv M2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144040
-#EXTINF:-1,M+ Liga de Campeones 2 
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/147937
-#EXTINF:-1,M+ Liga de Campeones 3
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/147944
-#EXTINF:-1,M+ Deportes 2
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144053
-#EXTINF:-1,M+ Deportes 3
-http://15.235.83.170:8080/Restream62636M846/NTNgrmatevbdbdbaeqw/144055
 
 
 
@@ -1928,37 +1169,40 @@ http://15.235.83.170:8080/Arnulfo72/Gonzales72/99097
 http://15.235.83.170:8080/Arnulfo72/Gonzales72/99094
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58284
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110554
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58285
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58285
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198248
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/333134
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58123
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58123
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9b/6d/76/9b6d765065d7e1628cf1570ae3125eec.jpg" group-title="24/7", LOS 3 CHIFLADOS
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/49190
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/49190
 
 #EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Combat-.jpg" group-title="24/7", COMBATE
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198351
 
-#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58120
+
+#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (1) 
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110573
+
+#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110486
 
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253119
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58121
+http://15.235.83.170:8080/usuario22CR/wtT6YSTT2dhw/234866
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4f8wywd/images.jpg" group-title="24/7", AH QUE KIKO
-http://15.235.83.170:8080/Arnulfo72/Gonzales72/110567
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110567
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58301
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110484
 
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/604be6b5d3c84/clean.jpg" group-title="24/7", ULTRAMAN
 http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198321
@@ -1967,37 +1211,37 @@ http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198321
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 01
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50618
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110593
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 02
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50616
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50616
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 03 (HORROR)
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50617
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50617
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 01
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dddd&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 02
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58076
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110478
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 03
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198410
+
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/123-1237544_pink-panther-pantera-rosa-pink-panther-logo-png.png" group-title="24/7", LA PANTERA ROSA
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198246
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110642
 
 #EXTINF:-1 tvg-logo="https://www.serietv.es/images/serie/GC/el-show-de-el-pajaro-loco-G.jpg" group-title="24/7", PAJARO LOCO SD
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58086
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58322
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_maascara_Serie_de_TV-424025709-large.jpg" group-title="24/7", LA MASCARA
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198245
+
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS 1
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198268
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/333178
 
 #EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS 2
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58112
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2_A4XlYQUuc/mqdefault.jpg" group-title="24/7", CORRE CAMINOS
@@ -2008,42 +1252,47 @@ http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198270
 
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/333176
 
 #EXTINF:-1 tvg-logo="https://carteleradeteatro.mx/wp-content/uploads/2017/05/005.jpg" group-title="24/7", MASHA Y EL OSO
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50620
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50620
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPPA PIG
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50627
+http://15.235.83.170:8080/usuario22CR/wtT6YSTT2dhw/234853
 
 #EXTINF:-1 tvg-logo="https://ih1.redbubble.net/image.3787542886.1970/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7", PAW PATROLL
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50626
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110492
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/a17f85be1b6b82fa33f5ac149952ca73.png" group-title="24/7", PLIM PLIM
 
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50632
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50632
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110517
+
+#EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/duel_monsters.png" group-title="24/7", YU-GI-OH!
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110491
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="24/7", POKEMON
 http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/198303
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="24/7", SUPERCAMPEONES
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/58109
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110591
 
 #EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 1
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/35448
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110638
 
 #EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 2
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/1013/941/301/logo-dragon-ball-gt-anime-original-04-dragonball-gt-illustration-png-clipart.jpg" group-title="24/7", DRAGON BALL GT 1
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58271
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110480
 
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/1013/941/301/logo-dragon-ball-gt-anime-original-04-dragonball-gt-illustration-png-clipart.jpg" group-title="24/7", DRAGON BALL GT 2
-http://dnsplay.xyz:80/iruusyax/K23qv1k8cW/35529
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58084
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/769/118/png-clipart-dagron-ball-super-logo-dragonball-super-logo-thumbnail.png" group-title="24/7", DRAGON BALL SUPER
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58273
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110479
 
 #EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/12/20/vintage-toons-retro-cartoon-character-smiley-vector-6381220.webp" group-title="24/7", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2055,85 +1304,49 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4ef223a464479139e59d833c2b885a14730ee1dce26df54bdaf66bf39446040b._RI_V_TTW_SX360_FMwebp_.jpg" group-title="24/7", JIMMY NEUTRON
-http://tv.streamid.tv:8080/live/TICKPELICULAS/JCBWEUIEU/6440.ts
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50604
 
 #EXTINF:-1 tvg-logo="https://p4.wallpaperbetter.com/wallpaper/914/510/345/tv-show-dexter-s-laboratory-dexter-tv-show-wallpaper-preview.jpg" group-title="24/7", DEXTER
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/50598
-
-
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50598
 
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/368-3681498_24-7-hd-png-download.png", CINE 24/7
-#EXTINF:-1,PPV: Cinema 01
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34477
-#EXTINF:-1,PPV: Cinema 02
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34478
-#EXTINF:-1,PPV: Cinema 03
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34479
-#EXTINF:-1,PPV: Cinema 04
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34480
-#EXTINF:-1,PPV: Cinema 05
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34481
-#EXTINF:-1,PPV: Cinema 06
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34482
-#EXTINF:-1,PPV: Cinema 07
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34483
-#EXTINF:-1,PPV: Cinema 08
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34484
-#EXTINF:-1,PPV: Cinema 09
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34485
-#EXTINF:-1,PPV: Cinema 10
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34486
-#EXTINF:-1,PPV: Cinema 11
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34487
-#EXTINF:-1,PPV: Cinema 12
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34488
-#EXTINF:-1,PPV: Cinema 13
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34489
-#EXTINF:-1,PPV: Cinema 14
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34490
-#EXTINF:-1,PPV: Cinema 15
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34491
-#EXTINF:-1,PPV: Cinema 16
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34492
-#EXTINF:-1,PPV: Cinema 17
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34493
-#EXTINF:-1,PPV: Cinema 18
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34494
-#EXTINF:-1,PPV: Cinema 19
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34495
-#EXTINF:-1,PPV: Cinema 20
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34496
-#EXTINF:-1,PPV: Cinema 21
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34497
-#EXTINF:-1,PPV: Cinema 22
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34498
-#EXTINF:-1,PPV: Cinema 24
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34500
-#EXTINF:-1,PPV: Cinema 25
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34501
-#EXTINF:-1,PPV: Cinema 26
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34502
-#EXTINF:-1,PPV: Cinema 27
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34503
-#EXTINF:-1,PPV: Cinema 28
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34504
-#EXTINF:-1,PPV: Cinema 30
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34506
-#EXTINF:-1,PPV: Cinema 31
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34507
-#EXTINF:-1,PPV: Cinema 32
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34508
-#EXTINF:-1,PPV: Cinema 33
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34509
-#EXTINF:-1,PPV: Cinema 34
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34510
-#EXTINF:-1,PPV: Cinema 35
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34511
-#EXTINF:-1,PPV: Cinema 36
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34512
-#EXTINF:-1,PPV: Cinema 37
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/34513
+#EXTINF:-1,24/7 M| Cinema 01
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99073
+#EXTINF:-1,24/7 M| Cinema 02
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99074
+#EXTINF:-1,24/7 M| Cinema 03
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99075
+#EXTINF:-1,24/7 M| Cinema 04
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99076
+#EXTINF:-1,24/7 M| Cinema 05
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99077
+#EXTINF:-1,24/7 M| Cinema 06
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99078
+#EXTINF:-1,24/7 M| Cinema 07
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99079
+#EXTINF:-1,24/7 M| Cinema 08
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99080
+#EXTINF:-1,24/7 M| Cinema 09
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99081
+#EXTINF:-1,24/7 M| Cinema 10
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99082
+#EXTINF:-1,24/7 M| Cinema 11
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99083
+#EXTINF:-1,24/7 M| Cinema 12
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99084
+#EXTINF:-1,24/7 M| Cinema 13
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99085
+#EXTINF:-1,24/7 M| Cinema 14
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99086
+#EXTINF:-1,24/7 M| Cinema 15
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99087
+#EXTINF:-1,24/7 M| Cinema 16
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99088
+#EXTINF:-1,24/7 M| Cinema 17
+http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/99089
+
+
 
 
 
@@ -2362,46 +1575,46 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007f
 
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="ENTRETENIMIENTO", MTV Shore 24/7
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/111635
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/12corazones.jpg" group-title="ENTRETENIMIENTO", 12 Corazones
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/339651.ts
+
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/f7580d491de94917ee68e9a5d9be5e10.jpg" group-title="ENTRETENIMIENTO", Cero en Conducta
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253362
+
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/d979b8563383ae014f5139c2f09529d3.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 1
-http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/198243
+http://15.235.83.170:8080/Ruben254ira/Ruben52ira/110487
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 2
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/130800
+http://15.235.83.170:8080/Ruben254ira/Ruben52ira/110483
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/dYKzfVfOHXY2Vg00W8LkCMwOvbv.png" group-title="ENTRETENIMIENTO", LA FAMILIA PELUCHE 3
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253084
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Vecinos_%28_TV_series%29_logo.png" group-title="ENTRETENIMIENTO", VECINOS
-http://209.126.124.165:8080/juan100623/f3AW5uBzXYuP/198345
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="ENTRETENIMIENTO", UNA FAMILIA DE 10 (TEMP INICIOS)
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253087
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Familiadediez.jpg" group-title="ENTRETENIMIENTO", UNA FAMILIA DE 10 (TEMP ULTIMOS)
-http://playhispano.org:8080/FRANKTV/tZRPR2js4F/253086
+
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/013a040a2991a03c38c44b4f51a47db0.jpg" group-title="ENTRETENIMIENTO", Caso Cerrado
-http://15.235.83.170:8080/Arnulfo72/Gonzales72/234851
+http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58265
 
 #EXTINF:-1 tvg-logo="https://images-milenio-com.cdn.ampproject.org/ii/w820/s/images.milenio.com/9WxAy9fXsM4_iwQDoYbb8VNtgaw=/375x0/uploads/media/2020/02/10/rosa-guadalupe-gana-global-tv_39_0_595_370.jpg" group-title="ENTRETENIMIENTO", LA ROSA DE GUADALUPE
-http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/263090
+
 
 #EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300" group-title="ENTRETENIMIENTO", DISTRITO COMEDIA
-http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/253773
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/swG66Sz/descarga.png" group-title="ENTRETENIMIENTO", DPELICULA HD 
-http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/260086
+
 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/3efb0842292e7dbce9a096b0784a67a1.png"group-title="ENTRETENIMIENTO", CSI: Miami 
-http://209.126.124.165:8080/antoniouru21098/qEeePkfcDdf6/249112
+
 
 #EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/83bd7fa9f427f283e95d42baea68853c.jpg" group-title="ENTRETENIMIENTO", Retro Chile
 
