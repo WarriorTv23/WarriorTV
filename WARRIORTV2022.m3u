@@ -1012,6 +1012,9 @@ http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c128d72377e728f2a8bda83f7bdb5d26.webp" group-title="MUSICA", OTTO FM (ITALIA) 2
 http://streaming.bitonlive.net:8080/hls/ottofm2/6_5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/e-classic-music-note-logo-design_675467-35.jpg" group-title="MUSICA", E-MUSIC CLASSICS
+http://168.205.87.198:8555/live/1120/123456/231.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PxmLSpY/PLANETA-MUSIC-HD.jpg" group-title="MUSICA", PLANETA TV MUSIC HD
 https://scl.edge.grupoz.cl/music/live/chunklist_w688351090.m3u8
 
