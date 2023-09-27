@@ -159,6 +159,8 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/9760.ts
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL SD
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/9774.ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Unitel2017.png/revision/latest?cb=20200721024234&path-prefix=es" group-title="BOLIVIA", UNITEL BO
 
 
@@ -175,6 +177,8 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/9769.ts
 http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atb-iturri-bolivia-logo-BB6422A6B0-seeklogo.com.jpg" group-title="BOLIVIA", ATB SD
+http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/50108.ts
+
 #EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="BOLIVIA", PAT
 https://w8.redpat.tv:7777/play/110/index.m3u8
 
@@ -1208,7 +1212,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 1
-http://dnsplay.xyz:80/rwngtbmi/60sPa6Nx2n/58264
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196794
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
 http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198146
@@ -1220,19 +1224,19 @@ http://15.235.83.170:8080/Arnulfo72/Gonzales72/99097
 http://15.235.83.170:8080/Arnulfo72/Gonzales72/99094
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
-http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110554
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/244346
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58285
+
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/333134
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196766
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/58123
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/193008
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/9b/6d/76/9b6d765065d7e1628cf1570ae3125eec.jpg" group-title="24/7", LOS 3 CHIFLADOS
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/49190
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/248296
 
 #EXTINF:-1 tvg-logo="https://moviehaku.com/thumbs/films/400x590/Combat-.jpg" group-title="24/7", COMBATE
 
@@ -1241,10 +1245,10 @@ http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/49190
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117873.ts
 
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196844
 
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196843
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117874.ts
@@ -1252,23 +1256,26 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117874.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4f8wywd/images.jpg" group-title="24/7", AH QUE KIKO
 
 
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 
-http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110484
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 1
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196789
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 2
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/178456
 
 #EXTINF:-1 tvg-logo="https://cdn.marvel.com/u/prod/marvel/i/mg/9/50/604be6b5d3c84/clean.jpg" group-title="24/7", ULTRAMAN
-http://209.126.124.165:8080/smartpro8115686/PjnCy25jmeQY/198321
+
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/004/967/183/small/anime-eyes-vision-fire-pop-culture-logo-design-vector.jpg" group-title="24/7", ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 01
-http://15.235.83.170:8080/ALDETECHMARYANEZ18/18MARCELOYANEZ/110593
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196925
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 02
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50616
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196926
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 03 (HORROR)
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50617
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/186852
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/020446130490977.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7", BOB ESPONJA 01
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dddd&deviceDNT=0&deviceModel=0
@@ -1280,16 +1287,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f80007
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/6284.ts
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/123-1237544_pink-panther-pantera-rosa-pink-panther-logo-png.png" group-title="24/7", LA PANTERA ROSA
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196899
 
 #EXTINF:-1 tvg-logo="https://www.serietv.es/images/serie/GC/el-show-de-el-pajaro-loco-G.jpg" group-title="24/7", PAJARO LOCO SD
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_maascara_Serie_de_TV-424025709-large.jpg" group-title="24/7", LA MASCARA
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196898
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS 1
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/178425
 
 #EXTINF:-1 tvg-logo="https://tiempodeprensa.com/wp-content/uploads/2021/10/pica.jpg" group-title="24/7", LOS PICAPIEDRAS 2
 
@@ -1299,10 +1306,10 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/6284.ts
 
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/cinicosdesinope.com/wp-content/uploads/2022/04/los-pitufos.jpg?fit=504%2C768&ssl=1" group-title="24/7", PITUFOS
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196923
 
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/427/624/png-clipart-dinosaurs-series-and-season-folder-icons-dinosaurs-thumbnail.png" group-title="24/7", DINOSAURIOS
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/333176
+
 
 #EXTINF:-1 tvg-logo="https://carteleradeteatro.mx/wp-content/uploads/2017/05/005.jpg" group-title="24/7", MASHA Y EL OSO
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/59618.ts
@@ -1317,22 +1324,22 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/99984.ts
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/72955.ts
 
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/192745
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196822
 
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/duel_monsters.png" group-title="24/7", YU-GI-OH!
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/192700
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/b1c279f5e4f5d88cfe6b814ff9e00fff.png" group-title="24/7", POKEMON
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/192692
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2e/90/10/2e90102e5cf32c96e5bbc436938f8c6d.png" group-title="24/7", SUPERCAMPEONES
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/169644
 
 #EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 1
-
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/186824
 
 #EXTINF:-1 tvg-logo="https://tierragamer.com/wp-content/uploads/2019/04/dragon-ball-z-logo-es-una-z-n-o-un-2.jpg" group-title="24/7", DRAGON BALL 2
 
@@ -1355,7 +1362,7 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/4ef223a464479139e59d833c2b885a14730ee1dce26df54bdaf66bf39446040b._RI_V_TTW_SX360_FMwebp_.jpg" group-title="24/7", JIMMY NEUTRON
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/50604
+http://castlempire.site:8080/StarPlay11Cesar50/rfUnKQcv6x/196887
 
 #EXTINF:-1 tvg-logo="https://p4.wallpaperbetter.com/wallpaper/914/510/345/tv-show-dexter-s-laboratory-dexter-tv-show-wallpaper-preview.jpg" group-title="24/7", DEXTER
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/6414.ts
