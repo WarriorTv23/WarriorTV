@@ -40,7 +40,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
-
+http://tv.dominiotv.xyz:2095/live/YaninaGZ/65534826/341721.ts
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
 
@@ -58,13 +58,13 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 1
-
+http://tv.dominiotv.xyz:2095/live/TasuanyT/69101431/87465.ts
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 2
 
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION FHD
-
+http://tv.dominiotv.xyz:2095/live/YaninaGZ/65534826/87461.ts
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA PIXAR FHD
 
@@ -366,7 +366,1131 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="TV PREMIUM" tvg-id="Zoom",Zoom
+#EXTINF:-1,|.LATIN.|D 52
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78330.ts
+#EXTINF:-1,|.LATIN.|D 52 MX HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78331.ts
+#EXTINF:-1,|.LATIN.|D A PLUS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78332.ts
+#EXTINF:-1,|.LATIN.| A&E FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78333.ts
+#EXTINF:-1,|.LATIN.| A3 SERIES HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78334.ts
+#EXTINF:-1,|.LATIN.|D ADN 40 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78335.ts
+#EXTINF:-1,|.LATIN.| ADRENALINA SPORTS NETWORK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78336.ts
+#EXTINF:-1,|.LATIN.|D AFORE AZTECA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78337.ts
+#EXTINF:-1,|.LATIN.| Al JAZEERA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78338.ts
+#EXTINF:-1,|.LATIN.|D AL JAZZERA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78339.ts
+#EXTINF:-1,|.LATIN.| AMC FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78340.ts
+#EXTINF:-1,|.LATIN.| ANIMAL PLANET FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78341.ts
+#EXTINF:-1,|.LATIN.|D ANTENA 3 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78342.ts
+#EXTINF:-1,|.LATIN.| AXN FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78343.ts
+#EXTINF:-1,|.LATIN.| AYM SPORTS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78344.ts
+#EXTINF:-1,|.LATIN.| AZ CINEMA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78345.ts
+#EXTINF:-1,|.LATINO.|D AZ CLIC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78346.ts
+#EXTINF:-1,|.LATIN.|D AZ CLICK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78347.ts
+#EXTINF:-1,|.LATIN.|D AZ CLICK B1 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78348.ts
+#EXTINF:-1,|.LATIN.|D AZ CORAZON FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78349.ts
+#EXTINF:-1,|.LATIN.|D AZ MUNDO FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78350.ts
+#EXTINF:-1,|.LATIN.|D AZTECA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78351.ts
+#EXTINF:-1,|.LATIN.| AZTECA 7 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78352.ts
+#EXTINF:-1,|.LATIN.|D AZTECA 13 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78353.ts
+#EXTINF:-1,|.LATIN.|D AZTECA CINEMA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78354.ts
+#EXTINF:-1,|.LATIN.|D AZTECA CLICK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78355.ts
+#EXTINF:-1,|.LATIN.|D AZTECA CORAZON
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78356.ts
+#EXTINF:-1,|.LATIN.|D AZTECA DEPORTES HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78357.ts
+#EXTINF:-1,|.LATIN.|D AZTECA MUNDO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78358.ts
+#EXTINF:-1,|.LATIN.| AZTECA UNO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78359.ts
+#EXTINF:-1,|.LATIN.|D AZTECA UNO B1 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78360.ts
+#EXTINF:-1,|.LATIN.|D B15 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78361.ts
+#EXTINF:-1,|.LATIN.| BABY TV HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78362.ts
+#EXTINF:-1,|.LATIN.| BABY TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78363.ts
+#EXTINF:-1,|.LATIN.| BANDAMAX FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78364.ts
+#EXTINF:-1,|.LATIN.| BBC WORLD NEWS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78365.ts
+#EXTINF:-1,|.LATIN.| BITME FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78366.ts
+#EXTINF:-1,|.LATIN.|D  BLOMMBERG
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78367.ts
+#EXTINF:-1,|.LATIN.|D  BLOMMBERG B1 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78368.ts
+#EXTINF:-1,|.LATIN.| BLOOMBERG FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78369.ts
+#EXTINF:-1,|.LATIN.| CADENA H HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78371.ts
+#EXTINF:-1,|.LATIN.| CANAL 2 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78372.ts
+#EXTINF:-1,|.LATIN.| CANAL 4 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78373.ts
+#EXTINF:-1,|.LATIN.| CANAL 5 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78374.ts
+#EXTINF:-1,|.LATIN.| CANAL 6
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78375.ts
+#EXTINF:-1,|.LATIN.| CANAL 8 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78377.ts
+#EXTINF:-1,|.LATIN.|D CANAL 113 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78379.ts
+#EXTINF:-1,|.LATIN.| CANAL ONCE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78386.ts
+#EXTINF:-1,|.LATIN.| CARTOON NETWORK FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78387.ts
+#EXTINF:-1,|.LATIN.| CINECANAL FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78388.ts
+#EXTINF:-1,|.LATIN.|D CINEMAX FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78389.ts
+#EXTINF:-1,|.LATIN.| CNN EN ESPA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78390.ts
+#EXTINF:-1,|.LATIN.| CNN en Espa
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78391.ts
+#EXTINF:-1,|.LATIN.| CNN ESP
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78392.ts
+#EXTINF:-1,|.LATIN.| CNN ESPANOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78393.ts
+#EXTINF:-1,|.LATIN.|D CNN INTERNACIONAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78395.ts
+#EXTINF:-1,|.LATIN.| COMEDY CENTRAL FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78398.ts
+#EXTINF:-1,|.LATIN.|D CONGRESO DE LA UNION
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78399.ts
+#EXTINF:-1,|.LATIN.| DE PELICULA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78400.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY H&H FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78404.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY KIDS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78405.ts
+#EXTINF:-1,|.LATIN.|D DISCOVERY SCI-FI
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78406.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY SCIENCE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78407.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY THEATER
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78408.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY THEATER FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78409.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY  TLC FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78410.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY TURBO FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78411.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY WORLD FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78412.ts
+#EXTINF:-1,|.LATIN.| DISNEY CHANNEL FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78413.ts
+#EXTINF:-1,|.LATIN.| DISNEY JR FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78414.ts
+#EXTINF:-1,|.LATIN.| DISTRITO COMEDIA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78416.ts
+#EXTINF:-1,|.LATIN.| DW FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78417.ts
+#EXTINF:-1,|.LATIN.| E! FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78418.ts
+#EXTINF:-1,|.LATIN.| EL FINANCIERO BLOOMBERG
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78419.ts
+#EXTINF:-1,|.LATIN.| EL GOURMET FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78420.ts
+#EXTINF:-1,|.LATIN.| ESPN 2 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78422.ts
+#EXTINF:-1,|.LATIN.| ESPN 3
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78423.ts
+#EXTINF:-1,|.LATIN.| ESPN HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78424.ts
+#EXTINF:-1,|.LATIN.| ESPN PLUS HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78426.ts
+#EXTINF:-1,|.LATIN.| ESPN  HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78427.ts
+#EXTINF:-1,|.LATIN.| EUROPA EUROPA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78428.ts
+#EXTINF:-1,|.LATIN.| FILM & ARTS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78430.ts
+#EXTINF:-1,|.LATIN.| FILM AND ARTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78431.ts
+#EXTINF:-1,|.LATIN.| FOOD NETWORK FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78432.ts
+#EXTINF:-1,|.LATIN.|D FORMULA NOTICIAS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78433.ts
+#EXTINF:-1,|.LATIN.| FORO TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78435.ts
+#EXTINF:-1,|.LATIN.| FOX CLASSICS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78439.ts
+#EXTINF:-1,|.LATIN.| FOX LIFE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78440.ts
+#EXTINF:-1,|.LATIN.|D FOX MOVIES HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78441.ts
+#EXTINF:-1,|.LATIN.| FOX NEWS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78442.ts
+#EXTINF:-1,|.LATIN.|D FOX PREMIUM ACTION FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78443.ts
+#EXTINF:-1,|.LATIN.|D FOX PREMIUM CINEMA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78444.ts
+#EXTINF:-1,|.LATIN.|D FOX PREMIUM CLASSICS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78445.ts
+#EXTINF:-1,|.LATIN.|D FOX PREMIUM MOVIES FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78446.ts
+#EXTINF:-1,|.LATIN.|D FOX PREMIUM SERIES FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78447.ts
+#EXTINF:-1,|.LATIN.| FOX SERIES 
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78448.ts
+#EXTINF:-1,|.LATIN.| FOX SPORT2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78449.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78450.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78451.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 3 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78452.ts
+#EXTINF:-1,|.LATIN.| FRANCE 24 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78453.ts
+#EXTINF:-1,|.LATIN.|D FRANCIA 24 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78454.ts
+#EXTINF:-1,|.LATIN.| FX HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78455.ts
+#EXTINF:-1,|.LATIN.| FX FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78456.ts
+#EXTINF:-1,|.LATIN.| FXM FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78457.ts
+#EXTINF:-1,|.LATIN.|D GALA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78458.ts
+#EXTINF:-1,|.LATIN.|D GARAGE TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78459.ts
+#EXTINF:-1,|.LATIN.| GLITZ FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78460.ts
+#EXTINF:-1,|.LATIN.| GOLDEN EDGE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78461.ts
+#EXTINF:-1,|.LATIN.|D GOLDEN FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78462.ts
+#EXTINF:-1,|.LATIN.|D GOLDEN PLUS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78463.ts
+#EXTINF:-1,|.LATIN.| GOLF CH
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78464.ts
+#EXTINF:-1,|.LATIN.|D GOLF CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78465.ts
+#EXTINF:-1,|.LATIN.|D GOLF LATIN AMERICA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78466.ts
+#EXTINF:-1,|.LATIN.|D G
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78467.ts
+#EXTINF:-1,|.LATIN.|D HAVOC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78468.ts
+#EXTINF:-1,|.LATIN.|D HIP
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78469.ts
+#EXTINF:-1,|.LATIN.|D HIP
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78470.ts
+#EXTINF:-1,|.LATIN.| HISTORY FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78471.ts
+#EXTINF:-1,|.LATIN.| HLN FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78472.ts
+#EXTINF:-1,|.LATIN.| HOLA TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78473.ts
+#EXTINF:-1,|.LATIN.|D I CLASSIC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78474.ts
+#EXTINF:-1,|.LATIN.| IMAGEN TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78475.ts
+#EXTINF:-1,|.LATIN.| INGENIO TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78476.ts
+#EXTINF:-1,|.LATIN.| INVESTIGATION DISCOVERY FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78477.ts
+#EXTINF:-1,|.LATIN.| ISAT FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78478.ts
+#EXTINF:-1,|.LATIN.|D ITV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78479.ts
+#EXTINF:-1,|.LATIN.|D KCHF TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78480.ts
+#EXTINF:-1,|.LATIN.|D LAS ESTRELLAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78481.ts
+#EXTINF:-1,|.LATIN.|D LATIN AMERICAN SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78482.ts
+#EXTINF:-1,|.LATIN.| LIFETIME FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78483.ts
+#EXTINF:-1,|.LATIN.|D MAR
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78484.ts
+#EXTINF:-1,|.LATIN.| MAS CHIC FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78485.ts
+#EXTINF:-1,|.LATIN.|D MEXICO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78486.ts
+#EXTINF:-1,|.LATIN.| MEXIQUENSE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78487.ts
+#EXTINF:-1,|.LATIN.|D MEXIQUICE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78488.ts
+#EXTINF:-1,|.LATIN.| MILENIO TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78489.ts
+#EXTINF:-1,|.LATIN.| MTV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78490.ts
+#EXTINF:-1,|.LATIN.| MTV HITS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78491.ts
+#EXTINF:-1,|.LATIN.| MTV LIVE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78492.ts
+#EXTINF:-1,|.LATIN.|D MULTIMEDIOS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78493.ts
+#EXTINF:-1,|.LATIN.|D MULTIMEDIOS P
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78494.ts
+#EXTINF:-1,|.LATIN.| MULTIMEDIOS PLUS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78495.ts
+#EXTINF:-1,|.LATIN.|D MVM TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78496.ts
+#EXTINF:-1,|.LATIN.| NAT GEO FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78497.ts
+#EXTINF:-1,|.LATIN.| NAT GEO KIDS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78498.ts
+#EXTINF:-1,|.LATIN.| NAT GEO WILD FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78499.ts
+#EXTINF:-1,|.LATIN.|D NBC GOLF FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78500.ts
+#EXTINF:-1,|.LATIN.| NICK 2 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78501.ts
+#EXTINF:-1,|.LATIN.| NICK JUNIOR FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78502.ts
+#EXTINF:-1,|.LATIN.| NICKELODEON FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78503.ts
+#EXTINF:-1,|.LATIN.| NICKTOONS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78504.ts
+#EXTINF:-1,|.LATIN.| NTN24 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78505.ts
+#EXTINF:-1,|.LATIN.| PARAMOUNT CHANNEL FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78506.ts
+#EXTINF:-1,|.LATIN.|D PELICULA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78507.ts
+#EXTINF:-1,|.LATIN.|D PELICULA PLUS HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78508.ts
+#EXTINF:-1,|.LATIN.|D Px TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78509.ts
+#EXTINF:-1,|.LATIN.|D Q TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78510.ts
+#EXTINF:-1,|.LATIN.|D RCG TV 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78511.ts
+#EXTINF:-1,|.LATIN.|D RITMOSON
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78512.ts
+#EXTINF:-1,|.LATIN.| RMS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78513.ts
+#EXTINF:-1,|.LATIN.|D RT EN ESPANOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78514.ts
+#EXTINF:-1,|.LATIN.|D RT NOTICIAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78515.ts
+#EXTINF:-1,|.LATIN.|D SEC NETWORK FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78516.ts
+#EXTINF:-1,|.LATIN.|D SENDERO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78517.ts
+#EXTINF:-1,|.LATIN.| SONY CHANNEL FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78518.ts
+#EXTINF:-1,|.LATIN.| SPACE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78519.ts
+#EXTINF:-1,|.LATIN.| STAR TVE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78520.ts
+#EXTINF:-1,|.LATIN.| STUDIO UNIVERSAL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78521.ts
+#EXTINF:-1,|.LATIN.| STUDIO UNIVERSAL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78522.ts
+#EXTINF:-1,|.LATIN.|D SUNDANCE TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78523.ts
+#EXTINF:-1,|.LATIN.|D SUNDNCE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78524.ts
+#EXTINF:-1,|.LATIN.| SYFY FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78525.ts
+#EXTINF:-1,|.LATIN.| TBS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78526.ts
+#EXTINF:-1,|.LATIN.| TCM FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78527.ts
+#EXTINF:-1,|.LATIN.| TDN FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78528.ts
+#EXTINF:-1,|.LATIN.| TELEFORMULA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78529.ts
+#EXTINF:-1,|.LATIN.|D TELEHIT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78530.ts
+#EXTINF:-1,|.LATIN.|D TELEHIT PLUS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78531.ts
+#EXTINF:-1,|.LATIN.|D TELEMAX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78532.ts
+#EXTINF:-1,|.LATIN.|D TELE NOVELAS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78533.ts
+#EXTINF:-1,|.LATIN.|D TELERITMO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78534.ts
+#EXTINF:-1,|.LATIN.|D TELEVISA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78535.ts
+#EXTINF:-1,|.LATIN.|D TELEVISA MTY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78536.ts
+#EXTINF:-1,|.LATIN.|D TELEVISA PUEBLA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78537.ts
+#EXTINF:-1,|.LATIN.| TELEVISA PUEBLO FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78538.ts
+#EXTINF:-1,|.LATIN.|D TELMEX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78539.ts
+#EXTINF:-1,|.LATIN.| TL NOVELAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78540.ts
+#EXTINF:-1,|.LATIN.| TLC HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78541.ts
+#EXTINF:-1,|.LATIN.| TLR FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78542.ts
+#EXTINF:-1,|.LATIN.| TNT FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78543.ts
+#EXTINF:-1,|.LATIN.| TNT SERIES FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78544.ts
+#EXTINF:-1,|.LATIN.| TOONCAST FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78545.ts
+#EXTINF:-1,|.LATIN.| TRU TV FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78546.ts
+#EXTINF:-1,|.LATIN.|D TUTORAH TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78547.ts
+#EXTINF:-1,|.LATIN.|D TUTORAH TV MEXICO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78548.ts
+#EXTINF:-1,|.LATIN.|D TV MAS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78549.ts
+#EXTINF:-1,|.LATIN.|D TV4 LEON GUANAJUATO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78550.ts
+#EXTINF:-1,|.LATIN.|D TV5 FRANCIA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78551.ts
+#EXTINF:-1,|.LATIN.| TVC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78552.ts
+#EXTINF:-1,|.LATIN.| TVC DEPORTES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78553.ts
+#EXTINF:-1,|.LATIN.|D TVCD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78554.ts
+#EXTINF:-1,|.LATIN.|D TVE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78555.ts
+#EXTINF:-1,|.LATIN.|D TVO D FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78556.ts
+#EXTINF:-1,|.LATIN.| TVO FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78557.ts
+#EXTINF:-1,|.LATIN.| ULTRA MEX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78558.ts
+#EXTINF:-1,|.LATIN.| UNICABLE FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78559.ts
+#EXTINF:-1,|.LATIN.| UNIVERSAL CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78560.ts
+#EXTINF:-1,|.LATIN.| VERACIDAD CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78561.ts
+#EXTINF:-1,|.LATIN.| VH1 CLASSIC FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78562.ts
+#EXTINF:-1,|.LATIN.| VH1 FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78563.ts
+#EXTINF:-1,|.LATIN.| VH1 P
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78564.ts
+#EXTINF:-1,|.LATIN.| VTV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78565.ts
+#EXTINF:-1,|.LATIN.| WARNER BROS HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78566.ts
+#EXTINF:-1,|.LATIN.| WARNER BROS  FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78567.ts
+#EXTINF:-1,|.LATIN.|D WOBI FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78568.ts
+#EXTINF:-1,|.LATIN.| BOLIVISION HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78572.ts
+#EXTINF:-1,|.LATIN.| RED UNO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78576.ts
+#EXTINF:-1,|.LATIN.| RTP
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78577.ts
+#EXTINF:-1,|.LATIN.| TIGO SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78579.ts
+#EXTINF:-1,|.LATIN.| TIGO SPORTS 2 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78580.ts
+#EXTINF:-1,|.LATIN.| XTO TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78585.ts
+#EXTINF:-1,|.LATIN.|D AMERICA NEXT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78586.ts
+#EXTINF:-1,|.LATIN.| AXN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78588.ts
+#EXTINF:-1,|.LATIN.|CARACOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78594.ts
+#EXTINF:-1,|.LATIN.| CARACOL NACIONAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78595.ts
+#EXTINF:-1,|.LATIN.| CARTOON NETWORK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78596.ts
+#EXTINF:-1,|.LATIN.| CINECANAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78601.ts
+#EXTINF:-1,|.LATIN.| CINEMAX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78603.ts
+#EXTINF:-1,|.LATIN.| CITY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78604.ts
+#EXTINF:-1,|.LATIN.| CLARO SPORTS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78605.ts
+#EXTINF:-1,|.LATIN.| CNN ESPAGNOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78607.ts
+#EXTINF:-1,|.LATIN.|D DIRECTV SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78608.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY H&H
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78611.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY KIDS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78612.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY TURBO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78613.ts
+#EXTINF:-1,|.LATIN.| DISNEY CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78614.ts
+#EXTINF:-1,|.LATIN.| DISNEY JR
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78615.ts
+#EXTINF:-1,|.LATIN.| ESPN 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78619.ts
+#EXTINF:-1,|.LATIN.| ESPN 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78620.ts
+#EXTINF:-1,|.LATIN.| ESPN 3
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78621.ts
+#EXTINF:-1,|.LATIN.| ESPN HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78622.ts
+#EXTINF:-1,|.LATIN.| EUROPA EUROPA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78623.ts
+#EXTINF:-1,|.LATIN.| FOX LIFE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78625.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78629.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78630.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 3
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78631.ts
+#EXTINF:-1,|.LATIN.| FX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78633.ts
+#EXTINF:-1,|.LATIN.| GOL TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78635.ts
+#EXTINF:-1,|.LATIN.| HBO + HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78636.ts
+#EXTINF:-1,|.LATIN.| HBO 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78637.ts
+#EXTINF:-1,|.LATIN.| HBO FAMILY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78638.ts
+#EXTINF:-1,|.LATIN.| HBO+
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78639.ts
+#EXTINF:-1,|.LATIN.| HISTORY CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78640.ts
+#EXTINF:-1,|.LATIN.| INVESTIGATION DISCOVERY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78641.ts
+#EXTINF:-1,|.LATIN.| MEGA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78643.ts
+#EXTINF:-1,|.LATIN.| NAT GEO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78645.ts
+#EXTINF:-1,|.LATIN.| NICK JUNIOR
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78647.ts
+#EXTINF:-1,|.LATIN.| NICKLODEON
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78648.ts
+#EXTINF:-1,|.LATIN.| OROMAR TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78649.ts
+#EXTINF:-1,|.LATIN.| SONY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78657.ts
+#EXTINF:-1,|.LATIN.| SPACE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78658.ts
+#EXTINF:-1,|.LATIN.|D TBS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78660.ts
+#EXTINF:-1,|.LATIN.|D TC TELEVISION
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78661.ts
+#EXTINF:-1,|.LATIN.|D TELEFE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78665.ts
+#EXTINF:-1,|.LATIN.| TELEFUTURO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78666.ts
+#EXTINF:-1,|.LATIN.| TELEPACIFICO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78667.ts
+#EXTINF:-1,|.LATIN.|D TVN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78671.ts
+#EXTINF:-1,|.LATIN.| CDF BASICO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78681.ts
+#EXTINF:-1,|.LATIN.| CHILEVISION FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78687.ts
+#EXTINF:-1,|.LATIN.| CNN CHILE HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78688.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78691.ts
+#EXTINF:-1,|.LATIN.| LA RED HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78693.ts
+#EXTINF:-1,|.LATIN.| MEGA FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78694.ts
+#EXTINF:-1,|.LATIN.| REC TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78695.ts
+#EXTINF:-1,|.LATIN.| TELETRAK HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78697.ts
+#EXTINF:-1,|.LATIN.| TVN HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78700.ts
+#EXTINF:-1,|.LATIN.| AMERICA HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78701.ts
+#EXTINF:-1,|.LATIN.| COMEDY CENTRAL TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78711.ts
+#EXTINF:-1,|.LATIN.| FRECUENCIA LATINA HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78714.ts
+#EXTINF:-1,|.LATIN.| LA TELE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78718.ts
+#EXTINF:-1,|.LATIN.| LATINA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78719.ts
+#EXTINF:-1,|.LATIN.| PANAMERICANA HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78725.ts
+#EXTINF:-1,|.LATIN.| PERU MAGICO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78726.ts
+#EXTINF:-1,|.LATIN.| TV PERU NOTICIAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78728.ts
+#EXTINF:-1,|.LATIN.| GAMAVISION
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78741.ts
+#EXTINF:-1,|.LATIN.| GOL TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78742.ts
+#EXTINF:-1,|.LATIN.| OROMAR TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78743.ts
+#EXTINF:-1,|.LATIN.|TC TELEVISION FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78746.ts
+#EXTINF:-1,|.LATIN.| TELEAMAZONAS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78748.ts
+#EXTINF:-1,|.LATIN.| MAGAVISION CANAL 19
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78752.ts
+#EXTINF:-1,|.LATIN.| TCS PLUS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78754.ts
+#EXTINF:-1,|.LATIN.| AMC FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78761.ts
+#EXTINF:-1,|.LATIN.| ANIMAL PLANET
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78762.ts
+#EXTINF:-1,|.LATIN.| AXN FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78763.ts
+#EXTINF:-1,|.LATIN.| BLOOMBERG
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78767.ts
+#EXTINF:-1,|.LATIN.| CANAL CAPITAL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78770.ts
+#EXTINF:-1,|.LATIN.| CANAL TRECE HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78777.ts
+#EXTINF:-1,|.LATIN.| CANAL TRO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78778.ts
+#EXTINF:-1,|.LATIN.| CARACOL FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78783.ts
+#EXTINF:-1,|.LATIN.|D CARACOL INTERNATIONAL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78785.ts
+#EXTINF:-1,|.LATIN.| CARTOON NETWORK HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78787.ts
+#EXTINF:-1,|.LATIN.| CINEMA DINAMITA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78792.ts
+#EXTINF:-1,|.LATIN.| CITY TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78793.ts
+#EXTINF:-1,|.LATIN.| CLARO SPORT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78794.ts
+#EXTINF:-1,|.LATIN.| CLARO SPORTS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78795.ts
+#EXTINF:-1,|.LATIN.|D CNN INTERNACIONAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78797.ts
+#EXTINF:-1,|.LATIN.| COMEDY CENTRAL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78798.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78801.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS +
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78802.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78803.ts
+#EXTINF:-1,|.LATIN.| DIRECTTV SPORTS 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78804.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78805.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 1 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78806.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78807.ts
+#EXTINF:-1,|.LATIN.| DIRECTV SPORTS PLUS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78808.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY WORLD HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78809.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY KIDS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78810.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY SCIENCE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78811.ts
+#EXTINF:-1,|.LATIN.| DISCOVERY TURBO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78812.ts
+#EXTINF:-1,|.LATIN.| DISNEY CHANNEL SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78813.ts
+#EXTINF:-1,|.LATIN.| DISNEY JUNIOR
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78814.ts
+#EXTINF:-1,|.LATIN.| DISNEY CHANNEL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78815.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78819.ts
+#EXTINF:-1,|.LATIN.| FOX SPORTS 1 (COLOMBIA)
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78820.ts
+#EXTINF:-1,|.LATIN.| INVESTIGATION DISCOVERY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78822.ts
+#EXTINF:-1,|.LATIN.| MUNDO + HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78826.ts
+#EXTINF:-1,|.LATIN.|D MUNDO MAS TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78827.ts
+#EXTINF:-1,|.LATIN.| MUNDO+
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78828.ts
+#EXTINF:-1,|.LATIN.|D NACION TV NTV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78829.ts
+#EXTINF:-1,|.LATIN.| NTN24
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78830.ts
+#EXTINF:-1,|.LATIN.|D PAISITA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78831.ts
+#EXTINF:-1,|.LATIN.| RCN FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78832.ts
+#EXTINF:-1,|.LATIN.|D RCN HD 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78833.ts
+#EXTINF:-1,|.LATIN.|D RCN NOVELAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78834.ts
+#EXTINF:-1,|.LATIN.| SENAL COLOMBIA HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78835.ts
+#EXTINF:-1,|.LATIN.|D Se
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78836.ts
+#EXTINF:-1,|.LATIN.|D TACHO PISTACHO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78837.ts
+#EXTINF:-1,|.LATIN.| TELE ANTIOQUIA HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78838.ts
+#EXTINF:-1,|.LATIN.|D TELE CARIBE HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78839.ts
+#EXTINF:-1,|.LATIN.| TELE PACIFICO HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78840.ts
+#EXTINF:-1,|.LATIN.| TELE VID HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78841.ts
+#EXTINF:-1,|.LATIN.| TELECAFE HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78842.ts
+#EXTINF:-1,|.LATIN.| TELECARIBE DEPORTES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78843.ts
+#EXTINF:-1,|.LATIN.|D TELECARIBE DEPORTES 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78844.ts
+#EXTINF:-1,|.LATIN.|D TELEISLAS TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78845.ts
+#EXTINF:-1,|.LATIN.|D TELEMAX HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78846.ts
+#EXTINF:-1,|.LATIN.| TELEMEDELLIN HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78847.ts
+#EXTINF:-1,|.LATIN.|D TOP LATINO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78848.ts
+#EXTINF:-1,|.LATIN.| CAPITAL TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78849.ts
+#EXTINF:-1,|.LATIN.| TV CHILE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78850.ts
+#EXTINF:-1,|.LATIN.|WINSPORTS HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/78854.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY H&H HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99016.ts
+#EXTINF:-1,|.LATINO.|D DISCOVERY ID HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99017.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY TURBO HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99018.ts
+#EXTINF:-1,|.LATINO.| ESPN HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99019.ts
+#EXTINF:-1,|.LATINO.| ESPN 2 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99020.ts
+#EXTINF:-1,|.LATINO.| ESPN 3 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99021.ts
+#EXTINF:-1,|.LATINO.| FOX COMEDY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99022.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 3 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99023.ts
+#EXTINF:-1,|.LATINO.| HBO MUNDI
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99024.ts
+#EXTINF:-1,|.LATINO.| HBO POP
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99025.ts
+#EXTINF:-1,|.LATINO.| HBO FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99026.ts
+#EXTINF:-1,|.LATINO.| PARAMOUNT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99027.ts
+#EXTINF:-1,|.LATINO.| STARZ  FAMILY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/99028.ts
+#EXTINF:-1,|.LATIN.| AMC FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101357.ts
+#EXTINF:-1,|.LATIN.|Azteca Honduras HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101360.ts
+#EXTINF:-1,|.LATIN.| AZTECA HONDURAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101361.ts
+#EXTINF:-1,|.LATIN.| CAMPUS TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101362.ts
+#EXTINF:-1,|.LATIN.| CANAL 5 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101363.ts
+#EXTINF:-1,|.LATIN.| CANAL 6 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101364.ts
+#EXTINF:-1,|.LATIN.| CANAL 11 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101365.ts
+#EXTINF:-1,|.LATIN.| CANAL 24
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101366.ts
+#EXTINF:-1,|.LATIN.| EBENEZER
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101368.ts
+#EXTINF:-1,|.LATIN.| GLOBO TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101369.ts
+#EXTINF:-1,|.LATIN.| HCH
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101370.ts
+#EXTINF:-1,|.LATIN.|  GOLTV ECUADOR HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101371.ts
+#EXTINF:-1,|.LATIN.| Q HUBO TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101373.ts
+#EXTINF:-1,|.LATIN.| SITV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101374.ts
+#EXTINF:-1,|.LATIN.| SUYAPA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101375.ts
+#EXTINF:-1,|.LATIN.| TELECADENA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101376.ts
+#EXTINF:-1,|.LATIN.| TVC EL LIDER
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101382.ts
+#EXTINF:-1,|.LATIN.|DTVC EL LIDER HONDURAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/101383.ts
+#EXTINF:-1,|.LATINO.| A&E
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67306.ts
+#EXTINF:-1,|.LATINO.| A3S
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67307.ts
+#EXTINF:-1,|.LATINO.| ADN40
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67308.ts
+#EXTINF:-1,|.LATINO.| AFFIZONADOS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67309.ts
+#EXTINF:-1,|.LATINO.| AMC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67310.ts
+#EXTINF:-1,|.LATINO.| ANIMAL PLANET
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67311.ts
+#EXTINF:-1,|.LATINO.| ANTENA 3
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67312.ts
+#EXTINF:-1,|.LATINO.| AXN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67313.ts
+#EXTINF:-1,|.LATINO.| AXN WHITE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67314.ts
+#EXTINF:-1,|.LATINO.| AYM SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67315.ts
+#EXTINF:-1,|.LATINO.| AZ CINEMA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67316.ts
+#EXTINF:-1,|.LATINO.| AZ CORAZON
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67317.ts
+#EXTINF:-1,|.LATINO.| AZ MUNDO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67318.ts
+#EXTINF:-1,|.LATINO.| AZTECA 1
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67319.ts
+#EXTINF:-1,|.LATINO.| AZTECA 7
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67320.ts
+#EXTINF:-1,|.LATINO.| BANDAMAX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67321.ts
+#EXTINF:-1,|.LATINO.| BEIN SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67322.ts
+#EXTINF:-1,|.LATINO.| BEIN SPORTS  LA LIGA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67323.ts
+#EXTINF:-1,|.LATINO.| BOOMERANG
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67324.ts
+#EXTINF:-1,|.LATINO.| CANAL 11
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67325.ts
+#EXTINF:-1,|.LATINO.| CANAL 5
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67326.ts
+#EXTINF:-1,|.LATINO.| CANAL DE LAS ESTRELLAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67327.ts
+#EXTINF:-1,|.LATINO.| CARACOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67328.ts
+#EXTINF:-1,|.LATINO.| CARTOON NETWORK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67329.ts
+#EXTINF:-1,|.LATINO.| CINECANAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67330.ts
+#EXTINF:-1,|.LATINO.| CINELATINO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67331.ts
+#EXTINF:-1,|.LATINO.| CINEMAX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67332.ts
+#EXTINF:-1,|.LATINO.| CNN EN ESPANOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67333.ts
+#EXTINF:-1,|.LATINO.| COMEDY CENTRAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67334.ts
+#EXTINF:-1,|.LATINO.| DE PELICULA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67335.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67336.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY CIVILIZATION
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67337.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY EN ESPANOL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67338.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY FAMILIA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67339.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY H&H
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67340.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY ID
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67341.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY KIDS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67342.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY SCIENCE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67343.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY THEATER
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67344.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY TLC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67345.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY TURBO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67346.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY WORLD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67347.ts
+#EXTINF:-1,|.LATINO.| DISNEY CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67348.ts
+#EXTINF:-1,|.LATINO.| DISNEY JR
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67349.ts
+#EXTINF:-1,|.LATINO.| DISNEY XD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67350.ts
+#EXTINF:-1,|.LATINO.| DISTRITO COMEDIA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67351.ts
+#EXTINF:-1,|.LATINO.| E!
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67352.ts
+#EXTINF:-1,|.LATINO.| EL GARAGE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67353.ts
+#EXTINF:-1,|.LATINO.| EL GOURMET
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67354.ts
+#EXTINF:-1,|.LATINO.| ESPN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67355.ts
+#EXTINF:-1,|.LATINO.| ESPN 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67356.ts
+#EXTINF:-1,|.LATINO.| ESPN 3
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67357.ts
+#EXTINF:-1,|.LATINO.| ESPN DEPORTES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67358.ts
+#EXTINF:-1,|.LATINO.| ESPN PLUS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67359.ts
+#EXTINF:-1,|.LATINO.| ESTRELLA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67360.ts
+#EXTINF:-1,|.LATINO.| FOOD NETWORK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67361.ts
+#EXTINF:-1,|.LATINO.| FORO TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67362.ts
+#EXTINF:-1,|.LATINO.| FOX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67363.ts
+#EXTINF:-1,|.LATINO.| FOX ACTION
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67364.ts
+#EXTINF:-1,|.LATINO.| FOX CINEMA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67365.ts
+#EXTINF:-1,|.LATINO.| FOX CLASSICS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67366.ts
+#EXTINF:-1,|.LATINO.| FOX FAMILY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67367.ts
+#EXTINF:-1,|.LATINO.| FOX LIFE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67368.ts
+#EXTINF:-1,|.LATINO.| FOX MOVIES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67369.ts
+#EXTINF:-1,|.LATINO.| FOX SERIES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67370.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67371.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67372.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 3
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67373.ts
+#EXTINF:-1,|.LATINO.| FX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67374.ts
+#EXTINF:-1,|.LATINO.| FXM
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67375.ts
+#EXTINF:-1,|.LATINO.| GALA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67376.ts
+#EXTINF:-1,|.LATINO.| GLITZ
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67377.ts
+#EXTINF:-1,|.LATINO.| GOL TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67378.ts
+#EXTINF:-1,|.LATINO.| GOLDEN EDGE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67379.ts
+#EXTINF:-1,|.LATINO.| GOLDEN PLUS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67380.ts
+#EXTINF:-1,|.LATINO.| GOLDEN PREMIER
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67381.ts
+#EXTINF:-1,|.LATINO.| GOLF CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67382.ts
+#EXTINF:-1,|.LATINO.| HBO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67383.ts
+#EXTINF:-1,|.LATINO.| HBO 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67384.ts
+#EXTINF:-1,|.LATINO.| HBO FAMILY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67385.ts
+#EXTINF:-1,|.LATINO.| HBO PLUS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67386.ts
+#EXTINF:-1,|.LATINO.| HBO SIGNATURE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67387.ts
+#EXTINF:-1,|.LATINO.| HISTORY 2
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67388.ts
+#EXTINF:-1,|.LATINO.| HISTORY CHANNEL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67389.ts
+#EXTINF:-1,|.LATINO.| HOLA TV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67390.ts
+#EXTINF:-1,|.LATINO.| IMAGEN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67391.ts
+#EXTINF:-1,|.LATINO.| LIFETIME
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67392.ts
+#EXTINF:-1,|.LATINO.| MASCHIC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67393.ts
+#EXTINF:-1,|.LATINO.| MAX PRIME
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67394.ts
+#EXTINF:-1,|.LATINO.| MAX UP
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67395.ts
+#EXTINF:-1,|.LATINO.| MEXIQUENSE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67396.ts
+#EXTINF:-1,|.LATINO.| MTV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67397.ts
+#EXTINF:-1,|.LATINO.| MULTIMEDIOS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67398.ts
+#EXTINF:-1,|.LATINO.| NAT GEAO WILD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67400.ts
+#EXTINF:-1,|.LATINO.| NAT GEO KIDS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67401.ts
+#EXTINF:-1,|.LATINO.| NATIONAL GEOGRAPHIC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67402.ts
+#EXTINF:-1,|.LATINO.| NICK
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67403.ts
+#EXTINF:-1,|.LATINO.| NICK JR
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67404.ts
+#EXTINF:-1,|.LATINO.| NICKTOONS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67405.ts
+#EXTINF:-1,|.LATINO.| PASIONES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67406.ts
+#EXTINF:-1,|.LATINO.| RCN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67407.ts
+#EXTINF:-1,|.LATINO.| RITMOSON
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67408.ts
+#EXTINF:-1,|.LATINO.| SHOWTIME
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67409.ts
+#EXTINF:-1,|.LATINO.| SONY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67410.ts
+#EXTINF:-1,|.LATINO.| SPACE 
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67411.ts
+#EXTINF:-1,|.LATINO.| STARZ
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67412.ts
+#EXTINF:-1,|.LATINO.| STARZ ENCORE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67413.ts
+#EXTINF:-1,|.LATINO.| STUDIO UNIVERSAL
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67414.ts
+#EXTINF:-1,|.LATINO.| SUNDANCE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67415.ts
+#EXTINF:-1,|.LATINO.| SYFY
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67416.ts
+#EXTINF:-1,|.LATINO.| TBS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67417.ts
+#EXTINF:-1,|.LATINO.| TCM
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67418.ts
+#EXTINF:-1,|.LATINO.| TELEFORMULA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67419.ts
+#EXTINF:-1,|.LATINO.| TELEHIT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67420.ts
+#EXTINF:-1,|.LATINO.| TELEMUNDO INT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67421.ts
+#EXTINF:-1,|.LATINO.| TLNOVELAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67422.ts
+#EXTINF:-1,|.LATINO.| TNT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67423.ts
+#EXTINF:-1,|.LATINO.| TNT SERIES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67424.ts
+#EXTINF:-1,|.LATINO.| TOONCAST
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67425.ts
+#EXTINF:-1,|.LATINO.| TRUTV
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67426.ts
+#EXTINF:-1,|.LATINO.| TUDN
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67427.ts
+#EXTINF:-1,|.LATINO.| TVC
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67428.ts
+#EXTINF:-1,|.LATINO.| TVC DEPORTES
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67429.ts
+#EXTINF:-1,|.LATINO.| TYC SPORTS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67430.ts
+#EXTINF:-1,|.LATINO.| ULTRA CINE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67431.ts
+#EXTINF:-1,|.LATINO.| ULTRA CLASICO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67432.ts
+#EXTINF:-1,|.LATINO.| ULTRA FAMILIA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67434.ts
+#EXTINF:-1,|.LATINO.| ULTRA FIESTA
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67435.ts
+#EXTINF:-1,|.LATINO.| ULTRA FILM
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67436.ts
+#EXTINF:-1,|.LATINO.| ULTRA MACHO
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67437.ts
+#EXTINF:-1,|.LATINO.| ULTRA MEX
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67438.ts
+#EXTINF:-1,|.LATINO.| ULTRA TAINMENT
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67439.ts
+#EXTINF:-1,|.LATINO.| UNICABLE
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67440.ts
+#EXTINF:-1,|.LATINO.| UNIMAS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67441.ts
+#EXTINF:-1,|.LATINO.| UNIVERSAL TV HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67442.ts
+#EXTINF:-1,|.LATINO.| WARNER BROS FHD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67445.ts
+#EXTINF:-1,|.LATINO.| TELEMUNDO 60 (BOSTON) HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67461.ts
+#EXTINF:-1,|.LATINO.| TELEMUNDO LAMPA HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67468.ts
+#EXTINF:-1,|.LATINO.| TELEMUNDO: 44 (CHICAGO) HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67471.ts
+#EXTINF:-1,|.LATINO.| GALAVISION ESTE HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67479.ts
+#EXTINF:-1,|.LATINO.| FOX LIFE SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67480.ts
+#EXTINF:-1,|.LATINO.| DISCOVERY FAMILIA SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67481.ts
+#EXTINF:-1,|.LATINO.| ULTRA KIDS
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67484.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67485.ts
+#EXTINF:-1,|.LATINO.|D DP DE PELICULA SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67486.ts
+#EXTINF:-1,|.LATINO.| FOX SPORTS 2 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67487.ts
+#EXTINF:-1,|.LATINO.| FOROTV SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67488.ts
+#EXTINF:-1,|.LATINO.|D TELEHIT SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67490.ts
+#EXTINF:-1,|.LATINO.| CINE SONY HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67491.ts
+#EXTINF:-1,|.LATINO.|D BANDAMAX SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67492.ts
+#EXTINF:-1,|.LATINO.|D ANTENA 3 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67493.ts
+#EXTINF:-1,|.LATINO.| BABY TV SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67494.ts
+#EXTINF:-1,|.LATINO.| TELEUNIVERSO HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67495.ts
+#EXTINF:-1,|.LATINO.| CINEMAX HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67496.ts
+#EXTINF:-1,|.LATINO.|D UNIVISION TLNOVELAS SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67497.ts
+#EXTINF:-1,|.LATINO.| BENFICA FC HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67498.ts
+#EXTINF:-1,|.LATINO.|D GOLTV LATIN HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67499.ts
+#EXTINF:-1,|.LATINO.|D FOX SPORTS PREMIUM HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67500.ts
+#EXTINF:-1,|.LATINO.| ESPN DEPORTES SD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67501.ts
+#EXTINF:-1,|.LATINO.| UNIVISION DEPORTES HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67502.ts
+#EXTINF:-1,|.LATINO.|D UNIVISION HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67503.ts
+#EXTINF:-1,|.LATINO.|D TUDN X2 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67504.ts
+#EXTINF:-1,|.LATINO.|D TUDN X1 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67505.ts
+#EXTINF:-1,|.LATINO.|D TUDN X3 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67506.ts
+#EXTINF:-1,|.LATINO.|D TUDN X4 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67507.ts
+#EXTINF:-1,|.LATINO.|D TUDN X5 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67508.ts
+#EXTINF:-1,|.LATINO.|D TUDN X6 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67509.ts
+#EXTINF:-1,|.LATINO.|D TUDN X7 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67510.ts
+#EXTINF:-1,|.LATINO.|D TUDN X8 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67511.ts
+#EXTINF:-1,|.LATINO.|D TUDN X9 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67512.ts
+#EXTINF:-1,|.LATINO.|D TUDN X10 HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67513.ts
+#EXTINF:-1,|.LATINO.| ESPN FUTBOL HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67514.ts
+#EXTINF:-1,|.LATINO.|D BEIN SPORTS HD
+http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/67515.ts
+
+
+
+
+
+
+
 
 
 
@@ -650,6 +1774,9 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp" group-title="MUSICA", PANAVISION TV
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w168081271.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DQkMfgc/LOGO.png" group-title="MUSICA", BUENA TV LATINA
+http://ott.dobratv.net:25461/BoemTV/112233445566/14234
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=184&fakeurl=1" group-title="MUSICA", VIWIX TV (MUSICAS)
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
@@ -666,28 +1793,37 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w167279756.m3u8
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/1a6b08b672357c90d94036cf9d3a3bee.png" group-title="MUSICA", MTV Dance
-http://myserveriptv.com:2082/hW0kf53M80Qv5/1k7d5kfgF4sVDl3/31145
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/433.ts
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/1a6b08b672357c90d94036cf9d3a3bee.png" group-title="MUSICA", MTV Classics
-http://sharkytv.com:2082/Najboljaunited/YMjvqd5UZ3SU/149153
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/363998.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
 http://46.10.218.219:8000/play/a06q
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="MUSICA", MTV 80s
-http://sharkytv.com:2082/Najboljaunited/YMjvqd5UZ3SU/228540
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/432.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s
-http://sharkytv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241988
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/435.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/MTV_90s_2020_variante.png/revision/latest/scale-to-width-down/150?cb=20201005214359&path-prefix=es" group-title="MUSICA", MTV 90s (2)
+http://samuraitv.online:8000/ULTRA10060/c335Vpvh2GJb/284316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MTV 00s
-http://sharkytv.com:2082/Najboljaunited/YMjvqd5UZ3SU/241978
+http://xciptv.aplicativos.top:80/300948112/z947B3030X/2511
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="MUSICA", MTV 00s(2)
+http://samuraitv.online:8000/ULTRA10060/c335Vpvh2GJb/2080
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/mtv.png" group-title="MUSICA", MTV 
-http://sharkytv.com:2082/Najboljaunited/YMjvqd5UZ3SU/212332
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/434.ts
 
 #EXTINF:-1 tvg-logo="https://optic-communications.com/wp-content/uploads/2017/05/mtv.png" group-title="MUSICA", MTV LIVE FHD
-http://sharkytv.com:2082/Najboljaunited/YMjvqd5UZ3SU/191701
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28270
+
+#EXTINF:-1 tvg-logo="hhttps://p7.hiclipart.com/preview/174/306/410/5bb90a151ba22-thumbnail.jpg" group-title="MUSICA", VH1
+http://tvip.world:80/MUZICKI/4XbNMJEmq2/447.ts
 
 #EXTINF:-1 tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/oxygen-music/play_250_250.png" group-title="MUSICA", OXYGEN MUSIC
 http://tv1.halihost.fun:80/play/eC4EjgEognKPDU9u-2cpAjVOZDAxiOveQSfFzohaUnY/ts
@@ -708,7 +1844,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 1
-
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/273153.ts
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
 
@@ -720,10 +1856,10 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (1)
-
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/87432.ts
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.hugozapata.com.ar/wp-content/uploads/2008/06/250px-freshprincelogo.jpg?resize=250%2C168" group-title="24/7", EL PRINCIPE DEL RAP (2)
-http://372324945117568914.of23103.xyz:80/play/fe321720/XBc@Dx3TxcrU/568914.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
 
@@ -740,20 +1876,21 @@ http://372324945117568914.of23103.xyz:80/play/fe321720/XBc@Dx3TxcrU/568914.ts
 #EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (1) 
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117873.ts
 
-#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
 
+#EXTINF:-1 tvg-logo="https://larepublica.pe/resizer/EsnHP4ahwW2hRsfBldxZq4d8Tfg=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/SNZ7YT7L6RFMTJTAJI7OEXC724.jpg" group-title="24/7", EL CHAVO DEL 8 (2)
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/87395.ts
 
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117874.ts
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/380162.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4f8wywd/images.jpg" group-title="24/7", AH QUE KIKO
 
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 1
-
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/87388.ts
 
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/333-3330235_caballeros-del-zodiaco-png-logo-de-caballeros-del.png" group-title="24/7", CABALLEROS DEL ZODIACO 2
 
@@ -765,7 +1902,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117874.ts
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=ad99&deviceDNT=0&deviceModel=0
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 01
-
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/117797.ts
 
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/180-1807270_the-simpsons-icon-pack-by-orchid975-simpsons-family.png" group-title="24/7", SIMPSONS 02
 
@@ -820,10 +1957,10 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/99984.ts
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/72955.ts
 
 #EXTINF:-1 tvg-logo="https://b.thumbs.redditmedia.com/ipIp5ryLPvDCZ7fUrZvBUMKBe24YBeIx_6JCbS6T21E.png" group-title="24/7", SOUTH PARK
-
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/114058.ts
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/14-145291_digimon-logo-png-transparent-png.png" group-title="24/7", DIGIMON
-
+http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/65619.ts
 
 #EXTINF:-1 tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/duel_monsters.png" group-title="24/7", YU-GI-OH!
 
