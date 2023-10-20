@@ -1777,6 +1777,9 @@ https://vcp.myplaytv.com/panavision/panavision/chunklist_w168081271.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQkMfgc/LOGO.png" group-title="MUSICA", BUENA TV LATINA
 http://ott.dobratv.net:25461/BoemTV/112233445566/14234
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPGmPFnPOXU7bPbB0Esb49sPV3gn7bP2K4bA&usqp=CAU" group-title="MUSICA", LA DESPECHADA TV
+https://servidordevideo.com:3077/live/despechadalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnZpd2l4LnZpd2l4YnB4X2ljb25fMTYxNTA5MDQyN18wOTk/icon.png?w=184&fakeurl=1" group-title="MUSICA", VIWIX TV (MUSICAS)
 https://s2.tvdatta.com:3548/hybrid/play.m3u8
 
@@ -1847,7 +1850,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1213019354.m3u8
 http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/273153.ts
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 2
-
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/279755
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/319c00733994eb70e1e0bb21e932d5ec.png" group-title="24/7", CANTINFLAS 3
 
@@ -1862,7 +1865,7 @@ http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/87432.ts
 
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/358-3584145_gordon-shumway-could-be-heading-back-to-tv.png" group-title="24/7", ALF
-
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/279697
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/138-1382682_pagal-khana-mr-bean-logo-png.png" group-title="24/7", MR.BEAN SD
 
@@ -1881,7 +1884,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/117873.ts
 http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/87395.ts
 
 #EXTINF:-1 tvg-logo="" group-title="24/7", CHAPULIN COLORADO
-
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/168182
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/elchapulincolorado/images/6/65/CH_Logo_83.jpg/revision/latest/scale-to-width-down/200?cb=20201005171352&path-prefix=es" group-title="24/7", CHESPIRITO 
 http://tv.dominiotv.xyz:2095/live/Javierc3/60335577/380162.ts
@@ -1926,7 +1929,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/6284.ts
 
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_maascara_Serie_de_TV-424025709-large.jpg" group-title="24/7", LA MASCARA
-
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/279726
 
 #EXTINF:-1 tvg-logo="http://51.222.43.170:36995/images/995e51790d54b9fb84a8cde789c9cc3a.png" group-title="24/7", LOS PICAPIEDRAS 1
 
@@ -1945,7 +1948,7 @@ http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/6284.ts
 
 
 #EXTINF:-1 tvg-logo="https://carteleradeteatro.mx/wp-content/uploads/2017/05/005.jpg" group-title="24/7", MASHA Y EL OSO
-http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/59618.ts
+http://samuraitv.online:8000/Aniveltv19022024q/76juyu457hur7mngdar/168133
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51qdX2jG6YL._AC_SX425_.jpg" group-title="24/7", PEPPA PIG
 http://tv.streamid.tv:8080/live/juancastro2606/pVpZt2adz6/59624.ts
