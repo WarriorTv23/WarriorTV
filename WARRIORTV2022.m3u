@@ -98,8 +98,14 @@ https://master.tucableip.com/zoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/619275202627768321/a8Vx4jFs_400x400.jpg" group-title="BOLIVIA", PALENQUE TV
 
 
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD 1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD 2
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7V28Kz8/images.png" group-title="BOLIVIA", NEOTV HD 3
+https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
