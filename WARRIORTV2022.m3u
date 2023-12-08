@@ -24,6 +24,9 @@ https://live.seo.tv.bo/live/SEO_7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMWZKxd/SS.png" group-title="BOLIVIA", PLANETA TV FAMILIA
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1224383891.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s86a1480785a470a0/image/i3c8a4fed05168784/version/1615223208/image.jpg" group-title="BOLIVIA", COSMOS TV HD
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -71,37 +74,16 @@ http://tv.dominiotv.xyz:2095/live/YaninaGZ/65534826/87461.ts
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA NAVIDAD
 http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/177336
 
-
-#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
-
-
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png" group-title="BOLIVIA", Retro Play TV 
 https://v4.tustreaming.cl/retroplaytv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
 
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="BOLIVIA", TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_512,h_512,al_c/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png" group-title="BOLIVIA", ZOY TV
-https://master.tucableip.com/zoytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="BOLIVIA", OXIGENO
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yXgRVrR/ndice.jpg" group-title="BOLIVIA", SAN ISIDRO TV
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HDHnsNg/305092247-416522003802362-853640521855610587-n.jpg" group-title="BOLIVIA", SITEL
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/619275202627768321/a8Vx4jFs_400x400.jpg" group-title="BOLIVIA", PALENQUE TV
-
-
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YhHQhj/images.jpg" group-title="BOLIVIA", NEOTV HD 1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="BOLIVIA", NEOTV HD 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8YhHQhj/images.jpg" group-title="BOLIVIA", NEOTV HD 2
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7V28Kz8/images.png" group-title="BOLIVIA", NEOTV HD 3
@@ -116,30 +98,14 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="BOLIVIA", TVS RETRO
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fntJmzB/TROPICAL-HD.jpg" group-title="BOLIVIA", TV HD TROPICAL
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
-http://hplay.xyz:80/xWkfseW25/3Seg2uAn52/304322
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png" group-title="BOLIVIA", MEGA TV (RURENABAQUE)
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f4yPLyS/unnamed.png" group-title="BOLIVIA", MEGA AMAZONIA TV  
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV BOLIVIA
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w31209151.m3u8
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/412445
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ftsna92WmHs/XGlbZMPpEuI/AAAAAAAAHXQ/__JPrmk4VSYOKBG36QPXYMWhUNC_vMONwCLcBGAs/s1600/Megavisionenvivo.png" group-title="BOLIVIA", MEGAVISION HD
 https://video.live.com.bo:3699/live/megavisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11754/thumb_URBAN_TV_LIVE.jpeg" group-title="BOLIVIA", URBAN TV
-https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6w80Zz2/descarga.jpg" group-title="BOLIVIA", AMITEL
 http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/276170
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="BOLIVIA", ACCION 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbe983fbd496fd73923c0e0a4bf2e0d7.webp" group-title="BOLIVIA", CANELA TV
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA", DELTA TV HD
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
@@ -152,11 +118,6 @@ https://eu1.servers10.com:8081/ceacomtv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/pN1aZEuwKrzn1ffaVWgnK1-AXQuIcBRqcbW8F2NK24Wdk2evewuglh2sxG2xIHlH6Qw" group-title="BOLIVIA", TV SHOW ORURO
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323980288209395717/tdoWKkmL_400x400.jpg" group-title="BOLIVIA", DEPORTE TOTAL
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="BOLIVIA", FTV HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
 https://tinyurl.com/yokqyctb
@@ -197,24 +158,14 @@ http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/501857
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889663440620531712/JlKtXQYa_400x400.jpg" group-title="BOLIVIA", GIGAVISION
 https://tinyurl.com/2fr5y2xx
 
-#EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="BOLIVIA", BOLIVIA TV
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg" group-title="BOLIVIA", VIRGEN DE COPACABANA HD
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w872851651.m3u8
-
-#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WFsPfCt/F10-CHAIRITO-MUSICAL-HD.jpg" group-title="BOLIVIA", F10 CHAIRITO MUSICAL HD
-
 
 #EXTINF:-1 tvg-logo="https://vocesdelsurunidas.org/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="BOLIVIA", TVU (LA PAZ)
 https://video.live.com.bo:3731/live/tvuumsalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cnj0xbN/channels4-profile.jpg" group-title="BOLIVIA", TVU (SANTA CRUZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="BOLIVIA", LEVEL UP TV
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA", CADENA A
 https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.m3u8
@@ -231,16 +182,46 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="BOLIVIA", CRISTAL TV (Santa Cruz)
+http://america.tucableip.com/bolivia/cristaltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
+https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png" group-title="BOLIVIA", TV OFF
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5hd50k/99999.png" group-title="BOLIVIA", COLOR VISION 
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2Ng3jvNWWJ-c-SpZzRx5bRqj_t5o-u1H44UJtlpuuDe)/dm/3/x7gy059/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="BOLIVIA", CANELA CINEMA
+https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HwknTD/AAAA.png" group-title="BOLIVIA", TOP CINE
+https://topcinelatam-freetv.amagi.tv/TopCineLATAMx/master_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXMmDJt/LOG.png" group-title="BOLIVIA", EXTREMA TV ACCION
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/chunklist_w921330582.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj5g3XS/DDD.png" group-title="BOLIVIA", PURUWA TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w180812932.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hh4q8y/SSSS.png" group-title="BOLIVIA", TVR DIGITAL
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cr8FrtuGRH5FaQdKaaCgPSC_7INRlAnQ7-2XD2I-K3nOFo9tV7iVsxhouJxxfuKkYqJyCm6Bl4gSdstRDREpO9lneeM4LaZMF8ikVpdtEvKV3wwhfXZrHzmqrmHGeG-1QASC8aJPElYaWETBD_365N4OAxc0c9n258fAUqGCeIIIgfWhz4n3R-KXbx9CwyBLMsx0kI-pFuIu0OxyiLUY2i1Tg-M_yGCqrmrQ9wYyEjy8yS8UmlEUEUo-wOy9i0rPiEIoULMHsci8Ku_S2JoFOu1EGBz384ucDCU-9DTjz5YbPZERjWL49eIRK9iTEEN9TKZdMxEcibI9L3rH8uORmFBX-doYWIJv0vg4XyO4p0r8_UTla97U8eu1R6DMKaOsc1wJZjpypOFHcEYsaLB_JHTUvJ-CL2LslUAiLZ_YFOW3E9FTbzKdfw9Hsk8ptcw2eU9r5zZrhQeZPZ7GPeSK4Cr_OqRS847lBriBV6dic0arf7wFPhrk1XNTsUX4sgTV_D8IykyAduSxdZa_3AF8CwWvAcdyGnpYkdOijGOfiUQsjToDTtiyKfxAdSjJom1gZO1civpDkIQj2LS1lMWznNL5XBOtguz3NbaLOBekgottWzj1fgs8iFyDolftMGxFMflcgBfGIByYay-mbC55jlmDFoscP9v5uc-wAq8ttdfJCflZI1wuk6H3bo808r-1wW1EFIKPGFUrNp6vK0Zb6HdSlPugPa3EzQFia228_S9NedT0wRg45oiru5J45HWoWkFxTguUZ93yIb2JRzZ5RDL5-YBnS-eyr_b5faiUz4chki8axmceLq793bQV8ntkD9EuKVgaVdUWK2WFYiyTWgqOAJVjCe4XRf4sjtzgzZdTU-BPZYaePUo9dH0RgogLscc8uPVqGeaXvfcTtRPHcZufI_FpJ46AyZaSKyWmj6Rx-BoMw7r9q01tV6qTA1dvIAEqCXVzLWVhc3QtMTDNBg.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="BOLIVIA", WILLAX
+https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmlIoc0ApupFgqkOy58tIkm3v8KTlbfXSetX_QVaRLuAh)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VOS TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="BOLIVIA", LEVEL UP TV
+#EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/11754/thumb_URBAN_TV_LIVE.jpeg" group-title="BOLIVIA", URBAN TV
+#EXTINF:-1 tvg-logo="https://editor.zenomedia.com/resources/zs_station/584130/CardWebsite/image.png" group-title="BOLIVIA", RADIO MEGA 97.3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rsb3YgC/channels4-profile.jpg" group-title="BOLIVIA", PLUS TLT (TARIJA)
-
-
 #EXTINF:-1 tvg-logo="https://www.familysearch.org/en/wiki/img_auth.php/3/3b/Bandera_de_Bolivia.jpg" group-title="BOLIVIA", BOLIVIA 24/7
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rbbfSXY/descarga.png" group-title="BOLIVIA", ITV
 #EXTINF:-1  tvg-logo="https://www.datocms-assets.com/30264/1600714808-tv-logo-1.png" group-title="BOLIVIA", TOTALVISION
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="BOLIVIA", NOVELISIMA
@@ -249,16 +230,23 @@ https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/49-491422_file-vinyl-record-cover-png.png" group-title="BOLIVIA", FULL MUSIC BO
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chKDgHr/ndice.jpg" group-title="BOLIVIA", RENUEVA DIGITAL (EL ALTO)
 #EXTINF:-1 tvg-logo="https://tvusucre.com/images/Cabeza-logo.png" group-title="BOLIVIA", TVU (SUCRE)
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_512,h_512,al_c/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png" group-title="BOLIVIA", ZOY TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="BOLIVIA", OXIGENO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yXgRVrR/ndice.jpg" group-title="BOLIVIA", SAN ISIDRO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDHnsNg/305092247-416522003802362-853640521855610587-n.jpg" group-title="BOLIVIA", SITEL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/619275202627768321/a8Vx4jFs_400x400.jpg" group-title="BOLIVIA", PALENQUE TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fntJmzB/TROPICAL-HD.jpg" group-title="BOLIVIA", TV HD TROPICAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F5xCbbZ/IMG-20210731-130740.png" group-title="BOLIVIA", MEGA TV (RURENABAQUE)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f4yPLyS/unnamed.png" group-title="BOLIVIA", MEGA AMAZONIA TV  
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d2286c3a8f9cc98a7d2a4a9da93b28c.webp" group-title="BOLIVIA", MEGA TV
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="BOLIVIA", ACCION 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbe983fbd496fd73923c0e0a4bf2e0d7.webp" group-title="BOLIVIA", CANELA TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1323980288209395717/tdoWKkmL_400x400.jpg" group-title="BOLIVIA", DEPORTE TOTAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/26n5n3t/FTV-HD.jpg" group-title="BOLIVIA", FTV HD
+#EXTINF:-1 tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="BOLIVIA", BOLIVIA TV
+#EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WFsPfCt/F10-CHAIRITO-MUSICAL-HD.jpg" group-title="BOLIVIA", F10 CHAIRITO MUSICAL HD
 
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="BOLIVIA", CRISTAL TV (Santa Cruz)
-http://america.tucableip.com/bolivia/cristaltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://editor.zenomedia.com/resources/zs_station/584130/CardWebsite/image.png" group-title="BOLIVIA", RADIO MEGA 97.3
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VOS TV
-http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png" group-title="BOLIVIA", TV OFF
 
 
 
@@ -3379,7 +3367,7 @@ https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v5.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="MUSICA", PORTAL FOX MIX 
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w519343788.m3u8
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w182245798.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.coolstreaming.us/img/ch/image1917310850.jpg" group-title="MUSICA", VINTAGE RADIO TV
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/chunklist_w2069554959.m3u8
