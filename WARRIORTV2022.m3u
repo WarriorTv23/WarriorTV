@@ -43,7 +43,7 @@ http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/177330
 
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
-http://tv.dominiotv.xyz:2095/live/YaninaGZ/65534826/341721.ts
+
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
 http://home-playtv.com:8080/skyperu2021/mNv2mbFe7e/177328
@@ -174,7 +174,7 @@ https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.
 https://master.tucableip.com/abyayalatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", ERBOL TV
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
@@ -182,14 +182,9 @@ http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="BOLIVIA", CRISTAL TV (Santa Cruz)
-http://america.tucableip.com/bolivia/cristaltv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
 https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png" group-title="BOLIVIA", TV OFF
-https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5hd50k/99999.png" group-title="BOLIVIA", COLOR VISION 
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY2Ng3jvNWWJ-c-SpZzRx5bRqj_t5o-u1H44UJtlpuuDe)/dm/3/x7gy059/d/live-2.m3u8#cell=lnyc
@@ -206,15 +201,12 @@ https://stmv1.cnarlatam.com/cineaccion/cineaccion/chunklist_w921330582.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj5g3XS/DDD.png" group-title="BOLIVIA", PURUWA TV
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w180812932.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hh4q8y/SSSS.png" group-title="BOLIVIA", TVR DIGITAL
-https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/Cr8FrtuGRH5FaQdKaaCgPSC_7INRlAnQ7-2XD2I-K3nOFo9tV7iVsxhouJxxfuKkYqJyCm6Bl4gSdstRDREpO9lneeM4LaZMF8ikVpdtEvKV3wwhfXZrHzmqrmHGeG-1QASC8aJPElYaWETBD_365N4OAxc0c9n258fAUqGCeIIIgfWhz4n3R-KXbx9CwyBLMsx0kI-pFuIu0OxyiLUY2i1Tg-M_yGCqrmrQ9wYyEjy8yS8UmlEUEUo-wOy9i0rPiEIoULMHsci8Ku_S2JoFOu1EGBz384ucDCU-9DTjz5YbPZERjWL49eIRK9iTEEN9TKZdMxEcibI9L3rH8uORmFBX-doYWIJv0vg4XyO4p0r8_UTla97U8eu1R6DMKaOsc1wJZjpypOFHcEYsaLB_JHTUvJ-CL2LslUAiLZ_YFOW3E9FTbzKdfw9Hsk8ptcw2eU9r5zZrhQeZPZ7GPeSK4Cr_OqRS847lBriBV6dic0arf7wFPhrk1XNTsUX4sgTV_D8IykyAduSxdZa_3AF8CwWvAcdyGnpYkdOijGOfiUQsjToDTtiyKfxAdSjJom1gZO1civpDkIQj2LS1lMWznNL5XBOtguz3NbaLOBekgottWzj1fgs8iFyDolftMGxFMflcgBfGIByYay-mbC55jlmDFoscP9v5uc-wAq8ttdfJCflZI1wuk6H3bo808r-1wW1EFIKPGFUrNp6vK0Zb6HdSlPugPa3EzQFia228_S9NedT0wRg45oiru5J45HWoWkFxTguUZ93yIb2JRzZ5RDL5-YBnS-eyr_b5faiUz4chki8axmceLq793bQV8ntkD9EuKVgaVdUWK2WFYiyTWgqOAJVjCe4XRf4sjtzgzZdTU-BPZYaePUo9dH0RgogLscc8uPVqGeaXvfcTtRPHcZufI_FpJ46AyZaSKyWmj6Rx-BoMw7r9q01tV6qTA1dvIAEqCXVzLWVhc3QtMTDNBg.m3u8
-
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="BOLIVIA", WILLAX
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmlIoc0ApupFgqkOy58tIkm3v8KTlbfXSetX_QVaRLuAh)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 
 
 
+#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="BOLIVIA", CRISTAL TV (Santa Cruz)
+#EXTINF:-1 tvg-logo="https://tvoff.tv/wp-content/uploads/2021/05/tv-off-2.png" group-title="BOLIVIA", TV OFF
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9nkEZnDJ16JzcZm6cVP-y-RL0Xd3bo9WU9uiZZOg=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", VOS TV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="BOLIVIA", LEVEL UP TV
 #EXTINF:-1 tvg-logo="http://51.222.43.170:8001/images/baec6461b0d69dde1b861aefbe375d8a.png" group-title="BOLIVIA", Tigo Sports SD
