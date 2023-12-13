@@ -4096,8 +4096,10 @@ https://ia902704.us.archive.org/10/items/super-cool-2007/SuperCool%20%282007%29.
 
 
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/depredador.jpg" group-title="⚡ SAGAS⚡ ",Depredador (1987).
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/depredador.jpg" group-title="⚡ SAGAS",Depredador 1 (1987)
 https://server30.peliscdn.online/newhls/b5004873f6eb023c64ee1faf9d351464/EP.0.1.v0.1677531636.720.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/depredador-2-predator-2.jpg" group-title="⚡ SAGAS",Depredador 2 (1990)
+https://server38.peliscdn.online/newhls/3b781edd39c7b9aca940d1c8242d804b/EP.0.1.v0.1677615064.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Matrix Reloaded (2003)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg" group-title="⚡ SAGAS",Matrix Reloaded (2003).
 
 #EXTINF:-1 tvg-id="" tvg-name="Matrix (1999)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qK76PKQLd6zlMn0u83Ej9YQOqPL.jpg" group-title="⚡ SAGAS",Matrix (1999).
@@ -4107,7 +4109,7 @@ https://server30.peliscdn.online/newhls/b5004873f6eb023c64ee1faf9d351464/EP.0.1.
 #EXTINF:-1 tvg-id="" tvg-name="El señor de los anillos: El retorno del rey (2003)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg" group-title="⚡ SAGAS",El señor de los anillos: El retorno del rey (2003).
 
 #EXTINF:-1 tvg-id="" tvg-name="Titanic (1997)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBTJZrf5UWaxzg5YJd2eqpeaSvm.jpg" group-title="⚡ SAGAS",Titanic (1997).
-
+https://server37.peliscdn.online/newhls/9443369f786c046827ffb6217fd28f6b/EP.0.1.v1.1677391857.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La momia (1999)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7uThJzwh4mEJGDUutENSMnD2lh.jpg" group-title="⚡ SAGAS",La momia (1999).
 
 #EXTINF:-1 tvg-id="" tvg-name="El regreso de la momia (2001)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouV5es1ylyKdLiBUJeEQrKcpm0k.jpg" group-title="⚡ SAGAS",El regreso de la momia (2001).
