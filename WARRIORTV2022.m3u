@@ -4028,7 +4028,7 @@ https://server25.peliscdn.online/newhls/2b91358831d8153d3489673a17b60daa/EP.0.2.
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/sTqv7FQalXNVGSpfSJaWek077w9.jpg" group-title="PELICULAS RETRO", CONTACTO SANGRIENTO 1 (1988)
-
+https://server47.peliscdn.online/newhls/70608e2acc6c870c461792eb4b2f61a9/EP.0.1.v0.1677086748.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kickboxer_poster.jpg" group-title="PELICULAS RETRO", CONTACTO SANGRIENTO 2 (1989)
 
@@ -4057,14 +4057,17 @@ https://server28.peliscdn.online/newhls/bc4cb38e0c78888d9195ed5ef1a440d5/EP.0.1.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSB0NJg/La-hu-rfana-Primer-asesinato-880267341-mmed.jpg" group-title="PELICULAS TERROR", LA HUERFANA 2 (2022)
 https://server12.peliscdn.online/newhls/6a3a2ea6498559365c5f7b5dce81f856/EP.0.1.v6.1679261168.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fGJW7Nb/Smile-843278209-mmed.jpg" group-title="PELICULAS TERROR", SMILE (2022)
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/13-fantasmas.jpg" group-title="PELICULAS TERROR", 13 FANTASMAS (2001)
+https://server02.peliscdn.online/newhls/dd6429a60a461991e6b9d186cbe08a65/EP.0.1.v0.1677423475.720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fGJW7Nb/Smile-843278209-mmed.jpg" group-title="PELICULAS TERROR", SMILE (2022)
+https://server09.peliscdn.online/newhls/110df8523ac03ca5aa51ffa2d350b2fa/EP.0.1.v7.1677123055.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0YLQF1D/images.jpg" group-title="PELICULAS TERROR", TERRIFIER 1 (2016)
+https://server46.peliscdn.online/newhls/6b24db649f9309355bdd326d93bb3556/EP.0.0.v0.1677458894.720.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.static-bluray.com/movies/covers/325024_front.jpg?t=1664666402" group-title="PELICULAS TERROR", TERRIFIER 2 (2022)
-
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/terrifier-2-2-1668848710.jpg" group-title="PELICULAS TERROR", TERRIFIER 2 (2022)
+https://server42.peliscdn.online/newhls/6b276db56b9aaffb458b9c6de045b796/EP.0.1.v14.1675964104.720.m3u8
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xEIz5tV4sW8/UmamLowdVzI/AAAAAAAAAE8/vW0g2Y90Q_U/s1600/Chucky.jpg" group-title="PELICULAS TERROR", CHUCKY EL MUÑECO DIABOLICO (1988)
 https://server45.peliscdn.online/newhls/a40d3a58400fd447b75a033570d05762/EP.0.1.v2.1678740092.720.m3u8
@@ -4145,10 +4148,6 @@ https://server47.peliscdn.online/newhls/b0586f736f1b3e8441b12f68365622b0/EP.0.1.
 
 #EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman: El amanecer de la Justicia (2016)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" group-title="⚡ SAGAS",Batman vs Superman: El amanecer de la Justicia (2016).
 
-#EXTINF:-1 tvg-id="" tvg-name="La muerte de Superman - Parte 2: el reinado de los superhombres (2019)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vkpysKRxELppiBohAlVeruvsCoP.jpg" group-title="⚡ SAGAS",La muerte de Superman - Parte 2: el reinado de los superhombres (2019).
-
-#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="⚡ SAGAS",Cazafantasmas (2016).
-
 #EXTINF:-1 tvg-id="" tvg-name="Los cazafantasmas II (1989)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="⚡ SAGAS",Los cazafantasmas II (1989).
 
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla (1998)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnxbuFGnyFUmIuZhMgv1Ls8IWUv.jpg" group-title="⚡ SAGAS",Godzilla (1998).
@@ -4167,14 +4166,16 @@ https://server16.peliscdn.online/newhls/b601c30bfb8b235cc8a457053b531d60/EP.0.1.
 
 #EXTINF:-1 tvg-id="" tvg-name="Resident Evil 4: Ultratumba (2010)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20Lc7ZCcbVuDCbBBmtB2Ul0o90.jpg" group-title="⚡ SAGAS",Resident Evil 4: Ultratumba (2010).
 
-#EXTINF:-1 tvg-id="" tvg-name="John Rambo (2008). " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9DEHlztqhZL7cWn4D6c5EdP3AI.jpg" group-title="⚡ SAGAS",John Rambo (2008). 
-
+#EXTINF:-1 tvg-id="" tvg-name="John Rambo (2008). " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9DEHlztqhZL7cWn4D6c5EdP3AI.jpg" group-title="⚡ SAGAS",John Rambo I (2008). 
+https://server18.peliscdn.online/newhls/d38c0a6bffc59e7f565fc08529b2b649/EP.0.1.v0.1677378066.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rambo: Acorralado Parte II (1985)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TuW7rwhdVPrm3qBsBGnn747Uar.jpg" group-title="⚡ SAGAS",Rambo: Acorralado Parte II (1985).
-
+https://server47.peliscdn.online/newhls/c402dafe8cc9704c012006f34bc3e26d/EP.0.1.v0.1678032355.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rambo III (1988)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg" group-title="⚡ SAGAS",Rambo III (1988).
-
+https://server41.peliscdn.online/newhls/5764305278f453be45802ca6cb52d41e/EP.0.1.v0.1677506938.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: IV (2008)." tvg-logo="https://pelisimg.online/cover/rambo-iv.jpg" group-title="⚡ SAGAS",Rambo: IV (2008).
+https://server02.peliscdn.online/newhls/680e9479fc6a18a0da818954287167e1/EP.0.1.v0.1677319521.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rambo: Last Blood (2019)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajfGtf3LQk7GFcWvGbpsN6ZmVqe.jpg" group-title="⚡ SAGAS",Rambo: Last Blood (2019).
-
+https://server06.peliscdn.online/newhls/a77c1047fa47487638e1e385662a3e0f/EP.0.1.v2.1677439612.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El padrino (1972)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApiEfzSkrqS4m1L5a2GwWXzIiAs.jpg" group-title="⚡ SAGAS",El padrino (1972).
 
 #EXTINF:-1 tvg-id="" tvg-name="El padrino. Parte II (1974)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbry0W5PRylSUHsYzdiY2FSJwze.jpg" group-title="⚡ SAGAS",El padrino. Parte II (1974).
@@ -4196,25 +4197,35 @@ https://server16.peliscdn.online/newhls/b601c30bfb8b235cc8a457053b531d60/EP.0.1.
 #EXTINF:-1 tvg-id="" tvg-name="Pesadilla en Elm Street: Desde dentro (2010)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjo0erw7vqzI3gGfbapCkZjxehV.jpg" group-title="⚡ SAGAS",Pesadilla en Elm Street: Desde dentro (2010).
 
 #EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQKvObSEYESsDQXFWxfe0FARIP7.jpg" group-title="⚡ SAGAS",Rocky I (1976).
-
+https://server12.peliscdn.online/newhls/4e9a6345bc81643acbedff8aa33db71a/EP.0.1.v0.1677663760.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rocky II (1979)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2WuqQ0Jbyaql1WXNFx9dr6Ldpt.jpg" group-title="⚡ SAGAS",Rocky II (1979).
-
+https://server46.peliscdn.online/newhls/34a36b1ca0d6c8406b11ad8038b10e9a/EP.0.1.v0.1677685739.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rocky III (1982)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rL7URmnAVfJIPxRSKkz2kJJhall.jpg" group-title="⚡ SAGAS",Rocky III (1982).
-
+https://server15.peliscdn.online/newhls/c0ec3c06babd4efb4252880221082d3d/EP.0.1.v0.1677373745.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rocky IV (1985)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tumJ3PVmg8tj4f6hrxT1l1mYxwo.jpg" group-title="⚡ SAGAS",Rocky IV (1985).
-
+https://server01.peliscdn.online/newhls/131bfeacf1da9dedcd459193420057fc/EP.0.1.v0.1677517808.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rocky V (1990)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevHaVxtrMTaUi8f3YjLWYSSY8A.jpg" group-title="⚡ SAGAS",Rocky V (1990).
-
+https://server21.peliscdn.online/newhls/f63bf5b71fced85b61ec6243abb4c737/EP.0.1.v0.1679691678.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa (2006)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8oN30JAimKk2LcLOusSYpGvMPgG.jpg" group-title="⚡ SAGAS",Rocky Balboa (2006).
-
+https://server43.peliscdn.online/newhls/a7b7ecac80f52d367f2e42bcde681b89/EP.0.1.v0.1677410419.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Creed. La leyenda de Rocky (2015)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" group-title="⚡ SAGAS",Creed. La leyenda de Rocky (2015).
-
+https://server17.peliscdn.online/newhls/8af748287c9d032f24ce43a99c91ab53/EP.0.1.v1.1677467526.720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Creed II: La leyenda de Rocky (2018)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t53WEu1Ck7qAMS3theMnQK2N2c.jpg" group-title="⚡ SAGAS",Creed II: La leyenda de Rocky (2018).
 
 #EXTINF:-1 tvg-id="" tvg-name="Creed III (2023)." tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="⚡ SAGAS",Creed III (2023).
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="American Pie I: Tu Primera Vez (1999)." tvg-logo="https://pelisimg.online/cover/american-pie-tu-primera-vez.jpg" group-title="⚡ SAGAS",American Pie I: Tu Primera Vez (1999).
+https://server41.peliscdn.online/newhls/e78f9071ec9d14ed24b1fd10abd12680/EP.0.1.v2.1677478215.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie II: Tu Segunda Vez Es Mejor (2001)." tvg-logo="https://pelisimg.online/cover/american-pie-2-tu-segunda-vez-es-mejor.jpg" group-title="⚡ SAGAS",American Pie II: Tu Segunda Vez Es Mejor (2001).
+https://server21.peliscdn.online/newhls/e7aaa1293297419d22979e0dcb50207a/EP.0.1.v0.1679675163.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie III: La Boda (2003)." tvg-logo="https://pelisimg.online/cover/american-pie-3-la-boda.jpg" group-title="⚡ SAGAS",American Pie III: La Boda (2003).
+https://server24.peliscdn.online/newhls/79fdb674eb51c941c638b63f0159e119/EP.0.1.v0.1677453367.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: La Milla Al Desnudo (2006)." tvg-logo="https://pelisimg.online/cover/american-pie-la-milla-al-desnudo.jpg" group-title="⚡ SAGAS",American Pie: La Milla Al Desnudo (2006).
+https://server44.peliscdn.online/newhls/1c9eb7c77c211f762079acb5ccb309ef/EP.0.1.v0.1677410458.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: La Casa Beta (2007)." tvg-logo="https://pelisimg.online/cover/american-pie-la-casa-beta.jpg" group-title="⚡ SAGAS",American Pie: La Casa Beta (2007).
+https://server41.peliscdn.online/newhls/5aeab18b4aa63583fd248ad1f283b7cd/EP.0.1.v1.1677592168.720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El Reencuentro (2012)." tvg-logo="https://pelisimg.online/cover/american-pie-el-reencuentro.jpg" group-title="⚡ SAGAS",American Pie: El Reencuentro (2012).
+https://server38.peliscdn.online/newhls/631e77438ca1805b2bfc1314bae82314/EP.0.1.v0.1677435377.720.m3u8
 
 
 
