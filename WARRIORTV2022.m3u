@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
-https://live.seo.tv.bo/live/SEO-1.m3u8
+https://seo.tv.bo/tv/SEO1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (KIDS)
-https://live.seo.tv.bo/live/SEO-2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (NOVELAS)
-https://live.seo.tv.bo/live/SEO-3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (NOVELAS)
-https://live.seo.tv.bo/live/SEO-6.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://live.seo.tv.bo/live/SEO-4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (DEPORTES)
-https://live.seo.tv.bo/live/SEO-5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 7
-https://live.seo.tv.bo/live/SEO-7.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
