@@ -159,7 +159,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO SD
-
+https://live-b.cf.dmcdn.net/sec2(HyJDCMWw08OxGn4A21dz1tkV6I-NDqo8y4-4mTJFxxaYfr3O6tlUtrmLQo8uJv2-1aRygHkCh0RLONnNQRor7h98pqUfAqA-vfctKk1kYR8)/dm/3/x8vzlqi/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO HD
 
@@ -180,7 +180,7 @@ https://tinyurl.com/2fr5y2xx
 https://5d00db0e0fcd5.streamlock.net/7034/7034/chunklist_w872851651.m3u8
 
 #EXTINF:-1 tvg-logo="https://vocesdelsurunidas.org/wp-content/uploads/2018/12/TVU-LOGO.jpg" group-title="BOLIVIA", TVU (LA PAZ)
-https://video.live.com.bo:3731/live/tvuumsalive.m3u8
+https://video.live.com.bo:3003/live/tvuumsalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cnj0xbN/channels4-profile.jpg" group-title="BOLIVIA", TVU (SANTA CRUZ)
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
@@ -195,7 +195,7 @@ https://master.tucableip.com/abyayalatv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
-http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
+https://stmvideo3.livecastv.com/aynitv/aynitv/chunklist_w1121285689.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
@@ -207,7 +207,10 @@ https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://rpn3.bozztv.com/ssh101/ssh101/gogoplay/chunks.m3u8
+https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
+https://ssh101-fl.bozztv.com/ssh101/mixboliviatvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5hd50k/99999.png" group-title="BOLIVIA", COLOR VISION 
 https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=xjebV-apRJr_opuYeko6x18PPFIMuadZQItAeIclI3KSZ8aXEHXuiObRIJnC_2Ox&dmTs=24930&dmV1st=74dc99de-fe2b-43ff-979a-6c2e14cf46b3
