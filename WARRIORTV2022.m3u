@@ -13,10 +13,10 @@ https://seo.tv.bo/tv/fTV_1FHD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://seo.tv.bo/tv/fTV4_HD.m3u8
+https://seo.tv.bo/tv/ATV4_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (DEPORTES)
-https://seo.tv.bo/tv/ftv_5sd.m3u8
+https://seo.tv.bo/tv/Atv_5sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 7
 
@@ -93,7 +93,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="BOLIVIA", FAP TV
-https://nd106.republicaservers.com/hls/c7284/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
 https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
@@ -102,7 +102,7 @@ https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8
 https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7V28Kz8/images.png" group-title="BOLIVIA", NEOTV HD 3
-https://tv1.mediacp.eu:3661/live/rlbpwxvhlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2022/03/LOGO-TDT.png" group-title="BOLIVIA", TDT HD
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2018357403.m3u8
@@ -128,6 +128,9 @@ https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
 https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w772721196.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="BOLIVIA", + CINE TV HD
+https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w223060475.m3u8
+
 #EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png" group-title="BOLIVIA", CEACOM ORURO
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
@@ -135,10 +138,14 @@ https://eu1.servers10.com:8081/ceacom/index.m3u8
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
-https://tinyurl.com/yokqyctb
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP (SD)
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 1
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA", BOLIVIA TV 2
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/Bolivisi%C3%B3nHD.png/revision/latest/scale-to-width-down/250?cb=20220726175333&path-prefix=es" group-title="BOLIVIA", BOLIVISION HD
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
@@ -236,8 +243,11 @@ https://video.live.com.bo:3253/live/f10hdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4TfuxB.jpeg" group-title="BOLIVIA", FORTALEZA TV
 https://rpn3.bozztv.com/ssh101/ssh101/fortalezacueto/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png" group-title="BOLIVIA", CINERAMA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png" group-title="BOLIVIA", CINERAMA 1
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png" group-title="BOLIVIA", CINERAMA 2
+https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w918630864.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="BOLIVIA", ANTv (Tarija)
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
