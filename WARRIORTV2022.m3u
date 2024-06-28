@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
-https://seo.tv.bo/tv/SETV_1FHD.m3u8
+https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (YUNGAS)
 https://seo.tv.bo/tv/SETV7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (NOVELAS)
-
+https://seo.tv.bo/tv/SEOTV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (NOVELAS)
-https://seo.tv.bo/tv/SETV3.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://seo.tv.bo/tv/SETV4_HD.m3u8
+https://seo.tv.bo/tv/SEOTV4_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (DEPORTES)
-https://seo.tv.bo/tv/SEtv_5sd.m3u8
+https://seo.tv.bo/tv/SEOtv_5sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
-https://seo.tv.bo/tv/SEtv_5B.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 
@@ -193,10 +193,10 @@ https://video.live.com.bo:3003/live/tvuumsalive.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="BOLIVIA", CADENA A
-https://5e50264bd6766.streamlock.net/cadenaa/videocadenaa/chunklist_w1050051210.m3u8
+https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w1493159021.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/Abya-Yala-TV-tvtolive.com_.jpg" group-title="BOLIVIA", ABYA YALA TV
-https://master.tucableip.com/abyayalatv/playlist.m3u8
+https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="BOLIVIA", ERBOL TV
 
