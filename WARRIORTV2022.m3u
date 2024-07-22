@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (HD)
-https://seo.tv.bo/tv/SEOTV_1FHD.m3u8
+https://seo.tv.bo/tv/SEO-TV-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (YUNGAS)
-https://seo.tv.bo/tv/SETV7.m3u8
+https://seo.tv.bo/tv/SEO-TV-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (NOVELAS)
-https://seo.tv.bo/tv/SEOTV3.m3u8
+https://seo.tv.bo/tv/SEO-TV-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (NOVELAS)
 
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV (PELICULAS)
-https://seo.tv.bo/tv/SEOTV4_HD.m3u8
+https://seo.tv.bo/tv/SEO-TV-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 1 (DEPORTES)
-https://seo.tv.bo/tv/SEOtv_5sd.m3u8
+https://seo.tv.bo/tv/SEO-TV-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600015865406/9lUcoGYD_jSl8eZoRHiuhwg5pYsAmV0SWwGgOG7W2a7hgnB8T4_8J5QHX8WVkB4JL_o?v=1" group-title="BOLIVIA", SEO TV 2 (DEPORTES)
-
+https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 
@@ -31,46 +31,19 @@ https://seo.tv.bo/tv/SEOtv_5sd.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION CLASSICS FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR CLASSICS FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA COMEDIA FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", PELICULAS INFANTILES FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HORROR FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA HAPPY MADISON FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DC UNIVERSE
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA DISNEY FAMILY FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA FAMILIA FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE DREAMWORKS FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 1
-http://novared.pro:80/play/fRpl9GCyzvDSGtmDI2PWV8fsVX1x4HVCm5MEdpg4ngbDXJti4fsbxcdqsWdjzhKG/ts
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINE MARVEL 2
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA ACCION FHD
-
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA PIXAR FHD
-
 #EXTINF:-1 tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="BOLIVIA", CINEMA NAVIDAD
 
 
@@ -84,7 +57,7 @@ https://fl1001.bozztv.com/ssh101/tvlatinared/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.contactobolivia.com.bo/images/imagenes/logo-images/LogoContactoBolivia.png" group-title="BOLIVIA", CONTACTO BOLIVIA
-https://edge.streann.com/contactobolivia1/contactobolivia1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE5MC4xMjkuMTY0LjIyMSIsImV4cCI6MTcxOTM2NTQ2OCwicmlkIjoiNWI4ZWQ3NzAyY2RjMDM1MmI4ZTIxYWNiIiwia2V5Ijoia2V5MSIsImNpZCI6IjViOGYwMThlMmNkYzAzNTJiOGUyMWFlZSJ9.ptRZPqtcMLHsbe5dAQgW7-BxqWnMd6S0SwTXzTObF5Q
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8YhHQhj/images.jpg" group-title="BOLIVIA", NEOTV HD 1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -96,7 +69,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
-https://stmvideo3.livecastv.com/intv/intv/chunklist_w1572067148.m3u8
+https://stmvideo3.livecastv.com/intv/intv/chunklist_w1656314800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="BOLIVIA", GTV (Bolivia)
 https://solo.disfrutaenlared.com:1936/guadalupetv/guadalupetv/playlist.m3u8
@@ -214,16 +187,16 @@ https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+https://fl1002.bozztv.com/ssh101/gogoplaysd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC5FRmq.png" group-title="BOLIVIA", RED CCTV (480p)
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
-
+https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5hd50k/99999.png" group-title="BOLIVIA", COLOR VISION 
-https://live-b.cf.dmcdn.net/sec2(2Gr64h7ZMevwlJGtPqjGFP0B86KUtqGQRIQJMFv4B3QIP3bYI_9UUmq5vlpFsKxvoZ0SOGEsu9--DwtDfDr7p0CWD5jrqneT1TccoMi5KvQ)/dm/3/x7gy059/d/live-2.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(bjXhbpGiyz_FqmhIENX4G2cOHW_Sqr7Gc7dbc6i-6Eku54dHwGCcnawCuuVIEarNO-2-ULoL9NyP9AQyDGrgCUgkIGRcW91MnoI0rJLyoZo)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="BOLIVIA", CANELA CINEMA
 https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
