@@ -1254,7 +1254,6 @@ https://cache017.peliscdn.online/newhls/0308af5cb853d6ba0ecc35df0d27f146/EP.0.1.
 https://eb7jhj2czt.sw-cdnstreamwish.com/hls2/01/00884/g3l8auiszosu_o/master.m3u8?t=0FfiOASa7r8n1ROX_VqR7HVQrbC3_JwAG9_mdF-YOUo&s=1717620432&e=129600&f=4424510&srv=gyosvd7o4yrzfsqy&i=0.0&sp=500&p1=gyosvd7o4yrzfsqy&p2=gyosvd7o4yrzfsqy&asn=6568
 #EXTINF:-1 tvg-logo="https://www.sonyvideo.com.mx/media/packshots/url/pasajeros_digital.jpg" group-title="PELICULAS VARIOS", PASAJEROS (2016)
 https://server13.peliscdn.online/newhls/dd6b86402ef45306df6d34eb9f246d5a/EP.0.1.v0.1677536092.720.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91zK+UDTVZL._SY445_.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 1
 https://cache011.peliscdn.online/newhls/4ea4a97854c32b709ac9e780c276547d/EP.0.1.v1.1708719410.m3u8
 #EXTINF:-1 tvg-logo="https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/19077/19077_173x256.jpg" group-title="PELICULAS VARIOS", RAPIDO Y FURIOSO 2
@@ -1314,9 +1313,8 @@ https://www.udrop.com/file/Lxqf/Cy_(1989).mp4
 https://cache005.peliscdn.online/newhls/17c19c7a7043af93f232452ce865d8ed/EP.0.1.v0.1709020617.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/x7phbLV4IpiOo3P8GUoGpz9Pjw0.jpg" group-title="PELICULAS TERROR", DE NOCHE CON EL DIABLO (2023)
+https://www.udrop.com/file//M4J5/udia23.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSB0NJg/La-hu-rfana-Primer-asesinato-880267341-mmed.jpg" group-title="PELICULAS TERROR", LA HUERFANA 1 (2009)
 https://r7spjivm14.sw-cdnstreamwish.com/hls2/01/03026/bcnpgu0xxstt_,n,h,x,.urlset/master.m3u8?t=HwsW2XbIDmI_H_a51hLaiO8jl0hyQnKajQqyqW8F6Zg&s=1717623410&e=129600&f=15131437&srv=cwfuommwagyrfcg6&i=0.4&sp=500&p1=cwfuommwagyrfcg6&p2=cwfuommwagyrfcg6&asn=6568
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mSB0NJg/La-hu-rfana-Primer-asesinato-880267341-mmed.jpg" group-title="PELICULAS TERROR", LA HUERFANA 2 (2022)
