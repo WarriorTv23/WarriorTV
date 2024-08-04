@@ -24,8 +24,8 @@ https://seo.tv.bo/tv/SEO-TV-5.2.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", TELECLASICA SD
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", RUN TIME
-https://stream.ads.ottera.tv/cl/240804cqneo2hebjifov63lgs0/854x480_1355200_2_f.m3u8?i=728_2649
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="BOLIVIA", RUNTIME
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="BOLIVIA", PLANETA TV MOVIES
 
@@ -193,7 +193,7 @@ https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
@@ -202,7 +202,7 @@ https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5hd50k/99999.png" group-title="BOLIVIA", COLOR VISION 
-https://live-b.cf.dmcdn.net/sec2(LVbrb_5HjJSGf7vaoBiVEfgC6Nsn6-6aL4ySftdRF-lSD3HTAqNxNCMHhuFYGJUG97QRdzB5wvEXTGCi2tEKryxW3GCkd_uEE3MlENWxxnE)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058006d4193f70b3416d6aeefed09a44.webp" group-title="BOLIVIA", CANELA CINEMA
 https://ov.ottera.tv/channels/cnm_cn_mv/master550000.m3u8;session=cnm_cn_mv
@@ -698,7 +698,7 @@ https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/chunklist_w625195924.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fi14kFHlmlI/XzgjcIL28eI/AAAAAAAA4ZU/8aEsOJObOc8w9ghnCmLa2N_4bcmcVTLbwCK8BGAsYHg/s0/2020-08-15.jpg" group-title="MUSICA", MELODY CHANNEL
-https://canal.mediaserver.com.co/live/MelodyChannel.m3u8?hls_ctx=zvi4ax2g
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-B53G138sG3s/Xzgjjsh5viI/AAAAAAAA4ZY/4vy018w8PMQffGyePubDIScUjyD7UeamwCK8BGAsYHg/s0/2020-08-15.png" group-title="MUSICA", AMORDISCOS TV 
 
@@ -754,7 +754,7 @@ https://ventdelnord.tv:8080/mola/directe.m3u8
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w2117318361.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d48ad13c1fa2244fa089aed5e44e8fcd.webp" group-title="MUSICA", FLOW CARIBEÑO
-https://stream.ads.ottera.tv/cl/240625cptk54ipmmnmj57o8t3g/854x480_550000_3_f.m3u8?i=475_1083
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1235f95edc1538206e1ca47de34c5608.webp" group-title="MUSICA", OXIGENO
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w486705300.m3u8
@@ -770,7 +770,7 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w738075556.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8686a630362f5b20fb1b670a9cfd8559.webp" group-title="MUSICA", MELODY CHANNEL
-https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="MUSICA", M2O TV
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
