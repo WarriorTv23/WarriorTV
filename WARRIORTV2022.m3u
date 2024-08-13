@@ -193,7 +193,7 @@ https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-
+https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
@@ -230,6 +230,9 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png" group-title="BOLIVIA", CINERAMA 2
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w918630864.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png" group-title="BOLIVIA", CINERAMA 3
+https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w328439672.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="BOLIVIA", ANTv (Tarija)
 http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
