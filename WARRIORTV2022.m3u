@@ -105,10 +105,10 @@ https://video.live.com.bo:3999/live/megavisionlive.m3u8
 https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="BOLIVIA", TELE ESTRELLA 
-https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/chunklist_w772721196.m3u8
+https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p3B7tSd/bolivia-hd-04.jpg" group-title="BOLIVIA", + CINE TV HD
-https://stmv5.voxtvhd.com.br/247tv/247tv/chunklist_w223060475.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png" group-title="BOLIVIA", CEACOM ORURO
 https://eu1.servers10.com:8081/ceacom/index.m3u8
@@ -187,13 +187,13 @@ https://stmvideo3.livecastv.com/aynitv/aynitv/chunklist_w1121285689.m3u8
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/177yQb3/logo-rtve-foo.png" group-title="BOLIVIA",Canal 50 RTVE PUNATA
-https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="BOLIVIA",CORAL TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://beta2.energeek.cl/wp-content/uploads/2023/03/LOGO-GOGOPLAY-WEB-1.png" group-title="BOLIVIA", GOGO PLAY BO
-https://fl1002.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygQsNvc/aaaa.jpg" group-title="BOLIVIA", MIX BOLIVIA TV
 https://fl1002.bozztv.com/ssh101/mixboliviatvhd/tracks-v1a1/mono.m3u8
@@ -220,7 +220,7 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w824719299.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cd1.eju.tv/wp-content/uploads/2021/07/img_60dde7e8d5c6c.png" group-title="BOLIVIA", F10
-
+https://video.live.com.bo:3099/live/f10hdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4TfuxB.jpeg" group-title="BOLIVIA", FORTALEZA TV
 
@@ -256,7 +256,7 @@ https://master.tucableip.com/dtvsc/playlist.m3u8
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhg1uM9.png" group-title="BOLIVIA", TV CARIGSO
-https://tv.jlsolutionpc.com:3085/live/carisgolive.m3u8
+https://live.tvcontrolcp.com:1936/8168/8168/chunklist_w1325060170.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="BOLIVIA", VTV CANAL 17
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
