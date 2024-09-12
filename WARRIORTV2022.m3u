@@ -77,7 +77,7 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="BOLIVIA", IN TV (Bolivia)
-https://stmvideo3.livecastv.com/intv/intv/chunklist_w1656314800.m3u8
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tUUuRZR.png" group-title="BOLIVIA", GTV (Bolivia)
 
@@ -94,7 +94,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/chunklist_w625337577.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ftsna92WmHs/XGlbZMPpEuI/AAAAAAAAHXQ/__JPrmk4VSYOKBG36QPXYMWhUNC_vMONwCLcBGAs/s1600/Megavisionenvivo.png" group-title="BOLIVIA", MEGAVISION HD
-https://video.live.com.bo:3999/live/megavisionlive.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1sdhJCC/AMITEL4-TV.jpg" group-title="BOLIVIA", AMITEL
 https://stv.boliviaplay.com.bo/hls/0/stream.m3u8
@@ -143,7 +143,7 @@ https://www.dailymotion.com/video/x7vsfua
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO SD LP
-https://live-c.cf.dmcdn.net/sec2(0KjVy_t7ZXY5MAzuDEXWqVY1_-6paECv75hJdcc9Bhmdu_qye8FuaeelV8UhV1oZQiuRn5Z0Zuq1uf3mAA1Vg1WEXbF80kpUTSf57pt0QRg)/dm/3/x8vzlqi/d/live-720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fTeMW7Z1vpuzhdLPyh3mlTVA-TGPJEpu3I1ICo5VtE64JBVZQEqCsKAA7RnkzWBuAZE=s200" group-title="BOLIVIA", RED UNO HD
 
@@ -181,7 +181,7 @@ https://master.tucableip.com/abyayalatv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="BOLIVIA", AYNI TV
-https://stmvideo3.livecastv.com/aynitv/aynitv/chunklist_w1121285689.m3u8
+https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA", UNIVALLE TV HD
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.m3u8
@@ -229,10 +229,10 @@ https://tv.bitstreaming.net:3234/multi_live/play_720.m3u8
 https://fl1002.bozztv.com/ssh101/centralptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3yN8d9N/SIGLO21-HD.jpg" group-title="BOLIVIA", SIGLO XXI HD
-https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/chunklist_w1009759232.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1z622f5R/1ztvhd.jpg" group-title="BOLIVIA", ZURACA TV HD
-https://stmvideo3.livecastv.com/ztv/ztv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z4TfuxB.jpeg" group-title="BOLIVIA", FORTALEZA TV
 
@@ -1270,6 +1270,8 @@ https://www.udrop.com/file/Lxqd/ejtc.mp4
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-marksman-el-protector-2-1618455723.jpg" group-title="ESTRENOS 2023", El protector (2021)
 
 
+#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/inexpertos-48861/inexpertos-48861-c.jpg" group-title="ESTRENOS 2024", Inexpertos (2024)
+https://www.udrop.com/file/MkW0/Inexpertos.mp4
 
 
 
